@@ -1,4 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
 literature/
-data/uhsclData.csv
+data/uhslc_data/*
+data/bodc_data/*
+data/psmsl_data/*
