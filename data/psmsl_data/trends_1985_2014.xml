@@ -1,0 +1,4647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+   <marker id="1">
+      <name>BREST</name>
+      <latitude>48.382850</latitude>
+      <longitude>-4.494838</longitude>
+      <country>FRANCE</country>
+      <trend>2.6090</trend>
+      <uncertainty>1.2970</uncertainty>
+      <pValue>0.0443</pValue>
+   </marker>
+   <marker id="7">
+      <name>CUXHAVEN 2</name>
+      <latitude>53.866667</latitude>
+      <longitude>8.716667</longitude>
+      <country>GERMANY</country>
+      <trend>3.5310</trend>
+      <uncertainty>1.3650</uncertainty>
+      <pValue>0.0097</pValue>
+   </marker>
+   <marker id="8">
+      <name>WISMAR 2</name>
+      <latitude>53.898889</latitude>
+      <longitude>11.458056</longitude>
+      <country>GERMANY</country>
+      <trend>1.2870</trend>
+      <uncertainty>0.7910</uncertainty>
+      <pValue>0.1037</pValue>
+   </marker>
+   <marker id="9">
+      <name>MAASSLUIS</name>
+      <latitude>51.917500</latitude>
+      <longitude>4.249722</longitude>
+      <country>NETHERLANDS</country>
+      <trend>1.3900</trend>
+      <uncertainty>1.1010</uncertainty>
+      <pValue>0.2068</pValue>
+   </marker>
+   <marker id="10">
+      <name>SAN FRANCISCO</name>
+      <latitude>37.806667</latitude>
+      <longitude>-122.465000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.8020</trend>
+      <uncertainty>1.3460</uncertainty>
+      <pValue>0.1806</pValue>
+   </marker>
+   <marker id="11">
+      <name>WARNEMUNDE 2</name>
+      <latitude>54.169722</latitude>
+      <longitude>12.103333</longitude>
+      <country>GERMANY</country>
+      <trend>1.7160</trend>
+      <uncertainty>0.8150</uncertainty>
+      <pValue>0.0352</pValue>
+   </marker>
+   <marker id="12">
+      <name>NEW YORK ( THE BATTERY)</name>
+      <latitude>40.700000</latitude>
+      <longitude>-74.013333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.8780</trend>
+      <uncertainty>0.9460</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="13">
+      <name>TRAVEMUNDE</name>
+      <latitude>53.958056</latitude>
+      <longitude>10.872222</longitude>
+      <country>GERMANY</country>
+      <trend>2.3630</trend>
+      <uncertainty>1.0770</uncertainty>
+      <pValue>0.0282</pValue>
+   </marker>
+   <marker id="14">
+      <name>HELSINKI</name>
+      <latitude>60.153633</latitude>
+      <longitude>24.956217</longitude>
+      <country>FINLAND</country>
+      <trend>-2.5780</trend>
+      <uncertainty>1.5730</uncertainty>
+      <pValue>0.1012</pValue>
+   </marker>
+   <marker id="20">
+      <name>VLISSINGEN</name>
+      <latitude>51.442222</latitude>
+      <longitude>3.596111</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.9430</trend>
+      <uncertainty>2.0490</uncertainty>
+      <pValue>0.1509</pValue>
+   </marker>
+   <marker id="22">
+      <name>HOEK VAN HOLLAND</name>
+      <latitude>51.977500</latitude>
+      <longitude>4.120000</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.3990</trend>
+      <uncertainty>0.8790</uncertainty>
+      <pValue>0.0063</pValue>
+   </marker>
+   <marker id="23">
+      <name>DEN HELDER</name>
+      <latitude>52.964444</latitude>
+      <longitude>4.745000</longitude>
+      <country>NETHERLANDS</country>
+      <trend>1.3530</trend>
+      <uncertainty>0.8900</uncertainty>
+      <pValue>0.1285</pValue>
+   </marker>
+   <marker id="24">
+      <name>DELFZIJL</name>
+      <latitude>53.326389</latitude>
+      <longitude>6.933056</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.3790</trend>
+      <uncertainty>1.1510</uncertainty>
+      <pValue>0.0387</pValue>
+   </marker>
+   <marker id="25">
+      <name>HARLINGEN</name>
+      <latitude>53.175556</latitude>
+      <longitude>5.409444</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.4690</trend>
+      <uncertainty>0.9310</uncertainty>
+      <pValue>0.0080</pValue>
+   </marker>
+   <marker id="32">
+      <name>IJMUIDEN</name>
+      <latitude>52.462222</latitude>
+      <longitude>4.554722</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.4750</trend>
+      <uncertainty>1.9170</uncertainty>
+      <pValue>0.1967</pValue>
+   </marker>
+   <marker id="33">
+      <name>OSCARSBORG</name>
+      <latitude>59.678073</latitude>
+      <longitude>10.604861</longitude>
+      <country>NORWAY</country>
+      <trend>-2.2550</trend>
+      <uncertainty>1.2150</uncertainty>
+      <pValue>0.0635</pValue>
+   </marker>
+   <marker id="41">
+      <name>POTI</name>
+      <latitude>42.166667</latitude>
+      <longitude>41.683333</longitude>
+      <country>GEORGIA</country>
+      <trend>9.2950</trend>
+      <uncertainty>1.9020</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="45">
+      <name>KABELVAG</name>
+      <latitude>68.212639</latitude>
+      <longitude>14.482149</longitude>
+      <country>NORWAY</country>
+      <trend>-1.5770</trend>
+      <uncertainty>1.5730</uncertainty>
+      <pValue>0.3161</pValue>
+   </marker>
+   <marker id="47">
+      <name>STAVANGER</name>
+      <latitude>58.974339</latitude>
+      <longitude>5.730121</longitude>
+      <country>NORWAY</country>
+      <trend>0.7990</trend>
+      <uncertainty>0.7940</uncertainty>
+      <pValue>0.3143</pValue>
+   </marker>
+   <marker id="57">
+      <name>VAASA / VASA</name>
+      <latitude>63.081533</latitude>
+      <longitude>21.571183</longitude>
+      <country>FINLAND</country>
+      <trend>-7.0410</trend>
+      <uncertainty>1.4800</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="58">
+      <name>BERGEN</name>
+      <latitude>60.398046</latitude>
+      <longitude>5.320487</longitude>
+      <country>NORWAY</country>
+      <trend>0.8650</trend>
+      <uncertainty>1.1520</uncertainty>
+      <pValue>0.4527</pValue>
+   </marker>
+   <marker id="61">
+      <name>MARSEILLE</name>
+      <latitude>43.278801</latitude>
+      <longitude>5.353860</longitude>
+      <country>FRANCE</country>
+      <trend>4.1900</trend>
+      <uncertainty>0.9860</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="62">
+      <name>OSLO</name>
+      <latitude>59.908559</latitude>
+      <longitude>10.734510</longitude>
+      <country>NORWAY</country>
+      <trend>-1.6170</trend>
+      <uncertainty>2.0460</uncertainty>
+      <pValue>0.4293</pValue>
+   </marker>
+   <marker id="68">
+      <name>LANDSORT</name>
+      <latitude>58.742222</latitude>
+      <longitude>17.865278</longitude>
+      <country>SWEDEN</country>
+      <trend>-3.4710</trend>
+      <uncertainty>2.2070</uncertainty>
+      <pValue>0.1158</pValue>
+   </marker>
+   <marker id="69">
+      <name>OLANDS NORRA UDDE</name>
+      <latitude>57.366111</latitude>
+      <longitude>17.097222</longitude>
+      <country>SWEDEN</country>
+      <trend>-1.7000</trend>
+      <uncertainty>1.2550</uncertainty>
+      <pValue>0.1756</pValue>
+   </marker>
+   <marker id="70">
+      <name>KUNGSHOLMSFORT</name>
+      <latitude>56.105278</latitude>
+      <longitude>15.589444</longitude>
+      <country>SWEDEN</country>
+      <trend>-0.2520</trend>
+      <uncertainty>1.0720</uncertainty>
+      <pValue>0.8142</pValue>
+   </marker>
+   <marker id="71">
+      <name>HANKO / HANGO</name>
+      <latitude>59.822867</latitude>
+      <longitude>22.976583</longitude>
+      <country>FINLAND</country>
+      <trend>-3.8510</trend>
+      <uncertainty>1.4800</uncertainty>
+      <pValue>0.0093</pValue>
+   </marker>
+   <marker id="76">
+      <name>AARHUS</name>
+      <latitude>56.147222</latitude>
+      <longitude>10.223889</longitude>
+      <country>DENMARK</country>
+      <trend>2.6270</trend>
+      <uncertainty>0.8390</uncertainty>
+      <pValue>0.0017</pValue>
+   </marker>
+   <marker id="78">
+      <name>STOCKHOLM</name>
+      <latitude>59.324167</latitude>
+      <longitude>18.081667</longitude>
+      <country>SWEDEN</country>
+      <trend>-3.6240</trend>
+      <uncertainty>1.3350</uncertainty>
+      <pValue>0.0066</pValue>
+   </marker>
+   <marker id="79">
+      <name>OULU / ULEABORG</name>
+      <latitude>65.040317</latitude>
+      <longitude>25.418233</longitude>
+      <country>FINLAND</country>
+      <trend>-6.2160</trend>
+      <uncertainty>1.7050</uncertainty>
+      <pValue>0.0003</pValue>
+   </marker>
+   <marker id="80">
+      <name>ESBJERG</name>
+      <latitude>55.460833</latitude>
+      <longitude>8.441111</longitude>
+      <country>DENMARK</country>
+      <trend>2.6770</trend>
+      <uncertainty>1.2860</uncertainty>
+      <pValue>0.0374</pValue>
+   </marker>
+   <marker id="81">
+      <name>FREDERICIA</name>
+      <latitude>55.560833</latitude>
+      <longitude>9.754444</longitude>
+      <country>DENMARK</country>
+      <trend>2.0080</trend>
+      <uncertainty>0.7090</uncertainty>
+      <pValue>0.0046</pValue>
+   </marker>
+   <marker id="82">
+      <name>KOBENHAVN</name>
+      <latitude>55.705000</latitude>
+      <longitude>12.600000</longitude>
+      <country>DENMARK</country>
+      <trend>1.8110</trend>
+      <uncertainty>1.0210</uncertainty>
+      <pValue>0.0761</pValue>
+   </marker>
+   <marker id="88">
+      <name>RATAN</name>
+      <latitude>63.986111</latitude>
+      <longitude>20.895000</longitude>
+      <country>SWEDEN</country>
+      <trend>-8.2090</trend>
+      <uncertainty>1.5680</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="89">
+      <name>HIRTSHALS</name>
+      <latitude>57.595556</latitude>
+      <longitude>9.963889</longitude>
+      <country>DENMARK</country>
+      <trend>-0.2090</trend>
+      <uncertainty>1.0970</uncertainty>
+      <pValue>0.8489</pValue>
+   </marker>
+   <marker id="91">
+      <name>FREDERIKSHAVN</name>
+      <latitude>57.436389</latitude>
+      <longitude>10.548889</longitude>
+      <country>DENMARK</country>
+      <trend>-0.9830</trend>
+      <uncertainty>0.9500</uncertainty>
+      <pValue>0.3008</pValue>
+   </marker>
+   <marker id="95">
+      <name>NORTH SHIELDS</name>
+      <latitude>55.007444</latitude>
+      <longitude>-1.439778</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>2.5510</trend>
+      <uncertainty>0.9110</uncertainty>
+      <pValue>0.0051</pValue>
+   </marker>
+   <marker id="96">
+      <name>HALIFAX</name>
+      <latitude>44.666667</latitude>
+      <longitude>-63.583333</longitude>
+      <country>CANADA</country>
+      <trend>3.8590</trend>
+      <uncertainty>0.8940</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="98">
+      <name>SLIPSHAVN</name>
+      <latitude>55.288333</latitude>
+      <longitude>10.827778</longitude>
+      <country>DENMARK</country>
+      <trend>2.1430</trend>
+      <uncertainty>0.7970</uncertainty>
+      <pValue>0.0072</pValue>
+   </marker>
+   <marker id="111">
+      <name>FREMANTLE</name>
+      <latitude>-32.065556</latitude>
+      <longitude>115.748139</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.8220</trend>
+      <uncertainty>1.4590</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="112">
+      <name>FERNANDINA BEACH</name>
+      <latitude>30.671667</latitude>
+      <longitude>-81.465000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.6800</trend>
+      <uncertainty>0.7020</uncertainty>
+      <pValue>0.0167</pValue>
+   </marker>
+   <marker id="113">
+      <name>KORSOR</name>
+      <latitude>55.332222</latitude>
+      <longitude>11.142222</longitude>
+      <country>DENMARK</country>
+      <trend>1.9170</trend>
+      <uncertainty>0.8490</uncertainty>
+      <pValue>0.0239</pValue>
+   </marker>
+   <marker id="118">
+      <name>KLAIPEDA</name>
+      <latitude>55.700000</latitude>
+      <longitude>21.133333</longitude>
+      <country>LITHUANIA</country>
+      <trend>3.4960</trend>
+      <uncertainty>1.9810</uncertainty>
+      <pValue>0.0776</pValue>
+   </marker>
+   <marker id="119">
+      <name>HORNBAEK</name>
+      <latitude>56.091111</latitude>
+      <longitude>12.458333</longitude>
+      <country>DENMARK</country>
+      <trend>2.6730</trend>
+      <uncertainty>1.2350</uncertainty>
+      <pValue>0.0304</pValue>
+   </marker>
+   <marker id="120">
+      <name>GEDSER</name>
+      <latitude>54.572778</latitude>
+      <longitude>11.925556</longitude>
+      <country>DENMARK</country>
+      <trend>2.3890</trend>
+      <uncertainty>0.8570</uncertainty>
+      <pValue>0.0053</pValue>
+   </marker>
+   <marker id="126">
+      <name>TROIS-RIVIERES</name>
+      <latitude>46.333333</latitude>
+      <longitude>-72.550000</longitude>
+      <country>CANADA</country>
+      <trend>-7.0390</trend>
+      <uncertainty>8.7290</uncertainty>
+      <pValue>0.4200</pValue>
+   </marker>
+   <marker id="127">
+      <name>SEATTLE</name>
+      <latitude>47.601667</latitude>
+      <longitude>-122.338333</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.2350</trend>
+      <uncertainty>0.8910</uncertainty>
+      <pValue>0.0121</pValue>
+   </marker>
+   <marker id="130">
+      <name>ABURATSUBO</name>
+      <latitude>35.160278</latitude>
+      <longitude>139.615278</longitude>
+      <country>JAPAN</country>
+      <trend>5.7100</trend>
+      <uncertainty>0.8330</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="131">
+      <name>AYUKAWA</name>
+      <latitude>38.296667</latitude>
+      <longitude>141.505278</longitude>
+      <country>JAPAN</country>
+      <trend>7.1800</trend>
+      <uncertainty>0.8380</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="132">
+      <name>WAJIMA</name>
+      <latitude>37.405833</latitude>
+      <longitude>136.900278</longitude>
+      <country>JAPAN</country>
+      <trend>2.9300</trend>
+      <uncertainty>1.0660</uncertainty>
+      <pValue>0.0060</pValue>
+   </marker>
+   <marker id="133">
+      <name>HOSOJIMA</name>
+      <latitude>32.428611</latitude>
+      <longitude>131.669444</longitude>
+      <country>JAPAN</country>
+      <trend>2.4020</trend>
+      <uncertainty>1.3100</uncertainty>
+      <pValue>0.0667</pValue>
+   </marker>
+   <marker id="134">
+      <name>KUSHIMOTO</name>
+      <latitude>33.475833</latitude>
+      <longitude>135.773333</longitude>
+      <country>JAPAN</country>
+      <trend>7.2970</trend>
+      <uncertainty>1.4560</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="135">
+      <name>PHILADELPHIA (PIER 9N)</name>
+      <latitude>39.933333</latitude>
+      <longitude>-75.141667</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.5770</trend>
+      <uncertainty>1.2250</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="144">
+      <name>BATISCAN</name>
+      <latitude>46.500000</latitude>
+      <longitude>-72.250000</longitude>
+      <country>CANADA</country>
+      <trend>-3.6250</trend>
+      <uncertainty>6.2980</uncertainty>
+      <pValue>0.5649</pValue>
+   </marker>
+   <marker id="148">
+      <name>BALTIMORE</name>
+      <latitude>39.266667</latitude>
+      <longitude>-76.578333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.5910</trend>
+      <uncertainty>0.9340</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="154">
+      <name>TRIESTE</name>
+      <latitude>45.647361</latitude>
+      <longitude>13.758472</longitude>
+      <country>ITALY</country>
+      <trend>3.4410</trend>
+      <uncertainty>0.9910</uncertainty>
+      <pValue>0.0005</pValue>
+   </marker>
+   <marker id="155">
+      <name>HONOLULU</name>
+      <latitude>21.306667</latitude>
+      <longitude>-157.866667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.0530</trend>
+      <uncertainty>0.8660</uncertainty>
+      <pValue>0.2240</pValue>
+   </marker>
+   <marker id="158">
+      <name>SAN DIEGO (QUARANTINE STATION)</name>
+      <latitude>32.713333</latitude>
+      <longitude>-117.173333</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.1340</trend>
+      <uncertainty>0.7620</uncertainty>
+      <pValue>0.0051</pValue>
+   </marker>
+   <marker id="161">
+      <name>GALVESTON II, PIER 21, TX</name>
+      <latitude>29.310000</latitude>
+      <longitude>-94.793333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.9170</trend>
+      <uncertainty>1.1870</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="163">
+      <name>BALBOA</name>
+      <latitude>8.966667</latitude>
+      <longitude>-79.566667</longitude>
+      <country>PANAMA</country>
+      <trend>2.5990</trend>
+      <uncertainty>1.1030</uncertainty>
+      <pValue>0.0185</pValue>
+   </marker>
+   <marker id="165">
+      <name>TOFINO</name>
+      <latitude>49.150000</latitude>
+      <longitude>-125.916667</longitude>
+      <country>CANADA</country>
+      <trend>0.3620</trend>
+      <uncertainty>0.9420</uncertainty>
+      <pValue>0.7008</pValue>
+   </marker>
+   <marker id="166">
+      <name>VICTORIA</name>
+      <latitude>48.416667</latitude>
+      <longitude>-123.366667</longitude>
+      <country>CANADA</country>
+      <trend>1.4120</trend>
+      <uncertainty>0.9170</uncertainty>
+      <pValue>0.1236</pValue>
+   </marker>
+   <marker id="167">
+      <name>PRINCE RUPERT</name>
+      <latitude>54.316667</latitude>
+      <longitude>-130.333333</longitude>
+      <country>CANADA</country>
+      <trend>1.9720</trend>
+      <uncertainty>0.9730</uncertainty>
+      <pValue>0.0427</pValue>
+   </marker>
+   <marker id="172">
+      <name>MANTYLUOTO</name>
+      <latitude>61.594383</latitude>
+      <longitude>21.463433</longitude>
+      <country>FINLAND</country>
+      <trend>-5.1390</trend>
+      <uncertainty>1.5730</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="173">
+      <name>QUEBEC (LAUZON)</name>
+      <latitude>46.833333</latitude>
+      <longitude>-71.166667</longitude>
+      <country>CANADA</country>
+      <trend>1.2900</trend>
+      <uncertainty>1.9120</uncertainty>
+      <pValue>0.4999</pValue>
+   </marker>
+   <marker id="174">
+      <name>KO LAK</name>
+      <latitude>11.800000</latitude>
+      <longitude>99.816667</longitude>
+      <country>THAILAND</country>
+      <trend>5.3060</trend>
+      <uncertainty>2.1060</uncertainty>
+      <pValue>0.0118</pValue>
+   </marker>
+   <marker id="179">
+      <name>SMOGEN</name>
+      <latitude>58.353611</latitude>
+      <longitude>11.217778</longitude>
+      <country>SWEDEN</country>
+      <trend>0.0460</trend>
+      <uncertainty>1.0620</uncertainty>
+      <pValue>0.9655</pValue>
+   </marker>
+   <marker id="180">
+      <name>ATLANTIC CITY</name>
+      <latitude>39.355000</latitude>
+      <longitude>-74.418333</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.2880</trend>
+      <uncertainty>0.9790</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="183">
+      <name>PORTLAND  (MAINE)</name>
+      <latitude>43.656667</latitude>
+      <longitude>-70.246667</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.3420</trend>
+      <uncertainty>1.1010</uncertainty>
+      <pValue>0.0024</pValue>
+   </marker>
+   <marker id="188">
+      <name>KEY WEST</name>
+      <latitude>24.555000</latitude>
+      <longitude>-81.806667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.9540</trend>
+      <uncertainty>0.6750</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="189">
+      <name>PORT HEDLAND</name>
+      <latitude>-20.317583</latitude>
+      <longitude>118.574417</longitude>
+      <country>AUSTRALIA</country>
+      <trend>6.8880</trend>
+      <uncertainty>2.0360</uncertainty>
+      <pValue>0.0007</pValue>
+   </marker>
+   <marker id="192">
+      <name>NEUVILLE</name>
+      <latitude>46.700000</latitude>
+      <longitude>-71.566667</longitude>
+      <country>CANADA</country>
+      <trend>1.2630</trend>
+      <uncertainty>2.6160</uncertainty>
+      <pValue>0.6292</pValue>
+   </marker>
+   <marker id="193">
+      <name>POINT ATKINSON</name>
+      <latitude>49.333333</latitude>
+      <longitude>-123.250000</longitude>
+      <country>CANADA</country>
+      <trend>1.9030</trend>
+      <uncertainty>0.7780</uncertainty>
+      <pValue>0.0144</pValue>
+   </marker>
+   <marker id="194">
+      <name>PIETARSAARI  /  JAKOBSTAD</name>
+      <latitude>63.708567</latitude>
+      <longitude>22.689583</longitude>
+      <country>FINLAND</country>
+      <trend>-6.8600</trend>
+      <uncertainty>1.6720</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="195">
+      <name>SAINT JOHN, N.B.</name>
+      <latitude>45.266667</latitude>
+      <longitude>-66.066667</longitude>
+      <country>CANADA</country>
+      <trend>3.2000</trend>
+      <uncertainty>1.0570</uncertainty>
+      <pValue>0.0025</pValue>
+   </marker>
+   <marker id="196">
+      <name>SYDNEY, FORT DENISON 2</name>
+      <latitude>-33.854667</latitude>
+      <longitude>151.225778</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.6830</trend>
+      <uncertainty>0.8370</uncertainty>
+      <pValue>0.0444</pValue>
+   </marker>
+   <marker id="201">
+      <name>DESCHAILLONS</name>
+      <latitude>46.566667</latitude>
+      <longitude>-72.100000</longitude>
+      <country>CANADA</country>
+      <trend>-1.5100</trend>
+      <uncertainty>5.0440</uncertainty>
+      <pValue>0.7647</pValue>
+   </marker>
+   <marker id="202">
+      <name>NEWLYN</name>
+      <latitude>50.103000</latitude>
+      <longitude>-5.542833</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>2.9830</trend>
+      <uncertainty>0.6760</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="203">
+      <name>FURUOGRUND</name>
+      <latitude>64.915833</latitude>
+      <longitude>21.230556</longitude>
+      <country>SWEDEN</country>
+      <trend>-6.7800</trend>
+      <uncertainty>1.6590</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="215">
+      <name>TUAPSE</name>
+      <latitude>44.100000</latitude>
+      <longitude>39.066667</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>5.4750</trend>
+      <uncertainty>1.5510</uncertainty>
+      <pValue>0.0004</pValue>
+   </marker>
+   <marker id="216">
+      <name>PORT PIRIE</name>
+      <latitude>-33.177644</latitude>
+      <longitude>138.011650</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.1370</trend>
+      <uncertainty>1.8060</uncertainty>
+      <pValue>0.0044</pValue>
+   </marker>
+   <marker id="221">
+      <name>WELLINGTON HARBOUR</name>
+      <latitude>-41.284340</latitude>
+      <longitude>174.779800</longitude>
+      <country>NEW ZEALAND</country>
+      <trend>3.3810</trend>
+      <uncertainty>0.7950</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="224">
+      <name>LEWES (BREAKWATER HARBOR)</name>
+      <latitude>38.781667</latitude>
+      <longitude>-75.120000</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.3580</trend>
+      <uncertainty>1.0080</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="225">
+      <name>KETCHIKAN</name>
+      <latitude>55.331667</latitude>
+      <longitude>-131.625000</longitude>
+      <country>UNITED STATES</country>
+      <trend>-0.8180</trend>
+      <uncertainty>0.8790</uncertainty>
+      <pValue>0.3521</pValue>
+   </marker>
+   <marker id="229">
+      <name>KEMI</name>
+      <latitude>65.673367</latitude>
+      <longitude>24.515250</longitude>
+      <country>FINLAND</country>
+      <trend>-5.7410</trend>
+      <uncertainty>1.7070</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="230">
+      <name>PORT LINCOLN</name>
+      <latitude>-34.715903</latitude>
+      <longitude>135.870011</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.4430</trend>
+      <uncertainty>0.8490</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="234">
+      <name>CHARLESTON I</name>
+      <latitude>32.781667</latitude>
+      <longitude>-79.925000</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.4610</trend>
+      <uncertainty>1.0340</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="235">
+      <name>BOSTON</name>
+      <latitude>42.353333</latitude>
+      <longitude>-71.053333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.7060</trend>
+      <uncertainty>1.1170</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="236">
+      <name>WEST-TERSCHELLING</name>
+      <latitude>53.363056</latitude>
+      <longitude>5.220000</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.1240</trend>
+      <uncertainty>1.1380</uncertainty>
+      <pValue>0.0620</pValue>
+   </marker>
+   <marker id="239">
+      <name>TURKU / ABO</name>
+      <latitude>60.428283</latitude>
+      <longitude>22.100533</longitude>
+      <country>FINLAND</country>
+      <trend>-4.2390</trend>
+      <uncertainty>1.5810</uncertainty>
+      <pValue>0.0073</pValue>
+   </marker>
+   <marker id="240">
+      <name>RAAHE / BRAHESTAD</name>
+      <latitude>64.666333</latitude>
+      <longitude>24.407050</longitude>
+      <country>FINLAND</country>
+      <trend>-7.3560</trend>
+      <uncertainty>1.6750</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="245">
+      <name>LOS ANGELES</name>
+      <latitude>33.720000</latitude>
+      <longitude>-118.271667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.7100</trend>
+      <uncertainty>0.7650</uncertainty>
+      <pValue>0.0254</pValue>
+   </marker>
+   <marker id="246">
+      <name>PENSACOLA</name>
+      <latitude>30.403333</latitude>
+      <longitude>-87.210000</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.4610</trend>
+      <uncertainty>0.9510</uncertainty>
+      <pValue>0.0003</pValue>
+   </marker>
+   <marker id="248">
+      <name>JOHOR BAHRU</name>
+      <latitude>1.461667</latitude>
+      <longitude>103.791667</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.5820</trend>
+      <uncertainty>0.7080</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="249">
+      <name>FOGLO / DEGERBY</name>
+      <latitude>60.031883</latitude>
+      <longitude>20.384817</longitude>
+      <country>ÅLAND ISLANDS</country>
+      <trend>-4.5160</trend>
+      <uncertainty>1.4780</uncertainty>
+      <pValue>0.0022</pValue>
+   </marker>
+   <marker id="256">
+      <name>LA JOLLA (SCRIPPS PIER)</name>
+      <latitude>32.866667</latitude>
+      <longitude>-117.256667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.0130</trend>
+      <uncertainty>0.7560</uncertainty>
+      <pValue>0.0078</pValue>
+   </marker>
+   <marker id="265">
+      <name>ASTORIA (TONGUE POINT)</name>
+      <latitude>46.206667</latitude>
+      <longitude>-123.768333</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.6810</trend>
+      <uncertainty>1.2200</uncertainty>
+      <pValue>0.1682</pValue>
+   </marker>
+   <marker id="266">
+      <name>SEWARD</name>
+      <latitude>60.120000</latitude>
+      <longitude>-149.426667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-4.6200</trend>
+      <uncertainty>1.2300</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="285">
+      <name>KASKINEN / KASKO</name>
+      <latitude>62.343950</latitude>
+      <longitude>21.214833</longitude>
+      <country>FINLAND</country>
+      <trend>-6.4430</trend>
+      <uncertainty>1.6120</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="286">
+      <name>IMMINGHAM</name>
+      <latitude>53.630222</latitude>
+      <longitude>-0.187417</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>-1.0430</trend>
+      <uncertainty>1.0590</uncertainty>
+      <pValue>0.3247</pValue>
+   </marker>
+   <marker id="299">
+      <name>SEWELLS POINT, HAMPTON ROADS</name>
+      <latitude>36.946667</latitude>
+      <longitude>-76.330000</longitude>
+      <country>UNITED STATES</country>
+      <trend>6.6110</trend>
+      <uncertainty>0.9930</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="300">
+      <name>HILO,  HAWAII ISLAND</name>
+      <latitude>19.730000</latitude>
+      <longitude>-155.055000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.6150</trend>
+      <uncertainty>1.0530</uncertainty>
+      <pValue>0.1251</pValue>
+   </marker>
+   <marker id="302">
+      <name>TREGDE</name>
+      <latitude>58.006377</latitude>
+      <longitude>7.554759</longitude>
+      <country>NORWAY</country>
+      <trend>1.2510</trend>
+      <uncertainty>0.6640</uncertainty>
+      <pValue>0.0596</pValue>
+   </marker>
+   <marker id="310">
+      <name>YAMBA</name>
+      <latitude>-29.429712</latitude>
+      <longitude>153.361875</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.8200</trend>
+      <uncertainty>1.4280</uncertainty>
+      <pValue>0.2025</pValue>
+   </marker>
+   <marker id="311">
+      <name>ANNAPOLIS (NAVAL ACADEMY)</name>
+      <latitude>38.983333</latitude>
+      <longitude>-76.480000</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.0290</trend>
+      <uncertainty>0.8950</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="312">
+      <name>NARVIK</name>
+      <latitude>68.428286</latitude>
+      <longitude>17.425759</longitude>
+      <country>NORWAY</country>
+      <trend>-1.9550</trend>
+      <uncertainty>1.3220</uncertainty>
+      <pValue>0.1392</pValue>
+   </marker>
+   <marker id="313">
+      <name>HEIMSJO</name>
+      <latitude>63.425224</latitude>
+      <longitude>9.101504</longitude>
+      <country>NORWAY</country>
+      <trend>-0.5720</trend>
+      <uncertainty>1.0790</uncertainty>
+      <pValue>0.5960</pValue>
+   </marker>
+   <marker id="314">
+      <name>STORNOWAY</name>
+      <latitude>58.207806</latitude>
+      <longitude>-6.388972</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>2.7340</trend>
+      <uncertainty>0.8530</uncertainty>
+      <pValue>0.0013</pValue>
+   </marker>
+   <marker id="315">
+      <name>HAMINA</name>
+      <latitude>60.562767</latitude>
+      <longitude>27.179200</longitude>
+      <country>FINLAND</country>
+      <trend>-1.6330</trend>
+      <uncertainty>1.8090</uncertainty>
+      <pValue>0.3667</pValue>
+   </marker>
+   <marker id="330">
+      <name>KLAGSHAMN</name>
+      <latitude>55.522222</latitude>
+      <longitude>12.893611</longitude>
+      <country>SWEDEN</country>
+      <trend>0.1100</trend>
+      <uncertainty>0.9970</uncertainty>
+      <pValue>0.9121</pValue>
+   </marker>
+   <marker id="332">
+      <name>EASTPORT</name>
+      <latitude>44.903333</latitude>
+      <longitude>-66.981667</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.2610</trend>
+      <uncertainty>1.0980</uncertainty>
+      <pValue>0.0030</pValue>
+   </marker>
+   <marker id="351">
+      <name>NEWPORT</name>
+      <latitude>41.505000</latitude>
+      <longitude>-71.326667</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.1700</trend>
+      <uncertainty>0.7920</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="352">
+      <name>SPLIT - GRADSKA LUKA</name>
+      <latitude>43.506700</latitude>
+      <longitude>16.441700</longitude>
+      <country>CROATIA</country>
+      <trend>3.4310</trend>
+      <uncertainty>1.2590</uncertainty>
+      <pValue>0.0064</pValue>
+   </marker>
+   <marker id="353">
+      <name>BAKAR</name>
+      <latitude>45.300000</latitude>
+      <longitude>14.533333</longitude>
+      <country>CROATIA</country>
+      <trend>3.2420</trend>
+      <uncertainty>1.0580</uncertainty>
+      <pValue>0.0022</pValue>
+   </marker>
+   <marker id="360">
+      <name>WASHINGTON DC</name>
+      <latitude>38.873333</latitude>
+      <longitude>-77.021667</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.6960</trend>
+      <uncertainty>1.0620</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="361">
+      <name>ABERDEEN I</name>
+      <latitude>57.144056</latitude>
+      <longitude>-2.077361</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>1.4290</trend>
+      <uncertainty>0.9160</uncertainty>
+      <pValue>0.1187</pValue>
+   </marker>
+   <marker id="366">
+      <name>SANDY HOOK</name>
+      <latitude>40.466667</latitude>
+      <longitude>-74.008333</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.9860</trend>
+      <uncertainty>0.8880</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="367">
+      <name>WOODS HOLE (OCEAN. INST.)</name>
+      <latitude>41.523333</latitude>
+      <longitude>-70.671667</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.6110</trend>
+      <uncertainty>0.8840</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="368">
+      <name>ST. GEORGES / ESSO PIER (BERMUDA)</name>
+      <latitude>32.373333</latitude>
+      <longitude>-64.703333</longitude>
+      <country>BERMUDA</country>
+      <trend>2.2060</trend>
+      <uncertainty>1.2300</uncertainty>
+      <pValue>0.0729</pValue>
+   </marker>
+   <marker id="373">
+      <name>THESSALONIKI</name>
+      <latitude>40.632542</latitude>
+      <longitude>22.934933</longitude>
+      <country>GREECE</country>
+      <trend>6.3930</trend>
+      <uncertainty>1.2090</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="376">
+      <name>RAUMA / RAUMO</name>
+      <latitude>61.133533</latitude>
+      <longitude>21.425817</longitude>
+      <country>FINLAND</country>
+      <trend>-5.0660</trend>
+      <uncertainty>1.5870</uncertainty>
+      <pValue>0.0014</pValue>
+   </marker>
+   <marker id="377">
+      <name>SANTA MONICA (MUNICIPAL PIER)</name>
+      <latitude>34.008333</latitude>
+      <longitude>-118.500000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.8730</trend>
+      <uncertainty>0.8460</uncertainty>
+      <pValue>0.0268</pValue>
+   </marker>
+   <marker id="378">
+      <name>CRESCENT CITY</name>
+      <latitude>41.745000</latitude>
+      <longitude>-124.181667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-0.9390</trend>
+      <uncertainty>0.8700</uncertainty>
+      <pValue>0.2804</pValue>
+   </marker>
+   <marker id="384">
+      <name>FRIDAY HARBOR (OCEAN. LABS.)</name>
+      <latitude>48.546667</latitude>
+      <longitude>-123.010000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.8500</trend>
+      <uncertainty>0.8250</uncertainty>
+      <pValue>0.0249</pValue>
+   </marker>
+   <marker id="385">
+      <name>NEAH BAY</name>
+      <latitude>48.366667</latitude>
+      <longitude>-124.611667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-1.4410</trend>
+      <uncertainty>0.9080</uncertainty>
+      <pValue>0.1125</pValue>
+   </marker>
+   <marker id="386">
+      <name>THEVENARD</name>
+      <latitude>-32.148944</latitude>
+      <longitude>133.641333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.4740</trend>
+      <uncertainty>1.4480</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="392">
+      <name>PORT AUX BASQUES</name>
+      <latitude>47.566667</latitude>
+      <longitude>-59.133333</longitude>
+      <country>CANADA</country>
+      <trend>3.4910</trend>
+      <uncertainty>0.9420</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="393">
+      <name>ST. JOHN'S, NFLD.</name>
+      <latitude>47.566667</latitude>
+      <longitude>-52.716667</longitude>
+      <country>CANADA</country>
+      <trend>2.0230</trend>
+      <uncertainty>0.9190</uncertainty>
+      <pValue>0.0277</pValue>
+   </marker>
+   <marker id="394">
+      <name>CEBU</name>
+      <latitude>10.300000</latitude>
+      <longitude>123.916667</longitude>
+      <country>PHILIPPINES</country>
+      <trend>4.0120</trend>
+      <uncertainty>1.5320</uncertainty>
+      <pValue>0.0088</pValue>
+   </marker>
+   <marker id="395">
+      <name>FORT PULASKI</name>
+      <latitude>32.033333</latitude>
+      <longitude>-80.901667</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.5660</trend>
+      <uncertainty>0.6280</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="396">
+      <name>WILMINGTON</name>
+      <latitude>34.226667</latitude>
+      <longitude>-77.953333</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.6320</trend>
+      <uncertainty>0.9740</uncertainty>
+      <pValue>0.0069</pValue>
+   </marker>
+   <marker id="397">
+      <name>SASSNITZ</name>
+      <latitude>54.510833</latitude>
+      <longitude>13.643056</longitude>
+      <country>GERMANY</country>
+      <trend>2.1430</trend>
+      <uncertainty>1.1300</uncertainty>
+      <pValue>0.0579</pValue>
+   </marker>
+   <marker id="405">
+      <name>JUNEAU</name>
+      <latitude>58.298333</latitude>
+      <longitude>-134.411667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-14.7550</trend>
+      <uncertainty>1.0540</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="407">
+      <name>UCHIURA</name>
+      <latitude>35.017222</latitude>
+      <longitude>138.890278</longitude>
+      <country>JAPAN</country>
+      <trend>3.1840</trend>
+      <uncertainty>1.3760</uncertainty>
+      <pValue>0.0207</pValue>
+   </marker>
+   <marker id="408">
+      <name>KHIOS</name>
+      <latitude>38.371514</latitude>
+      <longitude>26.141189</longitude>
+      <country>GREECE</country>
+      <trend>4.3780</trend>
+      <uncertainty>1.2240</uncertainty>
+      <pValue>0.0003</pValue>
+   </marker>
+   <marker id="410">
+      <name>PREVEZA</name>
+      <latitude>38.959078</latitude>
+      <longitude>20.756628</longitude>
+      <country>GREECE</country>
+      <trend>2.9690</trend>
+      <uncertainty>1.7640</uncertainty>
+      <pValue>0.0924</pValue>
+   </marker>
+   <marker id="412">
+      <name>SOLOMON'S ISLAND (BIOL. LAB.)</name>
+      <latitude>38.316667</latitude>
+      <longitude>-76.451667</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.4910</trend>
+      <uncertainty>0.8740</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="413">
+      <name>OOSTENDE</name>
+      <latitude>51.233333</latitude>
+      <longitude>2.916667</longitude>
+      <country>BELGIUM</country>
+      <trend>2.6300</trend>
+      <uncertainty>0.8440</uncertainty>
+      <pValue>0.0018</pValue>
+   </marker>
+   <marker id="425">
+      <name>ANDENES</name>
+      <latitude>69.326067</latitude>
+      <longitude>16.134848</longitude>
+      <country>NORWAY</country>
+      <trend>-1.9640</trend>
+      <uncertainty>2.1280</uncertainty>
+      <pValue>0.3560</pValue>
+   </marker>
+   <marker id="426">
+      <name>SITKA</name>
+      <latitude>57.051667</latitude>
+      <longitude>-135.341667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-2.4750</trend>
+      <uncertainty>0.8740</uncertainty>
+      <pValue>0.0046</pValue>
+   </marker>
+   <marker id="427">
+      <name>CHARLOTTETOWN</name>
+      <latitude>46.233333</latitude>
+      <longitude>-63.116667</longitude>
+      <country>CANADA</country>
+      <trend>4.1630</trend>
+      <uncertainty>0.7610</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="429">
+      <name>NEW LONDON</name>
+      <latitude>41.360000</latitude>
+      <longitude>-72.090000</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.9950</trend>
+      <uncertainty>1.0520</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="430">
+      <name>PROVIDENCE (STATE PIER)</name>
+      <latitude>41.806667</latitude>
+      <longitude>-71.400000</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.2050</trend>
+      <uncertainty>0.9330</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="431">
+      <name>MONTEVIDEO (PUNTA LOBOS)</name>
+      <latitude>-34.900000</latitude>
+      <longitude>-56.250000</longitude>
+      <country>URUGUAY</country>
+      <trend>-0.3030</trend>
+      <uncertainty>1.3810</uncertainty>
+      <pValue>0.8263</pValue>
+   </marker>
+   <marker id="432">
+      <name>DUBLIN</name>
+      <latitude>53.350000</latitude>
+      <longitude>-6.216667</longitude>
+      <country>IRELAND</country>
+      <trend>7.4000</trend>
+      <uncertainty>2.9080</uncertainty>
+      <pValue>0.0109</pValue>
+   </marker>
+   <marker id="437">
+      <name>ALAMEDA (NAVAL AIR STATION)</name>
+      <latitude>37.771667</latitude>
+      <longitude>-122.298333</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.6830</trend>
+      <uncertainty>1.0530</uncertainty>
+      <pValue>0.5166</pValue>
+   </marker>
+   <marker id="445">
+      <name>YAKUTAT</name>
+      <latitude>59.548333</latitude>
+      <longitude>-139.733333</longitude>
+      <country>UNITED STATES</country>
+      <trend>-13.7110</trend>
+      <uncertainty>2.2700</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="446">
+      <name>KO TAPHAO NOI</name>
+      <latitude>7.833333</latitude>
+      <longitude>98.433333</longitude>
+      <country>THAILAND</country>
+      <trend>5.0090</trend>
+      <uncertainty>2.9240</uncertainty>
+      <pValue>0.0867</pValue>
+   </marker>
+   <marker id="447">
+      <name>CHURCHILL</name>
+      <latitude>58.766667</latitude>
+      <longitude>-94.183333</longitude>
+      <country>CANADA</country>
+      <trend>-6.8320</trend>
+      <uncertainty>2.1260</uncertainty>
+      <pValue>0.0013</pValue>
+   </marker>
+   <marker id="448">
+      <name>PORT ADELAIDE (OUTER HARBOR)</name>
+      <latitude>-34.779761</latitude>
+      <longitude>138.480728</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.2180</trend>
+      <uncertainty>1.0350</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="453">
+      <name>LE HAVRE</name>
+      <latitude>49.481900</latitude>
+      <longitude>0.106000</longitude>
+      <country>FRANCE</country>
+      <trend>1.9930</trend>
+      <uncertainty>0.8810</uncertainty>
+      <pValue>0.0237</pValue>
+   </marker>
+   <marker id="467">
+      <name>CHERBOURG</name>
+      <latitude>49.651299</latitude>
+      <longitude>-1.635630</longitude>
+      <country>FRANCE</country>
+      <trend>1.9810</trend>
+      <uncertainty>0.6570</uncertainty>
+      <pValue>0.0026</pValue>
+   </marker>
+   <marker id="470">
+      <name>ZEEBRUGGE</name>
+      <latitude>51.350000</latitude>
+      <longitude>3.200000</longitude>
+      <country>BELGIUM</country>
+      <trend>3.5650</trend>
+      <uncertainty>0.9450</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="483">
+      <name>VIGO</name>
+      <latitude>42.238000</latitude>
+      <longitude>-8.731000</longitude>
+      <country>SPAIN</country>
+      <trend>1.5680</trend>
+      <uncertainty>0.9780</uncertainty>
+      <pValue>0.1089</pValue>
+   </marker>
+   <marker id="484">
+      <name>LA CORUNA I</name>
+      <latitude>43.368600</latitude>
+      <longitude>-8.397750</longitude>
+      <country>SPAIN</country>
+      <trend>3.0970</trend>
+      <uncertainty>1.0210</uncertainty>
+      <pValue>0.0024</pValue>
+   </marker>
+   <marker id="485">
+      <name>SANTANDER I</name>
+      <latitude>43.461300</latitude>
+      <longitude>-3.790800</longitude>
+      <country>SPAIN</country>
+      <trend>3.3320</trend>
+      <uncertainty>1.2440</uncertainty>
+      <pValue>0.0074</pValue>
+   </marker>
+   <marker id="486">
+      <name>MALOY</name>
+      <latitude>61.933776</latitude>
+      <longitude>5.113310</longitude>
+      <country>NORWAY</country>
+      <trend>1.1880</trend>
+      <uncertainty>0.8760</uncertainty>
+      <pValue>0.1750</pValue>
+   </marker>
+   <marker id="488">
+      <name>TARIFA</name>
+      <latitude>36.008600</latitude>
+      <longitude>-5.602600</longitude>
+      <country>SPAIN</country>
+      <trend>4.7720</trend>
+      <uncertainty>1.3610</uncertainty>
+      <pValue>0.0005</pValue>
+   </marker>
+   <marker id="489">
+      <name>NIEUWPOORT</name>
+      <latitude>51.150000</latitude>
+      <longitude>2.733333</longitude>
+      <country>BELGIUM</country>
+      <trend>2.4520</trend>
+      <uncertainty>1.0260</uncertainty>
+      <pValue>0.0169</pValue>
+   </marker>
+   <marker id="495">
+      <name>SKAGWAY</name>
+      <latitude>59.450000</latitude>
+      <longitude>-135.326667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-20.7850</trend>
+      <uncertainty>1.3000</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="496">
+      <name>MALAGA</name>
+      <latitude>36.712700</latitude>
+      <longitude>-4.415460</longitude>
+      <country>SPAIN</country>
+      <trend>3.6200</trend>
+      <uncertainty>1.7630</uncertainty>
+      <pValue>0.0400</pValue>
+   </marker>
+   <marker id="497">
+      <name>PORT ISABEL</name>
+      <latitude>26.060000</latitude>
+      <longitude>-97.215000</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.2150</trend>
+      <uncertainty>1.1830</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="498">
+      <name>CEUTA</name>
+      <latitude>35.892400</latitude>
+      <longitude>-5.315890</longitude>
+      <country>SPAIN</country>
+      <trend>0.6000</trend>
+      <uncertainty>0.7750</uncertainty>
+      <pValue>0.4388</pValue>
+   </marker>
+   <marker id="508">
+      <name>PORT SAN LUIS</name>
+      <latitude>35.176667</latitude>
+      <longitude>-120.760000</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.7020</trend>
+      <uncertainty>0.7740</uncertainty>
+      <pValue>0.3644</pValue>
+   </marker>
+   <marker id="509">
+      <name>ALESUND</name>
+      <latitude>62.469414</latitude>
+      <longitude>6.151946</longitude>
+      <country>NORWAY</country>
+      <trend>0.0350</trend>
+      <uncertainty>1.1070</uncertainty>
+      <pValue>0.9748</pValue>
+   </marker>
+   <marker id="510">
+      <name>ANTOFAGASTA 2</name>
+      <latitude>-23.653056</latitude>
+      <longitude>-70.404444</longitude>
+      <country>CHILE</country>
+      <trend>-0.4290</trend>
+      <uncertainty>0.9360</uncertainty>
+      <pValue>0.6467</pValue>
+   </marker>
+   <marker id="513">
+      <name>KWAJALEIN</name>
+      <latitude>8.731667</latitude>
+      <longitude>167.735000</longitude>
+      <country>MARSHALL ISLANDS</country>
+      <trend>6.0720</trend>
+      <uncertainty>1.3970</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="518">
+      <name>KUSHIRO</name>
+      <latitude>42.975556</latitude>
+      <longitude>144.371389</longitude>
+      <country>JAPAN</country>
+      <trend>8.1260</trend>
+      <uncertainty>0.9990</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="519">
+      <name>MONTAUK</name>
+      <latitude>41.048333</latitude>
+      <longitude>-71.960000</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.5410</trend>
+      <uncertainty>1.1610</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="520">
+      <name>ST. PETERSBURG</name>
+      <latitude>27.760000</latitude>
+      <longitude>-82.626667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.9940</trend>
+      <uncertainty>0.5920</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="521">
+      <name>KAHULUI HARBOR, MAUI ISLAND</name>
+      <latitude>20.895000</latitude>
+      <longitude>-156.476667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.3400</trend>
+      <uncertainty>0.8920</uncertainty>
+      <pValue>0.1330</pValue>
+   </marker>
+   <marker id="522">
+      <name>LEGASPI, ALBAY</name>
+      <latitude>13.150000</latitude>
+      <longitude>123.750000</longitude>
+      <country>PHILIPPINES</country>
+      <trend>7.2660</trend>
+      <uncertainty>1.5340</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="523">
+      <name>MIDWAY ISLAND</name>
+      <latitude>28.211667</latitude>
+      <longitude>-177.360000</longitude>
+      <country>UNITED STATES MINOR OUTLYING ISLANDS</country>
+      <trend>3.9210</trend>
+      <uncertainty>0.8060</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="524">
+      <name>VARDO</name>
+      <latitude>70.374978</latitude>
+      <longitude>31.104015</longitude>
+      <country>NORWAY</country>
+      <trend>-0.2350</trend>
+      <uncertainty>0.8480</uncertainty>
+      <pValue>0.7817</pValue>
+   </marker>
+   <marker id="525">
+      <name>BAR HARBOR, FRENCHMAN BAY, ME</name>
+      <latitude>44.391667</latitude>
+      <longitude>-68.205000</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.0290</trend>
+      <uncertainty>0.6500</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="526">
+      <name>GRAND ISLE</name>
+      <latitude>29.263333</latitude>
+      <longitude>-89.956667</longitude>
+      <country>UNITED STATES</country>
+      <trend>7.0080</trend>
+      <uncertainty>1.6250</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="538">
+      <name>ROCKPORT</name>
+      <latitude>28.021667</latitude>
+      <longitude>-97.046667</longitude>
+      <country>UNITED STATES</country>
+      <trend>7.9780</trend>
+      <uncertainty>1.6310</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="539">
+      <name>PAGO PAGO</name>
+      <latitude>-14.280000</latitude>
+      <longitude>-170.690000</longitude>
+      <country>AMERICAN SAMOA</country>
+      <trend>6.4390</trend>
+      <uncertainty>1.3860</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="540">
+      <name>APRA HARBOUR,  GUAM</name>
+      <latitude>13.438333</latitude>
+      <longitude>144.653333</longitude>
+      <country>GUAM</country>
+      <trend>7.1260</trend>
+      <uncertainty>2.1490</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="541">
+      <name>BARENTSBURG</name>
+      <latitude>78.066667</latitude>
+      <longitude>14.250000</longitude>
+      <country>SVALBARD AND JAN MAYEN</country>
+      <trend>-2.2100</trend>
+      <uncertainty>1.4290</uncertainty>
+      <pValue>0.1220</pValue>
+   </marker>
+   <marker id="543">
+      <name>DIAMOND HARBOUR</name>
+      <latitude>22.200000</latitude>
+      <longitude>88.166667</longitude>
+      <country>INDIA</country>
+      <trend>2.7480</trend>
+      <uncertainty>1.5400</uncertainty>
+      <pValue>0.0744</pValue>
+   </marker>
+   <marker id="562">
+      <name>BODO</name>
+      <latitude>67.288290</latitude>
+      <longitude>14.390813</longitude>
+      <country>NORWAY</country>
+      <trend>-0.7120</trend>
+      <uncertainty>1.8770</uncertainty>
+      <pValue>0.7044</pValue>
+   </marker>
+   <marker id="563">
+      <name>GIBARA</name>
+      <latitude>21.108333</latitude>
+      <longitude>-76.125000</longitude>
+      <country>CUBA</country>
+      <trend>1.2650</trend>
+      <uncertainty>0.7420</uncertainty>
+      <pValue>0.0882</pValue>
+   </marker>
+   <marker id="564">
+      <name>MACKAY</name>
+      <latitude>-21.100000</latitude>
+      <longitude>149.233333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.6810</trend>
+      <uncertainty>0.9800</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="566">
+      <name>CORDOVA</name>
+      <latitude>60.558333</latitude>
+      <longitude>-145.751667</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.6850</trend>
+      <uncertainty>1.8420</uncertainty>
+      <pValue>0.7100</pValue>
+   </marker>
+   <marker id="567">
+      <name>KODIAK ISLAND,  WOMENS BAY</name>
+      <latitude>57.731667</latitude>
+      <longitude>-152.511667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-9.8350</trend>
+      <uncertainty>0.7660</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="569">
+      <name>TIKSI (TIKSI BUKHTA)</name>
+      <latitude>71.583333</latitude>
+      <longitude>128.916667</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>2.8720</trend>
+      <uncertainty>1.5300</uncertainty>
+      <pValue>0.0605</pValue>
+   </marker>
+   <marker id="595">
+      <name>WAKE ISLAND</name>
+      <latitude>19.290000</latitude>
+      <longitude>166.616667</longitude>
+      <country>MARSHALL ISLANDS</country>
+      <trend>2.8830</trend>
+      <uncertainty>0.8840</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="599">
+      <name>AMDERMA</name>
+      <latitude>69.750000</latitude>
+      <longitude>61.700000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>7.1140</trend>
+      <uncertainty>2.1400</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="602">
+      <name>SANNIKOVA (SANNIKOVA PROLIV)</name>
+      <latitude>74.666667</latitude>
+      <longitude>138.900000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>2.2220</trend>
+      <uncertainty>1.8910</uncertainty>
+      <pValue>0.2400</pValue>
+   </marker>
+   <marker id="636">
+      <name>KIPTOPEKE BEACH</name>
+      <latitude>37.165000</latitude>
+      <longitude>-75.988333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.3810</trend>
+      <uncertainty>0.8750</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="637">
+      <name>TOWNSVILLE I</name>
+      <latitude>-19.250000</latitude>
+      <longitude>146.833333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.4550</trend>
+      <uncertainty>0.9830</uncertainty>
+      <pValue>0.0004</pValue>
+   </marker>
+   <marker id="638">
+      <name>REYKJAVIK</name>
+      <latitude>64.150583</latitude>
+      <longitude>-21.939889</longitude>
+      <country>ICELAND</country>
+      <trend>1.2170</trend>
+      <uncertainty>1.1470</uncertainty>
+      <pValue>0.2887</pValue>
+   </marker>
+   <marker id="640">
+      <name>DUNAI (DUNAI OSTROV)</name>
+      <latitude>73.933333</latitude>
+      <longitude>124.500000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>2.5040</trend>
+      <uncertainty>1.8980</uncertainty>
+      <pValue>0.1871</pValue>
+   </marker>
+   <marker id="641">
+      <name>KOTELNYI (KOTELNYI OSTROV)</name>
+      <latitude>76.000000</latitude>
+      <longitude>137.866667</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>6.6660</trend>
+      <uncertainty>1.7200</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="642">
+      <name>KIGILIAH</name>
+      <latitude>73.333333</latitude>
+      <longitude>139.866667</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>0.5470</trend>
+      <uncertainty>1.6930</uncertainty>
+      <pValue>0.7466</pValue>
+   </marker>
+   <marker id="680">
+      <name>TROMSO</name>
+      <latitude>69.647424</latitude>
+      <longitude>18.961323</longitude>
+      <country>NORWAY</country>
+      <trend>0.0880</trend>
+      <uncertainty>1.1480</uncertainty>
+      <pValue>0.9389</pValue>
+   </marker>
+   <marker id="681">
+      <name>HARSTAD</name>
+      <latitude>68.801261</latitude>
+      <longitude>16.548236</longitude>
+      <country>NORWAY</country>
+      <trend>-0.4490</trend>
+      <uncertainty>1.1470</uncertainty>
+      <pValue>0.6955</pValue>
+   </marker>
+   <marker id="682">
+      <name>KRISTIANSUND</name>
+      <latitude>63.113859</latitude>
+      <longitude>7.734352</longitude>
+      <country>NORWAY</country>
+      <trend>-0.0740</trend>
+      <uncertainty>1.1560</uncertainty>
+      <pValue>0.9490</pValue>
+   </marker>
+   <marker id="683">
+      <name>BURNIE</name>
+      <latitude>-41.050083</latitude>
+      <longitude>145.915000</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.5060</trend>
+      <uncertainty>0.8110</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="684">
+      <name>MURMANSK</name>
+      <latitude>68.966667</latitude>
+      <longitude>33.050000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>2.3620</trend>
+      <uncertainty>2.5140</uncertainty>
+      <pValue>0.3475</pValue>
+   </marker>
+   <marker id="685">
+      <name>SPLIT RT MARJANA</name>
+      <latitude>43.508333</latitude>
+      <longitude>16.391667</longitude>
+      <country>CROATIA</country>
+      <trend>-1.8430</trend>
+      <uncertainty>1.5930</uncertainty>
+      <pValue>0.2473</pValue>
+   </marker>
+   <marker id="701">
+      <name>KAINAN</name>
+      <latitude>34.144167</latitude>
+      <longitude>135.191389</longitude>
+      <country>JAPAN</country>
+      <trend>0.1610</trend>
+      <uncertainty>0.8900</uncertainty>
+      <pValue>0.8564</pValue>
+   </marker>
+   <marker id="703">
+      <name>HANSTHOLM</name>
+      <latitude>57.118889</latitude>
+      <longitude>8.595556</longitude>
+      <country>DENMARK</country>
+      <trend>2.6090</trend>
+      <uncertainty>1.1110</uncertainty>
+      <pValue>0.0189</pValue>
+   </marker>
+   <marker id="721">
+      <name>ASAMUSHI</name>
+      <latitude>40.897500</latitude>
+      <longitude>140.859167</longitude>
+      <country>JAPAN</country>
+      <trend>0.9070</trend>
+      <uncertainty>0.5270</uncertainty>
+      <pValue>0.0852</pValue>
+   </marker>
+   <marker id="722">
+      <name>YOKOSUKA</name>
+      <latitude>35.288056</latitude>
+      <longitude>139.651389</longitude>
+      <country>JAPAN</country>
+      <trend>5.8670</trend>
+      <uncertainty>0.7160</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="723">
+      <name>DALIAN</name>
+      <latitude>38.866667</latitude>
+      <longitude>121.683333</longitude>
+      <country>CHINA</country>
+      <trend>3.4390</trend>
+      <uncertainty>1.2450</uncertainty>
+      <pValue>0.0057</pValue>
+   </marker>
+   <marker id="724">
+      <name>SEMBAWANG</name>
+      <latitude>1.466667</latitude>
+      <longitude>103.833333</longitude>
+      <country>SINGAPORE</country>
+      <trend>3.5160</trend>
+      <uncertainty>2.5670</uncertainty>
+      <pValue>0.1708</pValue>
+   </marker>
+   <marker id="725">
+      <name>FREEPORT</name>
+      <latitude>28.948333</latitude>
+      <longitude>-95.308333</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.5300</trend>
+      <uncertainty>3.1120</uncertainty>
+      <pValue>0.2567</pValue>
+   </marker>
+   <marker id="728">
+      <name>IZVESTIA TSIK (IZVESTIA TSIK OSTROVA)</name>
+      <latitude>75.950000</latitude>
+      <longitude>82.950000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>-1.3200</trend>
+      <uncertainty>1.2060</uncertainty>
+      <pValue>0.2737</pValue>
+   </marker>
+   <marker id="729">
+      <name>GOLOMIANYI (GOLOMIANYI OSTROV)</name>
+      <latitude>79.550000</latitude>
+      <longitude>90.616667</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>-0.5660</trend>
+      <uncertainty>1.6880</uncertainty>
+      <pValue>0.7374</pValue>
+   </marker>
+   <marker id="753">
+      <name>KASHIWAZAKI</name>
+      <latitude>37.356667</latitude>
+      <longitude>138.508333</longitude>
+      <country>JAPAN</country>
+      <trend>3.7720</trend>
+      <uncertainty>1.0680</uncertainty>
+      <pValue>0.0004</pValue>
+   </marker>
+   <marker id="754">
+      <name>LOWESTOFT</name>
+      <latitude>52.473111</latitude>
+      <longitude>1.750111</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>3.4850</trend>
+      <uncertainty>0.8670</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="755">
+      <name>MILLPORT</name>
+      <latitude>55.749806</latitude>
+      <longitude>-4.906333</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>1.0520</trend>
+      <uncertainty>0.5620</uncertainty>
+      <pValue>0.0612</pValue>
+   </marker>
+   <marker id="756">
+      <name>NAWILIWILI BAY, KAUAI ISLAND</name>
+      <latitude>21.953333</latitude>
+      <longitude>-159.355000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.5270</trend>
+      <uncertainty>0.8850</uncertainty>
+      <pValue>0.0845</pValue>
+   </marker>
+   <marker id="757">
+      <name>UNALASKA</name>
+      <latitude>53.880000</latitude>
+      <longitude>-166.536667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-2.8670</trend>
+      <uncertainty>1.0150</uncertainty>
+      <pValue>0.0047</pValue>
+   </marker>
+   <marker id="758">
+      <name>HAMMERFEST</name>
+      <latitude>70.664641</latitude>
+      <longitude>23.683227</longitude>
+      <country>NORWAY</country>
+      <trend>0.4860</trend>
+      <uncertainty>1.0710</uncertainty>
+      <pValue>0.6500</pValue>
+   </marker>
+   <marker id="759">
+      <name>MAGUEYES ISLAND</name>
+      <latitude>17.970000</latitude>
+      <longitude>-67.045000</longitude>
+      <country>PUERTO RICO</country>
+      <trend>2.4330</trend>
+      <uncertainty>0.4890</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="760">
+      <name>DUBROVNIK</name>
+      <latitude>42.658300</latitude>
+      <longitude>18.063300</longitude>
+      <country>CROATIA</country>
+      <trend>3.8870</trend>
+      <uncertainty>1.1630</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="761">
+      <name>ROVINJ</name>
+      <latitude>45.083300</latitude>
+      <longitude>13.628300</longitude>
+      <country>CROATIA</country>
+      <trend>2.3190</trend>
+      <uncertainty>0.7430</uncertainty>
+      <pValue>0.0018</pValue>
+   </marker>
+   <marker id="762">
+      <name>RODBYHAVN</name>
+      <latitude>54.655833</latitude>
+      <longitude>11.348611</longitude>
+      <country>DENMARK</country>
+      <trend>1.1640</trend>
+      <uncertainty>1.7000</uncertainty>
+      <pValue>0.4935</pValue>
+   </marker>
+   <marker id="786">
+      <name>REEDY POINT</name>
+      <latitude>39.558333</latitude>
+      <longitude>-75.573333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.2460</trend>
+      <uncertainty>0.7410</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="789">
+      <name>KIEL-HOLTENAU</name>
+      <latitude>54.372222</latitude>
+      <longitude>10.156944</longitude>
+      <country>GERMANY</country>
+      <trend>2.0420</trend>
+      <uncertainty>0.9510</uncertainty>
+      <pValue>0.0318</pValue>
+   </marker>
+   <marker id="808">
+      <name>SHIMIZU-MINATO</name>
+      <latitude>35.011667</latitude>
+      <longitude>138.517500</longitude>
+      <country>JAPAN</country>
+      <trend>7.6160</trend>
+      <uncertainty>1.0790</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="809">
+      <name>KOMATSUSHIMA</name>
+      <latitude>34.009167</latitude>
+      <longitude>134.587778</longitude>
+      <country>JAPAN</country>
+      <trend>3.5950</trend>
+      <uncertainty>0.9630</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="810">
+      <name>MISUMI</name>
+      <latitude>32.623056</latitude>
+      <longitude>130.451389</longitude>
+      <country>JAPAN</country>
+      <trend>5.0600</trend>
+      <uncertainty>1.0740</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="811">
+      <name>SAKAI</name>
+      <latitude>35.547778</latitude>
+      <longitude>133.243056</longitude>
+      <country>JAPAN</country>
+      <trend>5.3850</trend>
+      <uncertainty>1.1340</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="812">
+      <name>UNO</name>
+      <latitude>34.488611</latitude>
+      <longitude>133.949444</longitude>
+      <country>JAPAN</country>
+      <trend>4.9210</trend>
+      <uncertainty>1.1010</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="813">
+      <name>HAKODATE I</name>
+      <latitude>41.781667</latitude>
+      <longitude>140.724722</longitude>
+      <country>JAPAN</country>
+      <trend>-1.8690</trend>
+      <uncertainty>0.7880</uncertainty>
+      <pValue>0.0177</pValue>
+   </marker>
+   <marker id="814">
+      <name>ABURATSU</name>
+      <latitude>31.576944</latitude>
+      <longitude>131.409444</longitude>
+      <country>JAPAN</country>
+      <trend>4.3010</trend>
+      <uncertainty>1.0160</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="815">
+      <name>TOSA SHIMIZU</name>
+      <latitude>32.779167</latitude>
+      <longitude>132.958889</longitude>
+      <country>JAPAN</country>
+      <trend>4.7480</trend>
+      <uncertainty>1.2480</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="816">
+      <name>WAKAYAMA</name>
+      <latitude>34.221667</latitude>
+      <longitude>135.145556</longitude>
+      <country>JAPAN</country>
+      <trend>0.7130</trend>
+      <uncertainty>1.0330</uncertainty>
+      <pValue>0.4901</pValue>
+   </marker>
+   <marker id="817">
+      <name>TAN-NOWA</name>
+      <latitude>34.338889</latitude>
+      <longitude>135.178056</longitude>
+      <country>JAPAN</country>
+      <trend>3.7760</trend>
+      <uncertainty>0.9730</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="819">
+      <name>MAR DEL PLATA (NAVAL BASE)</name>
+      <latitude>-38.033333</latitude>
+      <longitude>-57.516667</longitude>
+      <country>ARGENTINA</country>
+      <trend>2.4990</trend>
+      <uncertainty>0.9990</uncertainty>
+      <pValue>0.0124</pValue>
+   </marker>
+   <marker id="822">
+      <name>BRISBANE (WEST INNER BAR)</name>
+      <latitude>-27.366667</latitude>
+      <longitude>153.166667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.5760</trend>
+      <uncertainty>1.6960</uncertainty>
+      <pValue>0.0350</pValue>
+   </marker>
+   <marker id="823">
+      <name>MOKUOLOE ISLAND</name>
+      <latitude>21.431667</latitude>
+      <longitude>-157.790000</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.3330</trend>
+      <uncertainty>0.7890</uncertainty>
+      <pValue>0.0911</pValue>
+   </marker>
+   <marker id="824">
+      <name>PETROPAVLOVSK-KAMCHATSKY</name>
+      <latitude>52.983333</latitude>
+      <longitude>158.650000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>4.9260</trend>
+      <uncertainty>0.8810</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="825">
+      <name>GLADSTONE</name>
+      <latitude>-23.853833</latitude>
+      <longitude>151.313667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.8490</trend>
+      <uncertainty>0.9970</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="828">
+      <name>GALVESTON I, PLEASURE PIER, TX</name>
+      <latitude>29.285000</latitude>
+      <longitude>-94.788333</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.6430</trend>
+      <uncertainty>1.2150</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="829">
+      <name>QUEEN CHARLOTTE CITY</name>
+      <latitude>53.250000</latitude>
+      <longitude>-132.066667</longitude>
+      <country>CANADA</country>
+      <trend>1.2820</trend>
+      <uncertainty>0.8120</uncertainty>
+      <pValue>0.1144</pValue>
+   </marker>
+   <marker id="831">
+      <name>PORT KEMBLA</name>
+      <latitude>-34.473750</latitude>
+      <longitude>150.911861</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.6600</trend>
+      <uncertainty>0.7470</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="832">
+      <name>PALERMO</name>
+      <latitude>-34.566667</latitude>
+      <longitude>-58.400000</longitude>
+      <country>ARGENTINA</country>
+      <trend>0.2890</trend>
+      <uncertainty>1.1870</uncertainty>
+      <pValue>0.8076</pValue>
+   </marker>
+   <marker id="833">
+      <name>EDEN</name>
+      <latitude>-37.073660</latitude>
+      <longitude>149.907739</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.7270</trend>
+      <uncertainty>0.9840</uncertainty>
+      <pValue>0.0792</pValue>
+   </marker>
+   <marker id="834">
+      <name>BUNBURY</name>
+      <latitude>-33.323444</latitude>
+      <longitude>115.659972</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.1260</trend>
+      <uncertainty>1.4280</uncertainty>
+      <pValue>0.0039</pValue>
+   </marker>
+   <marker id="835">
+      <name>KARUMBA</name>
+      <latitude>-17.500000</latitude>
+      <longitude>140.833333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.0960</trend>
+      <uncertainty>1.8780</uncertainty>
+      <pValue>0.0067</pValue>
+   </marker>
+   <marker id="837">
+      <name>NEWCASTLE V</name>
+      <latitude>-32.924000</latitude>
+      <longitude>151.788583</longitude>
+      <country>AUSTRALIA</country>
+      <trend>2.6270</trend>
+      <uncertainty>0.9540</uncertainty>
+      <pValue>0.0059</pValue>
+   </marker>
+   <marker id="841">
+      <name>HONDAU</name>
+      <latitude>20.666667</latitude>
+      <longitude>106.800000</longitude>
+      <country>VIET NAM</country>
+      <trend>1.9120</trend>
+      <uncertainty>1.0780</uncertainty>
+      <pValue>0.0761</pValue>
+   </marker>
+   <marker id="912">
+      <name>MOZI</name>
+      <latitude>33.950000</latitude>
+      <longitude>130.966667</longitude>
+      <country>JAPAN</country>
+      <trend>3.9750</trend>
+      <uncertainty>1.0290</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="913">
+      <name>ARGENTINE ISLANDS</name>
+      <latitude>-65.246233</latitude>
+      <longitude>-64.257417</longitude>
+      <country>ANTARCTICA</country>
+      <trend>0.1870</trend>
+      <uncertainty>1.0640</uncertainty>
+      <pValue>0.8605</pValue>
+   </marker>
+   <marker id="917">
+      <name>SOPOCHNAIA KARGA</name>
+      <latitude>71.866667</latitude>
+      <longitude>82.700000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>2.2900</trend>
+      <uncertainty>1.9910</uncertainty>
+      <pValue>0.2501</pValue>
+   </marker>
+   <marker id="933">
+      <name>ZHAPO</name>
+      <latitude>21.583333</latitude>
+      <longitude>111.816667</longitude>
+      <country>CHINA</country>
+      <trend>2.7810</trend>
+      <uncertainty>0.8410</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="934">
+      <name>KANMEN</name>
+      <latitude>28.083333</latitude>
+      <longitude>121.283333</longitude>
+      <country>CHINA</country>
+      <trend>3.4040</trend>
+      <uncertainty>0.6950</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="935">
+      <name>DARWIN</name>
+      <latitude>-12.471778</latitude>
+      <longitude>130.845861</longitude>
+      <country>AUSTRALIA</country>
+      <trend>7.7990</trend>
+      <uncertainty>2.3580</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="951">
+      <name>PORTNEUF</name>
+      <latitude>46.683333</latitude>
+      <longitude>-71.883333</longitude>
+      <country>CANADA</country>
+      <trend>0.7800</trend>
+      <uncertainty>3.9510</uncertainty>
+      <pValue>0.8435</pValue>
+   </marker>
+   <marker id="952">
+      <name>SIBAURA</name>
+      <latitude>35.633333</latitude>
+      <longitude>139.750000</longitude>
+      <country>JAPAN</country>
+      <trend>3.0850</trend>
+      <uncertainty>0.9430</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="954">
+      <name>MOKPO</name>
+      <latitude>34.779722</latitude>
+      <longitude>126.375556</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>5.4860</trend>
+      <uncertainty>1.3700</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="955">
+      <name>BUSAN</name>
+      <latitude>35.096111</latitude>
+      <longitude>129.035556</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>2.4970</trend>
+      <uncertainty>0.7930</uncertainty>
+      <pValue>0.0016</pValue>
+   </marker>
+   <marker id="956">
+      <name>INCHEON</name>
+      <latitude>37.451944</latitude>
+      <longitude>126.592222</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>4.0660</trend>
+      <uncertainty>1.6970</uncertainty>
+      <pValue>0.0166</pValue>
+   </marker>
+   <marker id="957">
+      <name>ALBANY</name>
+      <latitude>-35.033722</latitude>
+      <longitude>117.892556</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.6180</trend>
+      <uncertainty>1.6140</uncertainty>
+      <pValue>0.0042</pValue>
+   </marker>
+   <marker id="983">
+      <name>COCOS ISLAND (HOME IS.)</name>
+      <latitude>-12.116694</latitude>
+      <longitude>96.894417</longitude>
+      <country>COCOS (KEELING) ISLANDS</country>
+      <trend>8.4530</trend>
+      <uncertainty>1.2780</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="984">
+      <name>BELLA BELLA</name>
+      <latitude>52.166667</latitude>
+      <longitude>-128.133333</longitude>
+      <country>CANADA</country>
+      <trend>0.7690</trend>
+      <uncertainty>0.9320</uncertainty>
+      <pValue>0.4093</pValue>
+   </marker>
+   <marker id="985">
+      <name>CADIZ III</name>
+      <latitude>36.540100</latitude>
+      <longitude>-6.286200</longitude>
+      <country>SPAIN</country>
+      <trend>2.2290</trend>
+      <uncertainty>1.1620</uncertainty>
+      <pValue>0.0551</pValue>
+   </marker>
+   <marker id="997">
+      <name>ULSAN</name>
+      <latitude>35.501944</latitude>
+      <longitude>129.387222</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>1.5050</trend>
+      <uncertainty>1.2010</uncertainty>
+      <pValue>0.2102</pValue>
+   </marker>
+   <marker id="999">
+      <name>ST-FRANCOIS</name>
+      <latitude>47.000000</latitude>
+      <longitude>-70.816667</longitude>
+      <country>CANADA</country>
+      <trend>2.4080</trend>
+      <uncertainty>1.5400</uncertainty>
+      <pValue>0.1179</pValue>
+   </marker>
+   <marker id="1001">
+      <name>SAN JUAN</name>
+      <latitude>18.458333</latitude>
+      <longitude>-66.115000</longitude>
+      <country>PUERTO RICO</country>
+      <trend>2.6630</trend>
+      <uncertainty>0.6010</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1003">
+      <name>HONNGU</name>
+      <latitude>18.800000</latitude>
+      <longitude>105.766667</longitude>
+      <country>VIET NAM</country>
+      <trend>-8.8670</trend>
+      <uncertainty>2.7170</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="1027">
+      <name>OSHORO II</name>
+      <latitude>43.209444</latitude>
+      <longitude>140.858056</longitude>
+      <country>JAPAN</country>
+      <trend>0.9020</trend>
+      <uncertainty>0.4400</uncertainty>
+      <pValue>0.0404</pValue>
+   </marker>
+   <marker id="1028">
+      <name>HIROSIMA</name>
+      <latitude>34.353056</latitude>
+      <longitude>132.464722</longitude>
+      <country>JAPAN</country>
+      <trend>6.2720</trend>
+      <uncertainty>0.9310</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1031">
+      <name>GERALDTON</name>
+      <latitude>-28.775972</latitude>
+      <longitude>114.601889</longitude>
+      <country>AUSTRALIA</country>
+      <trend>9.1880</trend>
+      <uncertainty>2.7270</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1032">
+      <name>ILHA FISCAL</name>
+      <latitude>-22.896667</latitude>
+      <longitude>-43.166667</longitude>
+      <country>BRAZIL</country>
+      <trend>0.3520</trend>
+      <uncertainty>2.8270</uncertainty>
+      <pValue>0.9009</pValue>
+   </marker>
+   <marker id="1033">
+      <name>STONY POINT</name>
+      <latitude>-38.372139</latitude>
+      <longitude>145.224694</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.1040</trend>
+      <uncertainty>0.9340</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="1034">
+      <name>TAI PO KAU, TOLO HARBOUR</name>
+      <latitude>22.442500</latitude>
+      <longitude>114.183889</longitude>
+      <country>HONG KONG</country>
+      <trend>4.2870</trend>
+      <uncertainty>1.2220</uncertainty>
+      <pValue>0.0005</pValue>
+   </marker>
+   <marker id="1036">
+      <name>AMRUM (WITTDUEN)</name>
+      <latitude>54.616667</latitude>
+      <longitude>8.383333</longitude>
+      <country>GERMANY</country>
+      <trend>2.9990</trend>
+      <uncertainty>2.6680</uncertainty>
+      <pValue>0.2610</pValue>
+   </marker>
+   <marker id="1037">
+      <name>BORKUM (FISCHERBALJE)</name>
+      <latitude>53.583333</latitude>
+      <longitude>6.666667</longitude>
+      <country>GERMANY</country>
+      <trend>2.8660</trend>
+      <uncertainty>1.2650</uncertainty>
+      <pValue>0.0235</pValue>
+   </marker>
+   <marker id="1062">
+      <name>MATSUYAMA II</name>
+      <latitude>33.858889</latitude>
+      <longitude>132.712222</longitude>
+      <country>JAPAN</country>
+      <trend>1.9680</trend>
+      <uncertainty>0.8240</uncertainty>
+      <pValue>0.0169</pValue>
+   </marker>
+   <marker id="1064">
+      <name>MINAMI IZU</name>
+      <latitude>34.616667</latitude>
+      <longitude>138.883333</longitude>
+      <country>JAPAN</country>
+      <trend>4.5380</trend>
+      <uncertainty>1.3590</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1065">
+      <name>WHANGAREI HARBOUR (MARSDEN POINT)</name>
+      <latitude>-35.757430</latitude>
+      <longitude>174.350030</longitude>
+      <country>NEW ZEALAND</country>
+      <trend>2.7100</trend>
+      <uncertainty>1.0760</uncertainty>
+      <pValue>0.0118</pValue>
+   </marker>
+   <marker id="1066">
+      <name>JEJU</name>
+      <latitude>33.527500</latitude>
+      <longitude>126.543056</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>6.2890</trend>
+      <uncertainty>0.7240</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1068">
+      <name>BRIDGEPORT</name>
+      <latitude>41.173333</latitude>
+      <longitude>-73.181667</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.9610</trend>
+      <uncertainty>0.9590</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1069">
+      <name>VICTOR HARBOUR</name>
+      <latitude>-35.562481</latitude>
+      <longitude>138.635403</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.0410</trend>
+      <uncertainty>1.2460</uncertainty>
+      <pValue>0.0147</pValue>
+   </marker>
+   <marker id="1070">
+      <name>SELDOVIA</name>
+      <latitude>59.440000</latitude>
+      <longitude>-151.720000</longitude>
+      <country>UNITED STATES</country>
+      <trend>-8.8880</trend>
+      <uncertainty>1.2500</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1071">
+      <name>PORT HARDY</name>
+      <latitude>50.716667</latitude>
+      <longitude>-127.483333</longitude>
+      <country>CANADA</country>
+      <trend>0.2940</trend>
+      <uncertainty>0.9000</uncertainty>
+      <pValue>0.7439</pValue>
+   </marker>
+   <marker id="1090">
+      <name>URAGAMI</name>
+      <latitude>33.558333</latitude>
+      <longitude>135.896389</longitude>
+      <country>JAPAN</country>
+      <trend>3.7500</trend>
+      <uncertainty>1.1970</uncertainty>
+      <pValue>0.0017</pValue>
+   </marker>
+   <marker id="1091">
+      <name>OKADA</name>
+      <latitude>34.789444</latitude>
+      <longitude>139.391389</longitude>
+      <country>JAPAN</country>
+      <trend>-0.8300</trend>
+      <uncertainty>0.9550</uncertainty>
+      <pValue>0.3848</pValue>
+   </marker>
+   <marker id="1093">
+      <name>AWA SIMA</name>
+      <latitude>38.467778</latitude>
+      <longitude>139.255000</longitude>
+      <country>JAPAN</country>
+      <trend>5.2770</trend>
+      <uncertainty>0.8490</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1094">
+      <name>HAKATA</name>
+      <latitude>33.618889</latitude>
+      <longitude>130.407778</longitude>
+      <country>JAPAN</country>
+      <trend>4.0500</trend>
+      <uncertainty>0.9220</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1095">
+      <name>SAIGO</name>
+      <latitude>36.201389</latitude>
+      <longitude>133.331111</longitude>
+      <country>JAPAN</country>
+      <trend>3.7010</trend>
+      <uncertainty>0.8820</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1096">
+      <name>NISINOOMOTE</name>
+      <latitude>30.735000</latitude>
+      <longitude>130.992222</longitude>
+      <country>JAPAN</country>
+      <trend>3.3490</trend>
+      <uncertainty>0.4460</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1097">
+      <name>ODOMARI</name>
+      <latitude>31.023611</latitude>
+      <longitude>130.689167</longitude>
+      <country>JAPAN</country>
+      <trend>4.1060</trend>
+      <uncertainty>1.0930</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="1098">
+      <name>SUMOTO</name>
+      <latitude>34.340556</latitude>
+      <longitude>134.906667</longitude>
+      <country>JAPAN</country>
+      <trend>4.4460</trend>
+      <uncertainty>0.9300</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1100">
+      <name>NAGASAKI</name>
+      <latitude>32.735000</latitude>
+      <longitude>129.866111</longitude>
+      <country>JAPAN</country>
+      <trend>3.7710</trend>
+      <uncertainty>0.5690</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1101">
+      <name>FUKUE</name>
+      <latitude>32.696111</latitude>
+      <longitude>128.849444</longitude>
+      <country>JAPAN</country>
+      <trend>3.0390</trend>
+      <uncertainty>0.7910</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1102">
+      <name>OURA</name>
+      <latitude>32.976667</latitude>
+      <longitude>130.220556</longitude>
+      <country>JAPAN</country>
+      <trend>3.9390</trend>
+      <uncertainty>0.7230</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1103">
+      <name>WAKKANAI</name>
+      <latitude>45.407778</latitude>
+      <longitude>141.685278</longitude>
+      <country>JAPAN</country>
+      <trend>3.2730</trend>
+      <uncertainty>0.3600</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1104">
+      <name>ABASHIRI</name>
+      <latitude>44.019444</latitude>
+      <longitude>144.285833</longitude>
+      <country>JAPAN</country>
+      <trend>2.8730</trend>
+      <uncertainty>0.9110</uncertainty>
+      <pValue>0.0016</pValue>
+   </marker>
+   <marker id="1105">
+      <name>NAKANO SIMA</name>
+      <latitude>29.841944</latitude>
+      <longitude>129.847778</longitude>
+      <country>JAPAN</country>
+      <trend>4.1660</trend>
+      <uncertainty>0.4330</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1106">
+      <name>FORT MYERS</name>
+      <latitude>26.646667</latitude>
+      <longitude>-81.870000</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.5570</trend>
+      <uncertainty>0.7540</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1107">
+      <name>NAPLES</name>
+      <latitude>26.131667</latitude>
+      <longitude>-81.806667</longitude>
+      <country>UNITED STATES</country>
+      <trend>3.5210</trend>
+      <uncertainty>0.8530</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1108">
+      <name>MUKHO</name>
+      <latitude>37.550278</latitude>
+      <longitude>129.116389</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>2.6030</trend>
+      <uncertainty>0.9650</uncertainty>
+      <pValue>0.0070</pValue>
+   </marker>
+   <marker id="1109">
+      <name>WICK</name>
+      <latitude>58.440972</latitude>
+      <longitude>-3.086306</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>1.9400</trend>
+      <uncertainty>0.6970</uncertainty>
+      <pValue>0.0054</pValue>
+   </marker>
+   <marker id="1111">
+      <name>NANTUCKET ISLAND</name>
+      <latitude>41.285000</latitude>
+      <longitude>-70.096667</longitude>
+      <country>UNITED STATES</country>
+      <trend>4.6710</trend>
+      <uncertainty>0.8410</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1112">
+      <name>ULLAPOOL</name>
+      <latitude>57.895250</latitude>
+      <longitude>-5.157889</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>1.5100</trend>
+      <uncertainty>0.7930</uncertainty>
+      <pValue>0.0569</pValue>
+   </marker>
+   <marker id="1113">
+      <name>HELGEROA</name>
+      <latitude>58.995212</latitude>
+      <longitude>9.856379</longitude>
+      <country>NORWAY</country>
+      <trend>-0.9780</trend>
+      <uncertainty>0.9340</uncertainty>
+      <pValue>0.2950</pValue>
+   </marker>
+   <marker id="1114">
+      <name>ESPERANCE</name>
+      <latitude>-33.870889</latitude>
+      <longitude>121.895361</longitude>
+      <country>AUSTRALIA</country>
+      <trend>6.6680</trend>
+      <uncertainty>1.6720</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1115">
+      <name>CARNARVON</name>
+      <latitude>-24.898694</latitude>
+      <longitude>113.651028</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.1880</trend>
+      <uncertainty>1.9960</uncertainty>
+      <pValue>0.0093</pValue>
+   </marker>
+   <marker id="1116">
+      <name>WYNDHAM</name>
+      <latitude>-15.453278</latitude>
+      <longitude>128.101028</longitude>
+      <country>AUSTRALIA</country>
+      <trend>7.3750</trend>
+      <uncertainty>1.8790</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1146">
+      <name>OWASE</name>
+      <latitude>34.076389</latitude>
+      <longitude>136.207222</longitude>
+      <country>JAPAN</country>
+      <trend>-0.5970</trend>
+      <uncertainty>0.7280</uncertainty>
+      <pValue>0.4122</pValue>
+   </marker>
+   <marker id="1147">
+      <name>SASEBO II</name>
+      <latitude>33.158056</latitude>
+      <longitude>129.723889</longitude>
+      <country>JAPAN</country>
+      <trend>3.9090</trend>
+      <uncertainty>0.7570</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1148">
+      <name>TAJIRI</name>
+      <latitude>35.593611</latitude>
+      <longitude>134.315833</longitude>
+      <country>JAPAN</country>
+      <trend>3.9360</trend>
+      <uncertainty>0.5500</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1149">
+      <name>MIYAKO II</name>
+      <latitude>39.643056</latitude>
+      <longitude>141.975278</longitude>
+      <country>JAPAN</country>
+      <trend>5.2960</trend>
+      <uncertainty>1.0130</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1150">
+      <name>SHIRAHAMA</name>
+      <latitude>33.683611</latitude>
+      <longitude>135.375278</longitude>
+      <country>JAPAN</country>
+      <trend>2.6940</trend>
+      <uncertainty>1.1250</uncertainty>
+      <pValue>0.0166</pValue>
+   </marker>
+   <marker id="1151">
+      <name>NAHA</name>
+      <latitude>26.213333</latitude>
+      <longitude>127.665278</longitude>
+      <country>JAPAN</country>
+      <trend>2.8200</trend>
+      <uncertainty>0.6740</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1152">
+      <name>PATRICIA BAY</name>
+      <latitude>48.650000</latitude>
+      <longitude>-123.450000</longitude>
+      <country>CANADA</country>
+      <trend>1.5720</trend>
+      <uncertainty>1.1310</uncertainty>
+      <pValue>0.1646</pValue>
+   </marker>
+   <marker id="1153">
+      <name>CAPE MAY</name>
+      <latitude>38.968333</latitude>
+      <longitude>-74.960000</longitude>
+      <country>UNITED STATES</country>
+      <trend>6.0980</trend>
+      <uncertainty>1.1800</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1154">
+      <name>BUNDABERG, BURNETT HEADS</name>
+      <latitude>-24.766667</latitude>
+      <longitude>152.383333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>2.5840</trend>
+      <uncertainty>0.8810</uncertainty>
+      <pValue>0.0034</pValue>
+   </marker>
+   <marker id="1155">
+      <name>YEOSU</name>
+      <latitude>34.747222</latitude>
+      <longitude>127.765556</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>1.2180</trend>
+      <uncertainty>0.7760</uncertainty>
+      <pValue>0.1165</pValue>
+   </marker>
+   <marker id="1157">
+      <name>WEIPA</name>
+      <latitude>-12.666667</latitude>
+      <longitude>141.866667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.5800</trend>
+      <uncertainty>1.9820</uncertainty>
+      <pValue>0.0208</pValue>
+   </marker>
+   <marker id="1158">
+      <name>YARMOUTH</name>
+      <latitude>43.833333</latitude>
+      <longitude>-66.133333</longitude>
+      <country>CANADA</country>
+      <trend>4.4960</trend>
+      <uncertainty>0.8140</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1159">
+      <name>BROOME</name>
+      <latitude>-18.000833</latitude>
+      <longitude>122.218639</longitude>
+      <country>AUSTRALIA</country>
+      <trend>9.2550</trend>
+      <uncertainty>2.3630</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1190">
+      <name>MIKUNI</name>
+      <latitude>36.254722</latitude>
+      <longitude>136.148889</longitude>
+      <country>JAPAN</country>
+      <trend>6.4070</trend>
+      <uncertainty>1.2980</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1191">
+      <name>KATSUURA</name>
+      <latitude>35.129444</latitude>
+      <longitude>140.249444</longitude>
+      <country>JAPAN</country>
+      <trend>3.2440</trend>
+      <uncertainty>0.3540</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1193">
+      <name>APALACHICOLA</name>
+      <latitude>29.726667</latitude>
+      <longitude>-84.981667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.8550</trend>
+      <uncertainty>0.8490</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1194">
+      <name>MURORAN</name>
+      <latitude>42.350000</latitude>
+      <longitude>140.950000</longitude>
+      <country>JAPAN</country>
+      <trend>2.2480</trend>
+      <uncertainty>0.5680</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1196">
+      <name>SOUTH BEACH</name>
+      <latitude>44.625000</latitude>
+      <longitude>-124.041667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.9780</trend>
+      <uncertainty>1.4370</uncertainty>
+      <pValue>0.1687</pValue>
+   </marker>
+   <marker id="1197">
+      <name>FYNSHAV</name>
+      <latitude>54.995000</latitude>
+      <longitude>9.986944</longitude>
+      <country>DENMARK</country>
+      <trend>1.7780</trend>
+      <uncertainty>0.7500</uncertainty>
+      <pValue>0.0178</pValue>
+   </marker>
+   <marker id="1209">
+      <name>KURE IV</name>
+      <latitude>34.240556</latitude>
+      <longitude>132.550278</longitude>
+      <country>JAPAN</country>
+      <trend>4.8490</trend>
+      <uncertainty>0.8860</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1210">
+      <name>TOKUYAMA II</name>
+      <latitude>34.040833</latitude>
+      <longitude>131.802778</longitude>
+      <country>JAPAN</country>
+      <trend>5.2490</trend>
+      <uncertainty>1.2260</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1211">
+      <name>SPIKARNA</name>
+      <latitude>62.363333</latitude>
+      <longitude>17.531111</longitude>
+      <country>SWEDEN</country>
+      <trend>-6.7140</trend>
+      <uncertainty>1.6000</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1212">
+      <name>UWAJIMA II</name>
+      <latitude>33.227222</latitude>
+      <longitude>132.551111</longitude>
+      <country>JAPAN</country>
+      <trend>1.4560</trend>
+      <uncertainty>0.8900</uncertainty>
+      <pValue>0.1018</pValue>
+   </marker>
+   <marker id="1213">
+      <name>RIVIERE-AU-RENARD</name>
+      <latitude>49.000000</latitude>
+      <longitude>-64.383333</longitude>
+      <country>CANADA</country>
+      <trend>2.8700</trend>
+      <uncertainty>1.2530</uncertainty>
+      <pValue>0.0220</pValue>
+   </marker>
+   <marker id="1215">
+      <name>PORTPATRICK</name>
+      <latitude>54.842556</latitude>
+      <longitude>-5.120028</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>4.0660</trend>
+      <uncertainty>1.0380</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1216">
+      <name>SPRING BAY</name>
+      <latitude>-42.545861</latitude>
+      <longitude>147.932722</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.8240</trend>
+      <uncertainty>0.5300</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1232">
+      <name>SOUDHAS</name>
+      <latitude>35.487453</latitude>
+      <longitude>24.082481</longitude>
+      <country>GREECE</country>
+      <trend>3.0760</trend>
+      <uncertainty>2.1670</uncertainty>
+      <pValue>0.1558</pValue>
+   </marker>
+   <marker id="1233">
+      <name>LEROS</name>
+      <latitude>37.129675</latitude>
+      <longitude>26.847994</longitude>
+      <country>GREECE</country>
+      <trend>1.0910</trend>
+      <uncertainty>0.7320</uncertainty>
+      <pValue>0.1361</pValue>
+   </marker>
+   <marker id="1234">
+      <name>SIROS</name>
+      <latitude>37.439969</latitude>
+      <longitude>24.945808</longitude>
+      <country>GREECE</country>
+      <trend>-0.5800</trend>
+      <uncertainty>1.9390</uncertainty>
+      <pValue>0.7648</pValue>
+   </marker>
+   <marker id="1236">
+      <name>GOTEBORG - TORSHAMNEN</name>
+      <latitude>57.684722</latitude>
+      <longitude>11.790556</longitude>
+      <country>SWEDEN</country>
+      <trend>0.2390</trend>
+      <uncertainty>0.9040</uncertainty>
+      <pValue>0.7915</pValue>
+   </marker>
+   <marker id="1237">
+      <name>KHALKIS NORTH</name>
+      <latitude>38.472289</latitude>
+      <longitude>23.592631</longitude>
+      <country>GREECE</country>
+      <trend>3.7630</trend>
+      <uncertainty>1.6140</uncertainty>
+      <pValue>0.0197</pValue>
+   </marker>
+   <marker id="1238">
+      <name>ALEXANDROUPOLIS</name>
+      <latitude>40.844139</latitude>
+      <longitude>25.878272</longitude>
+      <country>GREECE</country>
+      <trend>4.6240</trend>
+      <uncertainty>1.1050</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1239">
+      <name>LEVKAS</name>
+      <latitude>38.834544</latitude>
+      <longitude>20.712108</longitude>
+      <country>GREECE</country>
+      <trend>7.8130</trend>
+      <uncertainty>1.1960</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1240">
+      <name>KATAKOLON</name>
+      <latitude>37.644822</latitude>
+      <longitude>21.319681</longitude>
+      <country>GREECE</country>
+      <trend>4.7990</trend>
+      <uncertainty>1.2070</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1241">
+      <name>RORVIK</name>
+      <latitude>64.859456</latitude>
+      <longitude>11.230107</longitude>
+      <country>NORWAY</country>
+      <trend>-1.5930</trend>
+      <uncertainty>0.9750</uncertainty>
+      <pValue>0.1023</pValue>
+   </marker>
+   <marker id="1242">
+      <name>BAMFIELD</name>
+      <latitude>48.850000</latitude>
+      <longitude>-125.133333</longitude>
+      <country>CANADA</country>
+      <trend>-0.0280</trend>
+      <uncertainty>0.9690</uncertainty>
+      <pValue>0.9769</pValue>
+   </marker>
+   <marker id="1244">
+      <name>ST-JOSEPH-DE-LA-RIVE</name>
+      <latitude>47.450000</latitude>
+      <longitude>-70.366667</longitude>
+      <country>CANADA</country>
+      <trend>1.7400</trend>
+      <uncertainty>2.2390</uncertainty>
+      <pValue>0.4371</pValue>
+   </marker>
+   <marker id="1245">
+      <name>NEW  WESTMINSTER</name>
+      <latitude>49.200000</latitude>
+      <longitude>-122.916667</longitude>
+      <country>CANADA</country>
+      <trend>3.5630</trend>
+      <uncertainty>1.8500</uncertainty>
+      <pValue>0.0541</pValue>
+   </marker>
+   <marker id="1246">
+      <name>HAY POINT</name>
+      <latitude>-21.283333</latitude>
+      <longitude>149.300000</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.5880</trend>
+      <uncertainty>1.3280</uncertainty>
+      <pValue>0.0069</pValue>
+   </marker>
+   <marker id="1247">
+      <name>PORT TUDY</name>
+      <latitude>47.644274</latitude>
+      <longitude>-3.445852</longitude>
+      <country>FRANCE</country>
+      <trend>3.0610</trend>
+      <uncertainty>0.7300</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1248">
+      <name>SULTAN SHOAL</name>
+      <latitude>1.233333</latitude>
+      <longitude>103.650000</longitude>
+      <country>SINGAPORE</country>
+      <trend>4.0090</trend>
+      <uncertainty>0.8360</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1252">
+      <name>MALAKAL-B</name>
+      <latitude>7.333333</latitude>
+      <longitude>134.466667</longitude>
+      <country>PALAU</country>
+      <trend>5.6070</trend>
+      <uncertainty>2.4150</uncertainty>
+      <pValue>0.0202</pValue>
+   </marker>
+   <marker id="1253">
+      <name>RIKITEA</name>
+      <latitude>-23.122268</latitude>
+      <longitude>-134.966749</longitude>
+      <country>FRENCH POLYNESIA</country>
+      <trend>1.8760</trend>
+      <uncertainty>0.5600</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1263">
+      <name>OMAEZAKI II</name>
+      <latitude>34.608333</latitude>
+      <longitude>138.222222</longitude>
+      <country>JAPAN</country>
+      <trend>8.7740</trend>
+      <uncertainty>0.8170</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1264">
+      <name>OGA</name>
+      <latitude>39.942222</latitude>
+      <longitude>139.705833</longitude>
+      <country>JAPAN</country>
+      <trend>-0.1610</trend>
+      <uncertainty>0.6380</uncertainty>
+      <pValue>0.8008</pValue>
+   </marker>
+   <marker id="1265">
+      <name>AKUNE</name>
+      <latitude>32.017500</latitude>
+      <longitude>130.190833</longitude>
+      <country>JAPAN</country>
+      <trend>2.9960</trend>
+      <uncertainty>0.8460</uncertainty>
+      <pValue>0.0004</pValue>
+   </marker>
+   <marker id="1266">
+      <name>HACHINOHE II</name>
+      <latitude>40.531667</latitude>
+      <longitude>141.527778</longitude>
+      <country>JAPAN</country>
+      <trend>4.9530</trend>
+      <uncertainty>1.2160</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1267">
+      <name>HONNINGSVAG</name>
+      <latitude>70.980318</latitude>
+      <longitude>25.972697</longitude>
+      <country>NORWAY</country>
+      <trend>-0.3050</trend>
+      <uncertainty>1.1660</uncertainty>
+      <pValue>0.7936</pValue>
+   </marker>
+   <marker id="1268">
+      <name>BOOBY ISLAND</name>
+      <latitude>-10.602550</latitude>
+      <longitude>141.910133</longitude>
+      <country>AUSTRALIA</country>
+      <trend>0.3100</trend>
+      <uncertainty>5.7460</uncertainty>
+      <pValue>0.9570</pValue>
+   </marker>
+   <marker id="1269">
+      <name>CHARLESTON II</name>
+      <latitude>43.345000</latitude>
+      <longitude>-124.321667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.5110</trend>
+      <uncertainty>0.9450</uncertainty>
+      <pValue>0.1098</pValue>
+   </marker>
+   <marker id="1270">
+      <name>HALDIA</name>
+      <latitude>22.033333</latitude>
+      <longitude>88.100000</longitude>
+      <country>INDIA</country>
+      <trend>2.0830</trend>
+      <uncertainty>1.0760</uncertainty>
+      <pValue>0.0529</pValue>
+   </marker>
+   <marker id="1272">
+      <name>EASTER ISLAND-E</name>
+      <latitude>-27.154722</latitude>
+      <longitude>-109.472778</longitude>
+      <country>CHILE</country>
+      <trend>0.2350</trend>
+      <uncertainty>1.2290</uncertainty>
+      <pValue>0.8484</pValue>
+   </marker>
+   <marker id="1293">
+      <name>OITA II</name>
+      <latitude>33.266111</latitude>
+      <longitude>131.686667</longitude>
+      <country>JAPAN</country>
+      <trend>3.7860</trend>
+      <uncertainty>1.1060</uncertainty>
+      <pValue>0.0006</pValue>
+   </marker>
+   <marker id="1294">
+      <name>LE CONQUET</name>
+      <latitude>48.359402</latitude>
+      <longitude>-4.780830</longitude>
+      <country>FRANCE</country>
+      <trend>3.6590</trend>
+      <uncertainty>0.6590</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1295">
+      <name>CAMBRIDGE II</name>
+      <latitude>38.573333</latitude>
+      <longitude>-76.068333</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.2530</trend>
+      <uncertainty>1.0710</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1299">
+      <name>NORTH SYDNEY</name>
+      <latitude>46.216667</latitude>
+      <longitude>-60.250000</longitude>
+      <country>CANADA</country>
+      <trend>4.4990</trend>
+      <uncertainty>0.7860</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1318">
+      <name>KARIYA</name>
+      <latitude>33.473056</latitude>
+      <longitude>129.849167</longitude>
+      <country>JAPAN</country>
+      <trend>3.3500</trend>
+      <uncertainty>0.8170</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1320">
+      <name>KURE I</name>
+      <latitude>33.333611</latitude>
+      <longitude>133.243333</longitude>
+      <country>JAPAN</country>
+      <trend>0.5650</trend>
+      <uncertainty>1.5730</uncertainty>
+      <pValue>0.7195</pValue>
+   </marker>
+   <marker id="1321">
+      <name>ARGENTIA</name>
+      <latitude>47.300000</latitude>
+      <longitude>-53.983333</longitude>
+      <country>CANADA</country>
+      <trend>2.5570</trend>
+      <uncertainty>0.7820</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="1322">
+      <name>SEPT-ILES</name>
+      <latitude>50.200000</latitude>
+      <longitude>-66.400000</longitude>
+      <country>CANADA</country>
+      <trend>0.5090</trend>
+      <uncertainty>1.0900</uncertainty>
+      <pValue>0.6405</pValue>
+   </marker>
+   <marker id="1323">
+      <name>CAMPBELL RIVER</name>
+      <latitude>50.016667</latitude>
+      <longitude>-125.233333</longitude>
+      <country>CANADA</country>
+      <trend>-0.4360</trend>
+      <uncertainty>1.0460</uncertainty>
+      <pValue>0.6768</pValue>
+   </marker>
+   <marker id="1324">
+      <name>POHANG</name>
+      <latitude>36.047222</latitude>
+      <longitude>129.383889</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>6.7090</trend>
+      <uncertainty>1.3800</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1325">
+      <name>PORT TOWNSEND</name>
+      <latitude>48.111667</latitude>
+      <longitude>-122.756667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.4490</trend>
+      <uncertainty>0.9820</uncertainty>
+      <pValue>0.0126</pValue>
+   </marker>
+   <marker id="1327">
+      <name>SUVA-A</name>
+      <latitude>-18.135678</latitude>
+      <longitude>178.422839</longitude>
+      <country>FIJI</country>
+      <trend>7.5650</trend>
+      <uncertainty>1.6510</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1328">
+      <name>CAPE LAMBERT</name>
+      <latitude>-20.587972</latitude>
+      <longitude>117.186028</longitude>
+      <country>AUSTRALIA</country>
+      <trend>6.4680</trend>
+      <uncertainty>1.8780</uncertainty>
+      <pValue>0.0006</pValue>
+   </marker>
+   <marker id="1329">
+      <name>KANTON ISLAND-B</name>
+      <latitude>-2.816667</latitude>
+      <longitude>-171.716667</longitude>
+      <country>KIRIBATI</country>
+      <trend>1.4600</trend>
+      <uncertainty>1.6720</uncertainty>
+      <pValue>0.3826</pValue>
+   </marker>
+   <marker id="1344">
+      <name>OGI</name>
+      <latitude>37.814722</latitude>
+      <longitude>138.281111</longitude>
+      <country>JAPAN</country>
+      <trend>1.8840</trend>
+      <uncertainty>0.9060</uncertainty>
+      <pValue>0.0376</pValue>
+   </marker>
+   <marker id="1345">
+      <name>SOMA</name>
+      <latitude>37.830833</latitude>
+      <longitude>140.962222</longitude>
+      <country>JAPAN</country>
+      <trend>5.7140</trend>
+      <uncertainty>0.5180</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1347">
+      <name>ROSCOFF</name>
+      <latitude>48.718399</latitude>
+      <longitude>-3.965860</longitude>
+      <country>FRANCE</country>
+      <trend>1.7050</trend>
+      <uncertainty>0.7450</uncertainty>
+      <pValue>0.0221</pValue>
+   </marker>
+   <marker id="1349">
+      <name>LOWER ESCUMINAC</name>
+      <latitude>47.083333</latitude>
+      <longitude>-64.883333</longitude>
+      <country>CANADA</country>
+      <trend>4.6200</trend>
+      <uncertainty>0.8790</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1352">
+      <name>MONTEREY</name>
+      <latitude>36.605000</latitude>
+      <longitude>-121.886667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.0040</trend>
+      <uncertainty>0.8720</uncertainty>
+      <pValue>0.2496</pValue>
+   </marker>
+   <marker id="1353">
+      <name>VALDEZ</name>
+      <latitude>61.125000</latitude>
+      <longitude>-146.361667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-7.7200</trend>
+      <uncertainty>1.8210</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1354">
+      <name>TOKE POINT, WILLIPA BAY, WA</name>
+      <latitude>46.706667</latitude>
+      <longitude>-123.966667</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.4970</trend>
+      <uncertainty>1.2930</uncertainty>
+      <pValue>0.7007</pValue>
+   </marker>
+   <marker id="1364">
+      <name>OFUNATO II</name>
+      <latitude>39.019722</latitude>
+      <longitude>141.753333</longitude>
+      <country>JAPAN</country>
+      <trend>5.6410</trend>
+      <uncertainty>0.5720</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1365">
+      <name>SOKCHO</name>
+      <latitude>38.207222</latitude>
+      <longitude>128.594167</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>2.6130</trend>
+      <uncertainty>0.2950</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1367">
+      <name>WHYALLA III</name>
+      <latitude>-33.012783</latitude>
+      <longitude>137.590356</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.5740</trend>
+      <uncertainty>1.2870</uncertainty>
+      <pValue>0.2213</pValue>
+   </marker>
+   <marker id="1368">
+      <name>GOODS ISLAND</name>
+      <latitude>-10.561667</latitude>
+      <longitude>142.151667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.8060</trend>
+      <uncertainty>2.5420</uncertainty>
+      <pValue>0.0224</pValue>
+   </marker>
+   <marker id="1370">
+      <name>POHNPEI-B</name>
+      <latitude>6.983333</latitude>
+      <longitude>158.233333</longitude>
+      <country>MICRONESIA, FEDERATED STATES OF</country>
+      <trend>2.7330</trend>
+      <uncertainty>1.8230</uncertainty>
+      <pValue>0.1338</pValue>
+   </marker>
+   <marker id="1371">
+      <name>CHRISTMAS ISLAND II</name>
+      <latitude>1.983333</latitude>
+      <longitude>-157.483333</longitude>
+      <country>KIRIBATI</country>
+      <trend>0.9380</trend>
+      <uncertainty>1.8840</uncertainty>
+      <pValue>0.6186</pValue>
+   </marker>
+   <marker id="1386">
+      <name>KUCHINOTSU</name>
+      <latitude>32.605278</latitude>
+      <longitude>130.195278</longitude>
+      <country>JAPAN</country>
+      <trend>4.0620</trend>
+      <uncertainty>0.5910</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1387">
+      <name>MAIZURU II</name>
+      <latitude>35.476667</latitude>
+      <longitude>135.386944</longitude>
+      <country>JAPAN</country>
+      <trend>4.9780</trend>
+      <uncertainty>0.3820</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1388">
+      <name>OKINAWA</name>
+      <latitude>26.179444</latitude>
+      <longitude>127.824444</longitude>
+      <country>JAPAN</country>
+      <trend>1.9140</trend>
+      <uncertainty>0.6340</uncertainty>
+      <pValue>0.0025</pValue>
+   </marker>
+   <marker id="1389">
+      <name>TOYAMA</name>
+      <latitude>36.762222</latitude>
+      <longitude>137.224722</longitude>
+      <country>JAPAN</country>
+      <trend>4.7560</trend>
+      <uncertainty>0.5110</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1390">
+      <name>MUROTOMISAKI</name>
+      <latitude>33.266389</latitude>
+      <longitude>134.164444</longitude>
+      <country>JAPAN</country>
+      <trend>9.6570</trend>
+      <uncertainty>1.1630</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1391">
+      <name>CHICHIJIMA</name>
+      <latitude>27.083333</latitude>
+      <longitude>142.183333</longitude>
+      <country>JAPAN</country>
+      <trend>3.0670</trend>
+      <uncertainty>0.9420</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="1393">
+      <name>CHARLOTTE AMALIE</name>
+      <latitude>18.335000</latitude>
+      <longitude>-64.920000</longitude>
+      <country>VIRGIN ISLANDS, U.S.</country>
+      <trend>2.5320</trend>
+      <uncertainty>0.6090</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1394">
+      <name>POINT REYES</name>
+      <latitude>37.995000</latitude>
+      <longitude>-122.976667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.8450</trend>
+      <uncertainty>0.9620</uncertainty>
+      <pValue>0.0551</pValue>
+   </marker>
+   <marker id="1395">
+      <name>OKHA</name>
+      <latitude>22.466667</latitude>
+      <longitude>69.083333</longitude>
+      <country>INDIA</country>
+      <trend>3.0410</trend>
+      <uncertainty>1.4650</uncertainty>
+      <pValue>0.0379</pValue>
+   </marker>
+   <marker id="1397">
+      <name>PAPEETE-B, FARE UTE POINT, SOC.IS.</name>
+      <latitude>-17.533081</latitude>
+      <longitude>-149.572724</longitude>
+      <country>FRENCH POLYNESIA</country>
+      <trend>1.6930</trend>
+      <uncertainty>0.9190</uncertainty>
+      <pValue>0.0654</pValue>
+   </marker>
+   <marker id="1420">
+      <name>WALLAROO II</name>
+      <latitude>-33.926017</latitude>
+      <longitude>137.615169</longitude>
+      <country>AUSTRALIA</country>
+      <trend>2.3970</trend>
+      <uncertainty>1.1800</uncertainty>
+      <pValue>0.0422</pValue>
+   </marker>
+   <marker id="1421">
+      <name>NY-ALESUND</name>
+      <latitude>78.928545</latitude>
+      <longitude>11.938015</longitude>
+      <country>SVALBARD AND JAN MAYEN</country>
+      <trend>-5.0410</trend>
+      <uncertainty>0.9590</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1437">
+      <name>TAGO</name>
+      <latitude>34.806944</latitude>
+      <longitude>138.764167</longitude>
+      <country>JAPAN</country>
+      <trend>5.6710</trend>
+      <uncertainty>0.6840</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1438">
+      <name>YAIZU</name>
+      <latitude>34.870556</latitude>
+      <longitude>138.327222</longitude>
+      <country>JAPAN</country>
+      <trend>5.5430</trend>
+      <uncertainty>1.0460</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1440">
+      <name>KAMINATO II (HATIZYO SIMA)</name>
+      <latitude>33.130278</latitude>
+      <longitude>139.804722</longitude>
+      <country>JAPAN</country>
+      <trend>2.8610</trend>
+      <uncertainty>4.8440</uncertainty>
+      <pValue>0.5548</pValue>
+   </marker>
+   <marker id="1444">
+      <name>SPRINGMAID PIER</name>
+      <latitude>33.655000</latitude>
+      <longitude>-78.918333</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.7080</trend>
+      <uncertainty>1.2920</uncertainty>
+      <pValue>0.5837</pValue>
+   </marker>
+   <marker id="1445">
+      <name>GADEOKDO</name>
+      <latitude>35.024722</latitude>
+      <longitude>128.810833</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>2.7330</trend>
+      <uncertainty>0.5600</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1446">
+      <name>TONGYEONG</name>
+      <latitude>34.827500</latitude>
+      <longitude>128.434722</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>1.6150</trend>
+      <uncertainty>0.3380</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1447">
+      <name>LIME TREE BAY, ST CROIX</name>
+      <latitude>17.693333</latitude>
+      <longitude>-64.753333</longitude>
+      <country>VIRGIN ISLANDS, U.S.</country>
+      <trend>3.0830</trend>
+      <uncertainty>0.6920</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1448">
+      <name>KOSEROW</name>
+      <latitude>54.060278</latitude>
+      <longitude>14.000833</longitude>
+      <country>GERMANY</country>
+      <trend>1.0110</trend>
+      <uncertainty>0.9870</uncertainty>
+      <pValue>0.3057</pValue>
+   </marker>
+   <marker id="1449">
+      <name>QUINHON</name>
+      <latitude>13.766667</latitude>
+      <longitude>109.250000</longitude>
+      <country>VIET NAM</country>
+      <trend>0.8510</trend>
+      <uncertainty>1.1880</uncertainty>
+      <pValue>0.4738</pValue>
+   </marker>
+   <marker id="1450">
+      <name>PENRHYN</name>
+      <latitude>-9.016667</latitude>
+      <longitude>-158.066667</longitude>
+      <country>COOK ISLANDS</country>
+      <trend>1.6970</trend>
+      <uncertainty>1.3310</uncertainty>
+      <pValue>0.2023</pValue>
+   </marker>
+   <marker id="1468">
+      <name>NICE</name>
+      <latitude>43.695599</latitude>
+      <longitude>7.285500</longitude>
+      <country>FRANCE</country>
+      <trend>2.9690</trend>
+      <uncertainty>0.6730</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1470">
+      <name>MONBETU II</name>
+      <latitude>44.350000</latitude>
+      <longitude>143.366667</longitude>
+      <country>JAPAN</country>
+      <trend>1.7320</trend>
+      <uncertainty>0.6010</uncertainty>
+      <pValue>0.0040</pValue>
+   </marker>
+   <marker id="1471">
+      <name>PORT DOUGLAS 2</name>
+      <latitude>-16.483333</latitude>
+      <longitude>145.466667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.3260</trend>
+      <uncertainty>4.1140</uncertainty>
+      <pValue>0.4188</pValue>
+   </marker>
+   <marker id="1472">
+      <name>SANTA CRUZ</name>
+      <latitude>-0.750000</latitude>
+      <longitude>-90.316667</longitude>
+      <country>ECUADOR</country>
+      <trend>1.9510</trend>
+      <uncertainty>1.6690</uncertainty>
+      <pValue>0.2424</pValue>
+   </marker>
+   <marker id="1475">
+      <name>DANANG</name>
+      <latitude>16.100000</latitude>
+      <longitude>108.216667</longitude>
+      <country>VIET NAM</country>
+      <trend>4.0530</trend>
+      <uncertainty>0.7470</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1488">
+      <name>NAGOYA II</name>
+      <latitude>35.091389</latitude>
+      <longitude>136.880833</longitude>
+      <country>JAPAN</country>
+      <trend>-2.0280</trend>
+      <uncertainty>0.7850</uncertainty>
+      <pValue>0.0098</pValue>
+   </marker>
+   <marker id="1489">
+      <name>DAEHEUKSANDO</name>
+      <latitude>34.683889</latitude>
+      <longitude>125.436389</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>-0.1690</trend>
+      <uncertainty>0.7320</uncertainty>
+      <pValue>0.8174</pValue>
+   </marker>
+   <marker id="1490">
+      <name>ULLEUNG</name>
+      <latitude>37.491389</latitude>
+      <longitude>130.913611</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>3.5020</trend>
+      <uncertainty>1.2340</uncertainty>
+      <pValue>0.0045</pValue>
+   </marker>
+   <marker id="1492">
+      <name>CAPE FERGUSON</name>
+      <latitude>-19.277333</latitude>
+      <longitude>147.058444</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.8040</trend>
+      <uncertainty>1.1430</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1493">
+      <name>MOOLOOLABA 2</name>
+      <latitude>-26.683333</latitude>
+      <longitude>153.133333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.8370</trend>
+      <uncertainty>0.7780</uncertainty>
+      <pValue>0.0182</pValue>
+   </marker>
+   <marker id="1495">
+      <name>VUNGTAU</name>
+      <latitude>10.333333</latitude>
+      <longitude>107.066667</longitude>
+      <country>VIET NAM</country>
+      <trend>3.8860</trend>
+      <uncertainty>1.3120</uncertainty>
+      <pValue>0.0031</pValue>
+   </marker>
+   <marker id="1522">
+      <name>NASE III</name>
+      <latitude>28.500000</latitude>
+      <longitude>129.500000</longitude>
+      <country>JAPAN</country>
+      <trend>2.2320</trend>
+      <uncertainty>0.5340</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1523">
+      <name>MAIZURU III</name>
+      <latitude>35.450000</latitude>
+      <longitude>135.316667</longitude>
+      <country>JAPAN</country>
+      <trend>4.8170</trend>
+      <uncertainty>0.5170</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1524">
+      <name>CUTLER II</name>
+      <latitude>44.641667</latitude>
+      <longitude>-67.296667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.9990</trend>
+      <uncertainty>0.9160</uncertainty>
+      <pValue>0.0011</pValue>
+   </marker>
+   <marker id="1526">
+      <name>LEITH II</name>
+      <latitude>55.989833</latitude>
+      <longitude>-3.181694</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>1.8760</trend>
+      <uncertainty>0.9850</uncertainty>
+      <pValue>0.0568</pValue>
+   </marker>
+   <marker id="1527">
+      <name>GUNSAN (OUTER PORT)</name>
+      <latitude>35.975556</latitude>
+      <longitude>126.563333</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>3.1980</trend>
+      <uncertainty>0.9950</uncertainty>
+      <pValue>0.0013</pValue>
+   </marker>
+   <marker id="1544">
+      <name>CHOSHI-GYOKO</name>
+      <latitude>35.744444</latitude>
+      <longitude>140.858333</longitude>
+      <country>JAPAN</country>
+      <trend>3.9370</trend>
+      <uncertainty>0.6280</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1545">
+      <name>TOKYO III</name>
+      <latitude>35.648611</latitude>
+      <longitude>139.770000</longitude>
+      <country>JAPAN</country>
+      <trend>2.2270</trend>
+      <uncertainty>0.6230</uncertainty>
+      <pValue>0.0004</pValue>
+   </marker>
+   <marker id="1546">
+      <name>GEOMUNDO</name>
+      <latitude>34.028333</latitude>
+      <longitude>127.309167</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>4.1680</trend>
+      <uncertainty>0.6430</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1547">
+      <name>PORTLAND</name>
+      <latitude>-38.343444</latitude>
+      <longitude>141.613167</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.8860</trend>
+      <uncertainty>0.8510</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1549">
+      <name>KING BAY</name>
+      <latitude>-20.623611</latitude>
+      <longitude>116.749056</longitude>
+      <country>AUSTRALIA</country>
+      <trend>5.3490</trend>
+      <uncertainty>2.0600</uncertainty>
+      <pValue>0.0094</pValue>
+   </marker>
+   <marker id="1551">
+      <name>ROOMPOT BUITEN</name>
+      <latitude>51.619722</latitude>
+      <longitude>3.681944</longitude>
+      <country>NETHERLANDS</country>
+      <trend>2.4610</trend>
+      <uncertainty>0.7140</uncertainty>
+      <pValue>0.0006</pValue>
+   </marker>
+   <marker id="1567">
+      <name>KOCHI III</name>
+      <latitude>33.499167</latitude>
+      <longitude>133.569167</longitude>
+      <country>JAPAN</country>
+      <trend>3.4360</trend>
+      <uncertainty>0.9080</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="1568">
+      <name>WANDO</name>
+      <latitude>34.315278</latitude>
+      <longitude>126.759722</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>1.3150</trend>
+      <uncertainty>0.4650</uncertainty>
+      <pValue>0.0047</pValue>
+   </marker>
+   <marker id="1569">
+      <name>SHUTE HARBOUR 2</name>
+      <latitude>-20.283333</latitude>
+      <longitude>148.783333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>3.7200</trend>
+      <uncertainty>0.9440</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1585">
+      <name>HAMADA II</name>
+      <latitude>34.897222</latitude>
+      <longitude>132.066111</longitude>
+      <country>JAPAN</country>
+      <trend>5.1880</trend>
+      <uncertainty>0.3390</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1586">
+      <name>IZUHARA II</name>
+      <latitude>34.197778</latitude>
+      <longitude>129.291667</longitude>
+      <country>JAPAN</country>
+      <trend>2.9140</trend>
+      <uncertainty>0.3680</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1587">
+      <name>TAPPI</name>
+      <latitude>41.242500</latitude>
+      <longitude>140.381389</longitude>
+      <country>JAPAN</country>
+      <trend>0.6470</trend>
+      <uncertainty>0.3910</uncertainty>
+      <pValue>0.0980</pValue>
+   </marker>
+   <marker id="1588">
+      <name>CHUJADO</name>
+      <latitude>33.961667</latitude>
+      <longitude>126.300278</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>1.7930</trend>
+      <uncertainty>0.4230</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1589">
+      <name>TANJUNG GELANG</name>
+      <latitude>3.975000</latitude>
+      <longitude>103.430000</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.5770</trend>
+      <uncertainty>0.8230</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1590">
+      <name>TAURANGA (SALISBURY WHARF)</name>
+      <latitude>-37.640990</latitude>
+      <longitude>176.181100</longitude>
+      <country>NEW ZEALAND</country>
+      <trend>3.3400</trend>
+      <uncertainty>1.2160</uncertainty>
+      <pValue>0.0060</pValue>
+   </marker>
+   <marker id="1591">
+      <name>PELABUHAN KELANG</name>
+      <latitude>3.050000</latitude>
+      <longitude>101.358333</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.0580</trend>
+      <uncertainty>1.0080</uncertainty>
+      <pValue>0.0024</pValue>
+   </marker>
+   <marker id="1592">
+      <name>CENDERING</name>
+      <latitude>5.265000</latitude>
+      <longitude>103.186667</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.4190</trend>
+      <uncertainty>0.6980</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1593">
+      <name>TANJUNG KELING</name>
+      <latitude>2.215000</latitude>
+      <longitude>102.153333</longitude>
+      <country>MALAYSIA</country>
+      <trend>2.8610</trend>
+      <uncertainty>0.8580</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="1594">
+      <name>LUMUT</name>
+      <latitude>4.240000</latitude>
+      <longitude>100.613333</longitude>
+      <country>MALAYSIA</country>
+      <trend>2.8270</trend>
+      <uncertainty>0.9020</uncertainty>
+      <pValue>0.0017</pValue>
+   </marker>
+   <marker id="1595">
+      <name>PULAU PINANG</name>
+      <latitude>5.421667</latitude>
+      <longitude>100.346667</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.8100</trend>
+      <uncertainty>0.9710</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1597">
+      <name>RIMOUSKI</name>
+      <latitude>48.483333</latitude>
+      <longitude>-68.516667</longitude>
+      <country>CANADA</country>
+      <trend>0.7900</trend>
+      <uncertainty>0.8610</uncertainty>
+      <pValue>0.3589</pValue>
+   </marker>
+   <marker id="1600">
+      <name>ZANZIBAR</name>
+      <latitude>-6.150000</latitude>
+      <longitude>39.183333</longitude>
+      <country>TANZANIA, UNITED REPUBLIC OF</country>
+      <trend>1.5840</trend>
+      <uncertainty>1.0710</uncertainty>
+      <pValue>0.1391</pValue>
+   </marker>
+   <marker id="1627">
+      <name>SEOGWIPO</name>
+      <latitude>33.240000</latitude>
+      <longitude>126.561667</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>3.5620</trend>
+      <uncertainty>1.2440</uncertainty>
+      <pValue>0.0042</pValue>
+   </marker>
+   <marker id="1629">
+      <name>MOURILYAN HARBOUR</name>
+      <latitude>-17.583333</latitude>
+      <longitude>146.083333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.3260</trend>
+      <uncertainty>1.0790</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1630">
+      <name>LUCINDA</name>
+      <latitude>-18.516667</latitude>
+      <longitude>146.383333</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.0710</trend>
+      <uncertainty>0.9180</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1631">
+      <name>ONSLOW</name>
+      <latitude>-21.649667</latitude>
+      <longitude>115.131528</longitude>
+      <country>AUSTRALIA</country>
+      <trend>6.6960</trend>
+      <uncertainty>1.9610</uncertainty>
+      <pValue>0.0006</pValue>
+   </marker>
+   <marker id="1633">
+      <name>CHERRY POINT</name>
+      <latitude>48.863333</latitude>
+      <longitude>-122.756667</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.4560</trend>
+      <uncertainty>0.9530</uncertainty>
+      <pValue>0.6323</pValue>
+   </marker>
+   <marker id="1634">
+      <name>SAND POINT, POPOF IS., AK</name>
+      <latitude>55.336667</latitude>
+      <longitude>-160.501667</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.3680</trend>
+      <uncertainty>0.8980</uncertainty>
+      <pValue>0.1277</pValue>
+   </marker>
+   <marker id="1635">
+      <name>CHESAPEAKE BAY BR. TUN.</name>
+      <latitude>36.966667</latitude>
+      <longitude>-76.113333</longitude>
+      <country>UNITED STATES</country>
+      <trend>6.2140</trend>
+      <uncertainty>0.7930</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1636">
+      <name>DUCK PIER OUTSIDE</name>
+      <latitude>36.183333</latitude>
+      <longitude>-75.746667</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.0900</trend>
+      <uncertainty>0.8240</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1637">
+      <name>BERGEN POINT, STATEN IS.</name>
+      <latitude>40.636667</latitude>
+      <longitude>-74.141667</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.5160</trend>
+      <uncertainty>0.9110</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1639">
+      <name>N. SPIT, HUMBOLDT BAY</name>
+      <latitude>40.766667</latitude>
+      <longitude>-124.216667</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.0610</trend>
+      <uncertainty>0.8840</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1640">
+      <name>PORT ORFORD</name>
+      <latitude>42.738333</latitude>
+      <longitude>-124.498333</longitude>
+      <country>UNITED STATES</country>
+      <trend>1.1460</trend>
+      <uncertainty>1.0520</uncertainty>
+      <pValue>0.2760</pValue>
+   </marker>
+   <marker id="1641">
+      <name>PANAMA CITY, ST.ANDREWS BAY, FL</name>
+      <latitude>30.151667</latitude>
+      <longitude>-85.666667</longitude>
+      <country>UNITED STATES</country>
+      <trend>2.9160</trend>
+      <uncertainty>0.5930</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1645">
+      <name>BALTRA-B</name>
+      <latitude>-0.433333</latitude>
+      <longitude>-90.283333</longitude>
+      <country>ECUADOR</country>
+      <trend>1.5840</trend>
+      <uncertainty>1.5800</uncertainty>
+      <pValue>0.3161</pValue>
+   </marker>
+   <marker id="1671">
+      <name>ISHIGAKI II</name>
+      <latitude>24.332222</latitude>
+      <longitude>124.163611</longitude>
+      <country>JAPAN</country>
+      <trend>2.2190</trend>
+      <uncertainty>0.6610</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1672">
+      <name>RODRIGUES IS</name>
+      <latitude>-19.666667</latitude>
+      <longitude>63.416667</longitude>
+      <country>MAURITIUS</country>
+      <trend>4.7260</trend>
+      <uncertainty>1.1740</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1673">
+      <name>PORT LOUIS II</name>
+      <latitude>-20.150000</latitude>
+      <longitude>57.500000</longitude>
+      <country>MAURITIUS</country>
+      <trend>4.5970</trend>
+      <uncertainty>1.0700</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1674">
+      <name>QUARRY BAY</name>
+      <latitude>22.291111</latitude>
+      <longitude>114.213333</longitude>
+      <country>HONG KONG</country>
+      <trend>3.1560</trend>
+      <uncertainty>1.1530</uncertainty>
+      <pValue>0.0062</pValue>
+   </marker>
+   <marker id="1675">
+      <name>BORYEONG</name>
+      <latitude>36.406389</latitude>
+      <longitude>126.486111</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>5.7330</trend>
+      <uncertainty>1.0500</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1676">
+      <name>PULAU LANGKAWI</name>
+      <latitude>6.430833</latitude>
+      <longitude>99.764167</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.9480</trend>
+      <uncertainty>1.0670</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="1677">
+      <name>KUKUP</name>
+      <latitude>1.325278</latitude>
+      <longitude>103.442778</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.7700</trend>
+      <uncertainty>0.7830</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1678">
+      <name>PULAU TIOMAN</name>
+      <latitude>2.807222</latitude>
+      <longitude>104.140000</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.1050</trend>
+      <uncertainty>0.7680</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1699">
+      <name>ANHEUNG</name>
+      <latitude>36.673611</latitude>
+      <longitude>126.132222</longitude>
+      <country>KOREA, REPUBLIC OF</country>
+      <trend>0.9750</trend>
+      <uncertainty>0.6670</uncertainty>
+      <pValue>0.1438</pValue>
+   </marker>
+   <marker id="1702">
+      <name>TANJUNG SEDILI</name>
+      <latitude>1.931667</latitude>
+      <longitude>104.115000</longitude>
+      <country>MALAYSIA</country>
+      <trend>2.7990</trend>
+      <uncertainty>0.7010</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1703">
+      <name>GETING</name>
+      <latitude>6.226389</latitude>
+      <longitude>102.106667</longitude>
+      <country>MALAYSIA</country>
+      <trend>3.7620</trend>
+      <uncertainty>0.9900</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1704">
+      <name>GOLD COAST SEAWAY 2</name>
+      <latitude>-27.950000</latitude>
+      <longitude>153.416667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.6280</trend>
+      <uncertainty>2.5690</uncertainty>
+      <pValue>0.5263</pValue>
+   </marker>
+   <marker id="1707">
+      <name>GAN II</name>
+      <latitude>-0.683333</latitude>
+      <longitude>73.150000</longitude>
+      <country>MALDIVES</country>
+      <trend>3.5220</trend>
+      <uncertainty>0.6130</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1733">
+      <name>KOTA KINABALU</name>
+      <latitude>5.983333</latitude>
+      <longitude>116.066667</longitude>
+      <country>MALAYSIA</country>
+      <trend>4.3710</trend>
+      <uncertainty>1.0710</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1734">
+      <name>TAWAU</name>
+      <latitude>4.233333</latitude>
+      <longitude>117.883333</longitude>
+      <country>MALAYSIA</country>
+      <trend>4.1640</trend>
+      <uncertainty>1.7430</uncertainty>
+      <pValue>0.0169</pValue>
+   </marker>
+   <marker id="1745">
+      <name>XI SHA</name>
+      <latitude>16.833333</latitude>
+      <longitude>112.333333</longitude>
+      <country>CHINA</country>
+      <trend>5.2330</trend>
+      <uncertainty>1.2170</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1746">
+      <name>TANJONG PAGAR</name>
+      <latitude>1.266667</latitude>
+      <longitude>103.850000</longitude>
+      <country>SINGAPORE</country>
+      <trend>3.9220</trend>
+      <uncertainty>1.0600</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="1747">
+      <name>LES SABLES D OLONNE</name>
+      <latitude>46.497501</latitude>
+      <longitude>-1.793730</longitude>
+      <country>FRANCE</country>
+      <trend>4.1590</trend>
+      <uncertainty>1.0610</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1748">
+      <name>TRONDHEIM 2</name>
+      <latitude>63.436484</latitude>
+      <longitude>10.391669</longitude>
+      <country>NORWAY</country>
+      <trend>-2.1190</trend>
+      <uncertainty>0.9700</uncertainty>
+      <pValue>0.0289</pValue>
+   </marker>
+   <marker id="1759">
+      <name>VIKER</name>
+      <latitude>59.036046</latitude>
+      <longitude>10.949769</longitude>
+      <country>NORWAY</country>
+      <trend>-0.5700</trend>
+      <uncertainty>1.2480</uncertainty>
+      <pValue>0.6479</pValue>
+   </marker>
+   <marker id="1760">
+      <name>ROSSLYN BAY</name>
+      <latitude>-23.161028</latitude>
+      <longitude>150.790167</longitude>
+      <country>AUSTRALIA</country>
+      <trend>4.8500</trend>
+      <uncertainty>1.1390</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1761">
+      <name>HILLARYS</name>
+      <latitude>-31.825556</latitude>
+      <longitude>115.738583</longitude>
+      <country>AUSTRALIA</country>
+      <trend>9.4130</trend>
+      <uncertainty>2.1700</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1764">
+      <name>L'ESTARTIT</name>
+      <latitude>42.050000</latitude>
+      <longitude>3.200000</longitude>
+      <country>SPAIN</country>
+      <trend>3.9490</trend>
+      <uncertainty>0.6750</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1780">
+      <name>ANABAR</name>
+      <latitude>73.216667</latitude>
+      <longitude>113.500000</longitude>
+      <country>RUSSIAN FEDERATION</country>
+      <trend>-4.1190</trend>
+      <uncertainty>3.8620</uncertainty>
+      <pValue>0.2862</pValue>
+   </marker>
+   <marker id="1789">
+      <name>TAKAMATSU II</name>
+      <latitude>34.351389</latitude>
+      <longitude>134.056944</longitude>
+      <country>JAPAN</country>
+      <trend>1.7350</trend>
+      <uncertainty>0.9860</uncertainty>
+      <pValue>0.0785</pValue>
+   </marker>
+   <marker id="1794">
+      <name>WORKINGTON</name>
+      <latitude>54.650722</latitude>
+      <longitude>-3.567167</longitude>
+      <country>UNITED KINGDOM</country>
+      <trend>-5.4010</trend>
+      <uncertainty>1.4840</uncertainty>
+      <pValue>0.0003</pValue>
+   </marker>
+   <marker id="1795">
+      <name>ST HELIER (JERSEY) 2</name>
+      <latitude>49.183333</latitude>
+      <longitude>-2.116667</longitude>
+      <country>JERSEY</country>
+      <trend>2.9330</trend>
+      <uncertainty>0.8740</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1798">
+      <name>BECANCOUR</name>
+      <latitude>46.400000</latitude>
+      <longitude>-72.383333</longitude>
+      <country>CANADA</country>
+      <trend>-7.0310</trend>
+      <uncertainty>8.0500</uncertainty>
+      <pValue>0.3824</pValue>
+   </marker>
+   <marker id="1799">
+      <name>WINTER HARBOUR</name>
+      <latitude>50.516667</latitude>
+      <longitude>-128.033333</longitude>
+      <country>CANADA</country>
+      <trend>0.1190</trend>
+      <uncertainty>1.0980</uncertainty>
+      <pValue>0.9137</pValue>
+   </marker>
+   <marker id="1801">
+      <name>BOUCAU</name>
+      <latitude>43.527302</latitude>
+      <longitude>-1.514830</longitude>
+      <country>FRANCE</country>
+      <trend>2.9780</trend>
+      <uncertainty>0.9840</uncertainty>
+      <pValue>0.0025</pValue>
+   </marker>
+   <marker id="1805">
+      <name>LAUTOKA</name>
+      <latitude>-17.604917</latitude>
+      <longitude>177.438250</longitude>
+      <country>FIJI</country>
+      <trend>4.8470</trend>
+      <uncertainty>1.4320</uncertainty>
+      <pValue>0.0007</pValue>
+   </marker>
+   <marker id="1806">
+      <name>BILBAO</name>
+      <latitude>43.351530</latitude>
+      <longitude>-3.045130</longitude>
+      <country>SPAIN</country>
+      <trend>2.8960</trend>
+      <uncertainty>0.7630</uncertainty>
+      <pValue>0.0001</pValue>
+   </marker>
+   <marker id="1807">
+      <name>SANTANDER III</name>
+      <latitude>43.461300</latitude>
+      <longitude>-3.790760</longitude>
+      <country>SPAIN</country>
+      <trend>1.8020</trend>
+      <uncertainty>0.7780</uncertainty>
+      <pValue>0.0205</pValue>
+   </marker>
+   <marker id="1836">
+      <name>LORNE</name>
+      <latitude>-38.547194</latitude>
+      <longitude>143.988833</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.8750</trend>
+      <uncertainty>0.8150</uncertainty>
+      <pValue>0.0214</pValue>
+   </marker>
+   <marker id="1838">
+      <name>MAJURO-C</name>
+      <latitude>7.106028</latitude>
+      <longitude>171.372806</longitude>
+      <country>MARSHALL ISLANDS</country>
+      <trend>5.0260</trend>
+      <uncertainty>1.5020</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="1841">
+      <name>PORT VILA B</name>
+      <latitude>-17.755333</latitude>
+      <longitude>168.307694</longitude>
+      <country>VANUATU</country>
+      <trend>3.3710</trend>
+      <uncertainty>1.6400</uncertainty>
+      <pValue>0.0398</pValue>
+   </marker>
+   <marker id="1842">
+      <name>NUKU'ALOFA B</name>
+      <latitude>-21.136806</latitude>
+      <longitude>-175.180694</longitude>
+      <country>TONGA</country>
+      <trend>7.5830</trend>
+      <uncertainty>1.6020</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+   <marker id="1846">
+      <name>POINT LA RUE</name>
+      <latitude>-4.666667</latitude>
+      <longitude>55.533333</longitude>
+      <country>SEYCHELLES</country>
+      <trend>4.2140</trend>
+      <uncertainty>1.4740</uncertainty>
+      <pValue>0.0043</pValue>
+   </marker>
+   <marker id="1898">
+      <name>VIGO II</name>
+      <latitude>42.243140</latitude>
+      <longitude>-8.726000</longitude>
+      <country>SPAIN</country>
+      <trend>2.1870</trend>
+      <uncertainty>1.1490</uncertainty>
+      <pValue>0.0570</pValue>
+   </marker>
+   <marker id="2072">
+      <name>PORT ALMA</name>
+      <latitude>-23.583333</latitude>
+      <longitude>150.866667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>2.4190</trend>
+      <uncertainty>0.7920</uncertainty>
+      <pValue>0.0023</pValue>
+   </marker>
+   <marker id="2073">
+      <name>URANGAN</name>
+      <latitude>-25.300000</latitude>
+      <longitude>152.916667</longitude>
+      <country>AUSTRALIA</country>
+      <trend>1.7870</trend>
+      <uncertainty>1.0190</uncertainty>
+      <pValue>0.0795</pValue>
+   </marker>
+   <marker id="2074">
+      <name>BOWEN II</name>
+      <latitude>-20.016667</latitude>
+      <longitude>148.250000</longitude>
+      <country>AUSTRALIA</country>
+      <trend>2.7830</trend>
+      <uncertainty>1.1150</uncertainty>
+      <pValue>0.0126</pValue>
+   </marker>
+   <marker id="2101">
+      <name>KALIX</name>
+      <latitude>65.696944</latitude>
+      <longitude>23.096111</longitude>
+      <country>SWEDEN</country>
+      <trend>-6.2680</trend>
+      <uncertainty>1.8850</uncertainty>
+      <pValue>0.0009</pValue>
+   </marker>
+   <marker id="2102">
+      <name>SKAGSUDDE</name>
+      <latitude>63.190556</latitude>
+      <longitude>19.012500</longitude>
+      <country>SWEDEN</country>
+      <trend>-8.3760</trend>
+      <uncertainty>2.2820</uncertainty>
+      <pValue>0.0002</pValue>
+   </marker>
+   <marker id="2103">
+      <name>FORSMARK</name>
+      <latitude>60.408611</latitude>
+      <longitude>18.210833</longitude>
+      <country>SWEDEN</country>
+      <trend>-5.2800</trend>
+      <uncertainty>1.5700</uncertainty>
+      <pValue>0.0008</pValue>
+   </marker>
+   <marker id="2104">
+      <name>MARVIKEN</name>
+      <latitude>58.553611</latitude>
+      <longitude>16.837222</longitude>
+      <country>SWEDEN</country>
+      <trend>-3.0890</trend>
+      <uncertainty>1.3640</uncertainty>
+      <pValue>0.0235</pValue>
+   </marker>
+   <marker id="2105">
+      <name>VISBY</name>
+      <latitude>57.639167</latitude>
+      <longitude>18.284444</longitude>
+      <country>SWEDEN</country>
+      <trend>-1.8420</trend>
+      <uncertainty>1.2630</uncertainty>
+      <pValue>0.1447</pValue>
+   </marker>
+   <marker id="2106">
+      <name>OSKARSHAMN</name>
+      <latitude>57.275000</latitude>
+      <longitude>16.478056</longitude>
+      <country>SWEDEN</country>
+      <trend>-0.9160</trend>
+      <uncertainty>1.2680</uncertainty>
+      <pValue>0.4701</pValue>
+   </marker>
+   <marker id="2107">
+      <name>SIMRISHAMN</name>
+      <latitude>55.557500</latitude>
+      <longitude>14.357778</longitude>
+      <country>SWEDEN</country>
+      <trend>0.3300</trend>
+      <uncertainty>1.0300</uncertainty>
+      <pValue>0.7487</pValue>
+   </marker>
+   <marker id="2108">
+      <name>SKANOR</name>
+      <latitude>55.416667</latitude>
+      <longitude>12.829444</longitude>
+      <country>SWEDEN</country>
+      <trend>3.6620</trend>
+      <uncertainty>1.4030</uncertainty>
+      <pValue>0.0091</pValue>
+   </marker>
+   <marker id="2109">
+      <name>BARSEBACK</name>
+      <latitude>55.756389</latitude>
+      <longitude>12.903333</longitude>
+      <country>SWEDEN</country>
+      <trend>1.5720</trend>
+      <uncertainty>1.9650</uncertainty>
+      <pValue>0.4237</pValue>
+   </marker>
+   <marker id="2110">
+      <name>VIKEN</name>
+      <latitude>56.142222</latitude>
+      <longitude>12.579167</longitude>
+      <country>SWEDEN</country>
+      <trend>0.7290</trend>
+      <uncertainty>0.9930</uncertainty>
+      <pValue>0.4629</pValue>
+   </marker>
+   <marker id="2111">
+      <name>RINGHALS</name>
+      <latitude>57.249722</latitude>
+      <longitude>12.112500</longitude>
+      <country>SWEDEN</country>
+      <trend>-0.5200</trend>
+      <uncertainty>0.9670</uncertainty>
+      <pValue>0.5908</pValue>
+   </marker>
+   <marker id="2112">
+      <name>STENUNGSUND</name>
+      <latitude>58.093333</latitude>
+      <longitude>11.832500</longitude>
+      <country>SWEDEN</country>
+      <trend>-1.5790</trend>
+      <uncertainty>1.0430</uncertainty>
+      <pValue>0.1301</pValue>
+   </marker>
+   <marker id="2113">
+      <name>KUNGSVIK</name>
+      <latitude>58.996667</latitude>
+      <longitude>11.127222</longitude>
+      <country>SWEDEN</country>
+      <trend>-1.4780</trend>
+      <uncertainty>1.0270</uncertainty>
+      <pValue>0.1501</pValue>
+   </marker>
+   <marker id="2125">
+      <name>ARENA COVE, CALIFORNIA</name>
+      <latitude>38.913333</latitude>
+      <longitude>-123.706667</longitude>
+      <country>UNITED STATES</country>
+      <trend>-0.0610</trend>
+      <uncertainty>1.1160</uncertainty>
+      <pValue>0.9564</pValue>
+   </marker>
+   <marker id="2127">
+      <name>PORT ANGELES, WASHINGTON</name>
+      <latitude>48.125000</latitude>
+      <longitude>-123.440000</longitude>
+      <country>UNITED STATES</country>
+      <trend>0.7670</trend>
+      <uncertainty>0.9910</uncertainty>
+      <pValue>0.4390</pValue>
+   </marker>
+   <marker id="2128">
+      <name>KAWAIHAE,  HAWAII ISLAND</name>
+      <latitude>20.036667</latitude>
+      <longitude>-155.830000</longitude>
+      <country>UNITED STATES</country>
+      <trend>5.3450</trend>
+      <uncertainty>1.0990</uncertainty>
+      <pValue>0.0000</pValue>
+   </marker>
+</markers>
