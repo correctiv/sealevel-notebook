@@ -1,6 +1,6 @@
 # sealevel-notebook
 
-Several notebooks for analysing tide measurement data. Sources include:
+Several notebooks for analysing tide measurement data. Sources are:
 - University of Hawaii, http://uhslc.soest.hawaii.edu/data/
 - British Oceanographic Data Centre, https://www.bodc.ac.uk/
 - Center for Operational Oceanographic Products and Services, https://tidesandcurrents.noaa.gov/
