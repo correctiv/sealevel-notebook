@@ -5,3 +5,4 @@ data/uhslc_data/*
 data/bodc_data/*
 data/subsets/*
 data/psmsl_data/tideData_psmsl_complete.csv
+material/
