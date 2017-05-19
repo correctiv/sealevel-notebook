@@ -1,172 +1,172 @@
-Rank,Country,risk_index,risk_description,,,,,
-1,Vanuatu,36.28,very high,,,,,
-2,Tonga,29.33,very high,,,,,
-3,Philippines,26.70,very high,,,,,
-4,Guatemala,19.88,very high,,,,,
-5,Bangladesh,19.17,very high,,,,,
-6,Solomon Islands,19.14,very high,,,,,
-7,Brunei Darussalam,17.00,very high,,,,,
-8,Costa Rica,17.00,very high,,,,,
-9,Cambodia,16.58,very high,,,,,
-10,Papua New Guinea,16.43,very high,,,,,
-11,El Salvador,16.05,very high,,,,,
-12,Timor-Leste,15.69,very high,,,,,
-13,Mauritius,15.53,very high,,,,,
-14,Nicaragua,14.62,very high,,,,,
-15,Guinea-Bissau,13.56,very high,,,,,
-16,Fiji,13.15,very high,,,,,
-17,Japan,12.99,very high,,,,,
-18,Viet Nam,12.53,very high,,,,,
-19,Gambia,12.07,very high,,,,,
-20,Jamaica,11.83,very high,,,,,
-21,Haiti,11.68,very high,,,,,
-22,Chile,11.65,very high,,,,,
-23,Benin,11.39,very high,,,,,
-24,Guyana,11.39,very high,,,,,
-25,Niger,11.24,very high,,,,,
-26,Madagascar,11.15,very high,,,,,
-27,Dominican Republic,10.96,very high,,,,,
-28,Cameroon,10.91,very high,,,,,
-29,Chad,10.85,very high,,,,,
-30,Honduras,10.68,very high,,,,,
-31,Cape Verde,10.39,very high,,,,,
-32,Senegal,10.38,very high,,,,,
-33,Togo,10.36,very high,,,,,
-34,Djibouti,10.30,very high,,,,,
-35,Burundi,10.28,high,,,,,
-36,Indonesia,10.24,high,,,,,
-37,Sierra Leone,10.21,high,,,,,
-38,Zimbabwe,10.06,high,,,,,
-39,Burkina Faso,9.54,high,,,,,
-40,Albania,9.50,high,,,,,
-41,Afghanistan,9.50,high,,,,,
-42,Myanmar,8.90,high,,,,,
-43,Cote d'Ivoire,8.88,high,,,,,
-44,Mozambique,8.69,high,,,,,
-45,Uzbekistan,8.59,high,,,,,
-46,Suriname,8.44,high,,,,,
-47,Ghana,8.39,high,,,,,
-48,Mali,8.39,high,,,,,
-49,Netherlands,8.24,high,,,,,
-50,Guinea,8.20,high,,,,,
-51,Sudan,7.99,high,,,,,
-52,Nigeria,7.98,high,,,,,
-53,Malawi,7.98,high,,,,,
-54,Mauritania,7.95,high,,,,,
-55,Kyrgyzstan,7.86,high,,,,,
-56,Liberia,7.84,high,,,,,
-57,United Republic of Tanzania,7.65,high,,,,,
-58,Ecuador,7.53,high,,,,,
-59,Swaziland,7.52,high,,,,,
-60,Bhutan,7.51,high,,,,,
-61,Trinidad and Tobago,7.50,high,,,,,
-62,Algeria,7.36,high,,,,,
-63,Sri Lanka,7.32,high,,,,,
-64,Comoros,7.29,high,,,,,
-65,Panama,7.26,high,,,,,
-66,Zambia,7.25,high,,,,,
-67,Congo,7.19,high,,,,,
-68,Serbia,7.12,high,,,,,
-69,Rwanda,7.09,middle,,,,,
-70,Ethiopia,7.04,middle,,,,,
-71,Central African Republic,7.03,middle,,,,,
-72,Pakistan,6.96,middle,,,,,
-73,Lesotho,6.84,middle,,,,,
-74,Kenya,6.77,middle,,,,,
-75,Tajikistan,6.72,middle,,,,,
-76,Greece,6.70,middle,,,,,
-77,India,6.64,middle,,,,,
-78,Peru,6.59,middle,,,,,
-79,Belize,6.55,middle,,,,,
-80,Uganda,6.52,middle,,,,,
-81,Angola,6.52,middle,,,,,
-82,Morocco,6.45,middle,,,,,
-83,Colombia,6.45,middle,,,,,
-84,Turkmenistan,6.44,middle,,,,,
-85,China,6.39,middle,,,,,
-86,Malaysia,6.39,middle,,,,,
-87,Eritrea,6.35,middle,,,,,
-88,Georgia,6.27,middle,,,,,
-89,Thailand,6.19,middle,,,,,
-90,Cuba,6.13,middle,,,,,
-91,Bosnia and Herzegovina,6.10,middle,,,,,
-92,Armenia,6.07,middle,,,,,
-93,Gabon,6.04,middle,,,,,
-94,Yemen,5.97,middle,,,,,
-95,Mexico,5.97,middle,,,,,
-96,Venezuela,5.93,middle,,,,,
-97,Romania,5.92,middle,,,,,
-98,The former Yugoslav Republic of Macedonia,5.87,middle,,,,,
-99,Syrian Arab Republic,5.69,middle,,,,,
-100,Lao People's Democratic Republic,5.59,middle,,,,,
-101,South Africa,5.58,middle,,,,,
-102,Azerbaijan,5.54,middle,,,,,
-103,Tunisia,5.40,low,,,,,
-104,Namibia,5.37,low,,,,,
-105,Hungary,5.32,low,,,,,
-106,Turkey,5.20,low,,,,,
-107,Botswana,5.14,low,,,,,
-108,Nepal,5.12,low,,,,,
-109,Lebanon,5.01,low,,,,,
-110,Republic of Moldova,4.79,low,,,,,
-111,Iran (Islamic Republic of),4.73,low,,,,,
-112,Ireland,4.60,low,,,,,
-113,"Korea, Republic of",4.59,low,,,,,
-114,Bolivia,4.58,low,,,,,
-115,Jordan,4.58,low,,,,,
-116,New Zealand,4.55,low,,,,,
-117,Iraq,4.49,low,,,,,
-118,Equatorial Guinea,4.46,low,,,,,
-119,Italy,4.42,low,,,,,
-120,Bulgaria,4.22,low,,,,,
-121,Australia,4.22,low,,,,,
-122,Bahamas,4.14,low,,,,,
-123,Brazil,4.09,low,,,,,
-124,Uruguay,4.03,low,,,,,
-125,Croatia,3.97,low,,,,,
-126,Libyan Arab Jamahiriya,3.79,low,,,,,
-127,United States,3.76,low,,,,,
-128,Russia,3.58,low,,,,,
-129,Argentina,3.56,low,,,,,
-130,Kazakhstan,3.56,low,,,,,
-131,United Kingdom,3.54,low,,,,,
-132,Paraguay,3.48,low,,,,,
-133,Portugal,3.45,low,,,,,
-134,Slovenia,3.41,low,,,,,
-135,Austria,3.39,low,,,,,
-136,Slovakia,3.39,low,,,,,
-137,Czech Republic,3.37,very low,,,,,
-138,Latvia,3.31,very low,,,,,
-139,Kuwait,3.28,very low,,,,,
-140,Poland,3.20,very low,,,,,
-141,Belarus,3.11,very low,,,,,
-142,Mongolia,3.08,very low,,,,,
-143,Belgium,3.07,very low,,,,,
-144,Spain,3.05,very low,,,,,
-145,Canada,3.01,very low,,,,,
-146,Ukraine,2.97,very low,,,,,
-147,Germany,2.95,very low,,,,,
-148,Lithuania,2.92,very low,,,,,
-149,Denmark,2.89,very low,,,,,
-150,Cyprus,2.68,very low,,,,,
-151,Oman,2.64,very low,,,,,
-152,France,2.62,very low,,,,,
-153,Seychelles,2.55,very low,,,,,
-154,Luxembourg,2.43,very low,,,,,
-155,Switzerland,2.37,very low,,,,,
-156,Estonia,2.36,very low,,,,,
-157,Israel,2.30,very low,,,,,
-158,Egypt,2.29,very low,,,,,
-159,Singapore,2.27,very low,,,,,
-160,Finland,2.21,very low,,,,,
-161,Norway,2.19,very low,,,,,
-162,Sweden,2.12,very low,,,,,
-163,United Arab Emirates,1.97,very low,,,,,
-164,Kiribati,1.78,very low,,,,,
-165,Bahrain,1.69,very low,,,,,
-166,Iceland,1.52,very low,,,,,
-167,Grenada,1.42,very low,,,,,
-168,Barbados,1.32,very low,,,,,
-169,Saudi Arabia,1.14,very low,,,,,
-170,Malta,0.60,very low,,,,,
-171,Qatar,0.08,very low,,,,,
+risk_rank,Country,risk_index,risk_description
+1,Vanuatu,36.28,very high
+2,Tonga,29.33,very high
+3,Philippines,26.7,very high
+4,Guatemala,19.88,very high
+5,Bangladesh,19.17,very high
+6,Solomon Islands,19.14,very high
+7,Brunei Darussalam,17,very high
+8,Costa Rica,17,very high
+9,Cambodia,16.58,very high
+10,Papua New Guinea,16.43,very high
+11,El Salvador,16.05,very high
+12,Timor-Leste,15.69,very high
+13,Mauritius,15.53,very high
+14,Nicaragua,14.62,very high
+15,Guinea-Bissau,13.56,very high
+16,Fiji,13.15,very high
+17,Japan,12.99,very high
+18,Vietnam,12.53,very high
+19,Gambia,12.07,very high
+20,Jamaica,11.83,very high
+21,Haiti,11.68,very high
+22,Chile,11.65,very high
+23,Benin,11.39,very high
+24,Guyana,11.39,very high
+25,Niger,11.24,very high
+26,Madagascar,11.15,very high
+27,Dominican Republic,10.96,very high
+28,Cameroon,10.91,very high
+29,Chad,10.85,very high
+30,Honduras,10.68,very high
+31,Cape Verde,10.39,very high
+32,Senegal,10.38,very high
+33,Togo,10.36,very high
+34,Djibouti,10.3,very high
+35,Burundi,10.28,high
+36,Indonesia,10.24,high
+37,Sierra Leone,10.21,high
+38,Zimbabwe,10.06,high
+39,Burkina Faso,9.54,high
+40,Albania,9.5,high
+41,Afghanistan,9.5,high
+42,Myanmar,8.9,high
+43,Cote d'Ivoire,8.88,high
+44,Mozambique,8.69,high
+45,Uzbekistan,8.59,high
+46,Suriname,8.44,high
+47,Ghana,8.39,high
+48,Mali,8.39,high
+49,Netherlands,8.24,high
+50,Guinea,8.2,high
+51,Sudan,7.99,high
+52,Nigeria,7.98,high
+53,Malawi,7.98,high
+54,Mauritania,7.95,high
+55,Kyrgyzstan,7.86,high
+56,Liberia,7.84,high
+57,United Republic of Tanzania,7.65,high
+58,Ecuador,7.53,high
+59,Swaziland,7.52,high
+60,Bhutan,7.51,high
+61,Trinidad and Tobago,7.5,high
+62,Algeria,7.36,high
+63,Sri Lanka,7.32,high
+64,Comoros,7.29,high
+65,Panama,7.26,high
+66,Zambia,7.25,high
+67,Congo,7.19,high
+68,Serbia,7.12,high
+69,Rwanda,7.09,middle
+70,Ethiopia,7.04,middle
+71,Central African Republic,7.03,middle
+72,Pakistan,6.96,middle
+73,Lesotho,6.84,middle
+74,Kenya,6.77,middle
+75,Tajikistan,6.72,middle
+76,Greece,6.7,middle
+77,India,6.64,middle
+78,Peru,6.59,middle
+79,Belize,6.55,middle
+80,Uganda,6.52,middle
+81,Angola,6.52,middle
+82,Morocco,6.45,middle
+83,Colombia,6.45,middle
+84,Turkmenistan,6.44,middle
+85,China,6.39,middle
+86,Malaysia,6.39,middle
+87,Eritrea,6.35,middle
+88,Georgia,6.27,middle
+89,Thailand,6.19,middle
+90,Cuba,6.13,middle
+91,Bosnia and Herzegovina,6.1,middle
+92,Armenia,6.07,middle
+93,Gabon,6.04,middle
+94,Yemen,5.97,middle
+95,Mexico,5.97,middle
+96,Venezuela,5.93,middle
+97,Romania,5.92,middle
+98,The former Yugoslav Republic of Macedonia,5.87,middle
+99,Syrian Arab Republic,5.69,middle
+100,Lao People's Democratic Republic,5.59,middle
+101,South Africa,5.58,middle
+102,Azerbaijan,5.54,middle
+103,Tunisia,5.4,low
+104,Namibia,5.37,low
+105,Hungary,5.32,low
+106,Turkey,5.2,low
+107,Botswana,5.14,low
+108,Nepal,5.12,low
+109,Lebanon,5.01,low
+110,Republic of Moldova,4.79,low
+111,Iran (Islamic Republic of),4.73,low
+112,Ireland,4.6,low
+113,"Korea, Rep.",4.59,low
+114,Bolivia,4.58,low
+115,Jordan,4.58,low
+116,New Zealand,4.55,low
+117,Iraq,4.49,low
+118,Equatorial Guinea,4.46,low
+119,Italy,4.42,low
+120,Bulgaria,4.22,low
+121,Australia,4.22,low
+122,Bahamas,4.14,low
+123,Brazil,4.09,low
+124,Uruguay,4.03,low
+125,Croatia,3.97,low
+126,Libyan Arab Jamahiriya,3.79,low
+127,United States,3.76,low
+128,Russian Federation,3.58,low
+129,Argentina,3.56,low
+130,Kazakhstan,3.56,low
+131,United Kingdom,3.54,low
+132,Paraguay,3.48,low
+133,Portugal,3.45,low
+134,Slovenia,3.41,low
+135,Austria,3.39,low
+136,Slovakia,3.39,low
+137,Czech Republic,3.37,very low
+138,Latvia,3.31,very low
+139,Kuwait,3.28,very low
+140,Poland,3.2,very low
+141,Belarus,3.11,very low
+142,Mongolia,3.08,very low
+143,Belgium,3.07,very low
+144,Spain,3.05,very low
+145,Canada,3.01,very low
+146,Ukraine,2.97,very low
+147,Germany,2.95,very low
+148,Lithuania,2.92,very low
+149,Denmark,2.89,very low
+150,Cyprus,2.68,very low
+151,Oman,2.64,very low
+152,France,2.62,very low
+153,Seychelles,2.55,very low
+154,Luxembourg,2.43,very low
+155,Switzerland,2.37,very low
+156,Estonia,2.36,very low
+157,Israel,2.3,very low
+158,Egypt,2.29,very low
+159,Singapore,2.27,very low
+160,Finland,2.21,very low
+161,Norway,2.19,very low
+162,Sweden,2.12,very low
+163,United Arab Emirates,1.97,very low
+164,Kiribati,1.78,very low
+165,Bahrain,1.69,very low
+166,Iceland,1.52,very low
+167,Grenada,1.42,very low
+168,Barbados,1.32,very low
+169,Saudi Arabia,1.14,very low
+170,Malta,0.6,very low
+171,Qatar,0.08,very low
