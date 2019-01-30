@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-1994
+1962-73: Pressure gauge operated by bicycle pump
+at low water, made by Fenlow products
+Shoreham is an historic station last data 1991
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Jan-2001
+Recent work on vertical land movements in the UK can be found from
+the University of Nottingham web site:
+http://ukcogr.iessg.nottingham.ac.uk/~eosi/
+SHOREHAM 1967 - STABILITY OF DATUM SUSPECT
+1962-64 VALUES BASED ON 24 READINGS/DAY.
+

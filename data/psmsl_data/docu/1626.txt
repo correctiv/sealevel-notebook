@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Dec-1994
+DATA RECEIVED FROM TOGA
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jan-1995
+gauge=Aanderaa WLR5 (bottom-mounted pressure gauge)
+

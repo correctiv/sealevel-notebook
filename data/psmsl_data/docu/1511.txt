@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Many stations on the Gulf coast have large values for September 1961.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Sep-1998
+Dataset revised and extended
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Dec-2011
+This station was previously 'Metric'. However, using NOAA data the station has been made RLR. Primary benchmark is 0551 T 1990 1.972m above TGZ. RLR year is 1998 and RLR factor 5.628m.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jul-2015
+Melinka is a newly supplied station to the PSMSL. Dataset begins 2011.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Oct-2016
+Using information supplied by SHOA Melinka has been made RLR. Primary benchmark is BM 02 8.788m above gauge zero. RLR factor is 3.812m
+

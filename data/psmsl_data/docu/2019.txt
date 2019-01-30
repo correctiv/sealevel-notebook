@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+Installed in 11.01.2008 station Yalova is new to PSMSL. Unique id.=2019.
+Coastline code=310 while Station code=028. Yalova is on the Sea of Marmara and
+forms part of the Turkish Sea Level Monitoring Network.
+

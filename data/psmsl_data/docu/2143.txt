@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Apr-2012
+San Benedetto is a new station on the Adriatic side of Italy. Data and metadata were downloaded from the ISPRA website id no. 2143.
+

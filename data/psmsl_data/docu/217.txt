@@ -1,0 +1,16 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Auckland-Waitemata  690/001 RLR(1986) is 10.2m below Auckland Harbour BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Mar-1999
+Type of gauge=Munro Float gauge
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Apr-2000
+The RLR time series for Auckland-Waitemata (690/001) and Auckland II (690/002) are measured with respect to the same datum so they can be combined if required.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-2002
+Auckland data now supplied by Land Information New Zealand (LINZ). Previously supplied by Royal NZ Navy.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2003
+New data from John Hannah added 17/01/03 which supercedes old data. New data does not have any missing days information. Old data has been backed up.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2003
+New data from John Hannah was for Auckland II, Dunedin II, Lyttelton II and Wellington II.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2005
+There is a new John Hannah paper referring to New Zealand data for Wellington, Dunedin, Lyttelton and Auckland. The reference is: "An updated analysis of long-term sea level change in New Zealand." Geophysical Research Letters, V31, L03307, doi:10.1029/2003GL019166 (2004). Prior to 1984 data supplied by Department of Survey and Land N.Z.
+Upto 1960 gauge site at 36 51 S 174 49 E
+

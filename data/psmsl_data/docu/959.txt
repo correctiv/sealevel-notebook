@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kunsan              620/021 RLR(1962) is 11.2m below TBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Kunsan              620/021 RLR(1962) is 11.2m below TBM
+Kunsan is an historic station last data 1964
+This station was replaced by Gunsan (Outer Port)
+

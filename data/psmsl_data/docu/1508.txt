@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-May-1994
+UP TO 1985 LEUPOLD & STEVENS GAUGE, 1985-1993 (OCTOBER) OTT GAUGE, 1993 (OCTOBER) - SONAR RESEARCH GAUGE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-May-1994
+REVISION OF MAY 1994 UPDATES DATA FROM AUTHORITY INPE/OBT Oceanografia, Academic Science Department, King Fahd Naval Academy, Jubail
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Mar-2002
+Ras Tanura original data 1994-5 replaced by new data supplied by ARAMCO.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Dec-2015
+This station was previously flagged. However, as the data is 'Metric' anyway the Station flag has been removed.
+

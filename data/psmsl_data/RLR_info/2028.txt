@@ -1,0 +1,1 @@
+Add 2.000m to all data values to refer to RLR<br>Detailed benchmark information is not available.<br>However, the Russian sea level network has a complete geodetic history.<br>All stations have one or more fixed geodetic benchmarks.<br>These benchmarks were related to the Baltic System (Kronstadt gauge).

@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Santa Cruz          845/031 RLR(1983) is 8.3m below BM UH-1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1996
+The noise in the residuals on 30 July 1995 is associated with a tsunami. Instrument type: (1978-present) Fischer and Porter Analog-to-Digital Recorder (ADR);Bristol Bubbler (BUB) Handar Encoder (ENC)Primary gauge: ADR:1974-90, ENC 1991-
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Nov-2010
+The complete dataset 1978-2007 has been supplied by UHSLC. After comparing with existing data values these were entered onto the database. RLR remains 5.389m.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Oct-2013
+Complete dataset Oct. 1978 to April 2012 downloaded onto the database from UHSLC
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Oct-2015
+Using the latest JASL data the complete dataset 1978-2014 has been loaded. From the JASL metadata level corrections have been made of between +2-3cm during the period 18.2.2008-04.04.2012.
+Because of detrimental comments from the UH levelling sheet for this station i.e. BM@ is not stable so not a good Primary benchmark also in the survey of 2008 reference is made to the re-construction of the pier. Because of these comments the station has reverted to 'Metric' as although BM VI was latterley adopted as the Primary benchmark it is still not stable.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Puerto Castilla     908/011 RLR(1964) is 8.4m below BMM-3
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2012
+Station is now historic last data received 1968 although still mentioned on the NOAA website there is now no supporting datum and benchmark information. Station has been labelled 'inactive'.
+

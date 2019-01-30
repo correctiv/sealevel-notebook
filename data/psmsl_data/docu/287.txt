@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jun-2009
+No data is available from this station for 2008
+as the site has been vandalised.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Jul-2015
+The tide gauge at Bankok Bar has now been re-instated. The information on the data sheet confirms that the station cn not be made RLR as it is not levelled into a benchmark.
+

@@ -1,0 +1,1 @@
+Add 5.542m to data values 1992-1998 to refer to RLR<br>Add 5.530m to data values 1999 onwards to refer to RLR<br>RLR is 9.600m below primary benchmark Attached BM

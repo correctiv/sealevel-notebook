@@ -1,0 +1,16 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Cabo San Lucas      830/020 RLR(1979) is 9.6m below BM EEA-205
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Nov-1993
+data since 1982 received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1996
+gauge type: Standard analog (SA) float gauge (1973-1982),Leupold and Stevens Analog-to-Digital Recorder (ADR) model 7001, float gauge (1983+)(Oct 1990-present) Handar Encoder (ENC)Primary gauge: ADR:1974-89, ENC 1990-
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-1997
+Large earthquake offshore of Mexico about 19 degrees North on 9 October 1995 with large tsunami generated. See article by A.E.Filonov in EOS, 78(3), 1997.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Nov-1997
+The daily and monthly differences with San Diego,San Quintin, and Acapulco hint at anomalously low levels for Cabo San Lucas from Dec 1986 to Aug 1989.  However, no clear level shifts can
+be identified in the hourly residuals.  Otherwise,the data contain gaps but are of good quality.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1999
+data for 1974-81 revised in December 1999
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Dec-2015
+Whole dataset has been received from UH and was part of the TOGA project. Although UH levelling and metadata exist the levelling values given bear no relation to the RLR diagram. Until this has been resolved the diagram has been taken offline.
+

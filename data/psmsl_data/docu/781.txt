@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Mosjoen             040/121 RLR(1963) is 10.2m below BM J17 N6
+Datum for data 1955-1958 is the same as the benchmark line. This is an historic station last data 1963
+

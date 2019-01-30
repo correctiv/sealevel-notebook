@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Mar-1998
+Values are averages from hourly data obtained using a Telog potentiometric
+recorder (model R 2108) attached to a Stevens type A35 water-level
+recorder
+Lee Stocking Island is an historic station last data 1993
+

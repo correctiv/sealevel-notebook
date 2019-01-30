@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Aug-2016
+Ulladulla Harbour is a new station. Data has been supplied by NSW Public Works, Manly Hydraulics Laboratory (MHL).
+
+Data General Release Conditions
+The data provided is supplied subject to the following conditions:
+
+© Crown in right of New South Wales
+The data supplied is licensed under a Creative Commons Attribution 4.0 licence.
+To view a copy of this licence visit:  http://creativecommons.org/licenses/by/4.0 and
+http://creativecommons.org/licenses/by/4.0/legalcode
+

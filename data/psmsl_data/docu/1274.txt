@@ -1,0 +1,16 @@
+Taken as a continuous record by TOGA sea level center but many ad-hoc datum corrections made to the original data.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-1991
+Original data adjusted by TOGA
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Mar-1993
+Data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-May-1994
+Earthquake 3/10/1974
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jan-2012
+Using data from the latest UHSLC JASL cd the 'METRIC' dataset has been updated. Data values for 2002-2010 have been added to the dataset.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-2013
+Complete UHSLC dataset 1970-2012 loaded as additional data values had been added
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Oct-2015
+Using information from the UHSLC levelling sheets Callao 2 has been made RLR from October 2011 onwards.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Complete updated JASL data through to 2014 reloaded onto the database.
+

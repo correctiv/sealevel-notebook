@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Oshoro I            641/041 RLR(1962) is 9.0m below BM No9
+Oshoro I is an historic station last data 1962
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Aug-1995
+A destructive earthquake and tsunami occurred in the Kuril Islands on 4 October 1994 - see Earth System Monitor, 5(4), June 1995.
+

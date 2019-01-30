@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-May-2013
+The gauge at Thule was initially installed in Sept. 2005. However, this gauge was quickly decommissioned due to corruption of the conductivity channel. the new gauge was installed in Sept. 2006. Data supplier is the Danish National Space Cente. Sampling interval is 5 mins. Gauge is an Aanderaa WLR-7 pressure gauge and the data are referred to Tide Gauge Zero. Unfortunately the gauge stopped operating in Sept.2012.
+

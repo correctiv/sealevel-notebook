@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Sucuraj             280/046 RLR(1987) is 9.7m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Mar-1992
+Prior to 1990 data supplied by Hidrografski Institut, Split
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jan-1996
+Tide gauge of the State Hydrographic Institute at Split
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jan-1996
+gauge=Fuess
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Nov-2009
+The tide gauge at Sucurje has been replace by one in Ploce. Last data for Sucurje is 2005. See letter of confirmation Feb.2009.
+

@@ -1,0 +1,1 @@
+Add 7.300m to data values 1938-1955 to refer to RLR<br>Add 7.218m to data values 1974-1975 to refer to RLR<br>Add 7.300m to data values for 1976 to refer to RLR<br>Add 7.218m to data values 1977-1986 to refer to RLR<br>Add 5.055m to data values 1991 onwards to refer to RLR<br>RLR is 10.300m below primary benchmark L7 N42

@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Honningsvag         040/015 RLR(1972) is 13.1m below BM FMI
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Mar-1995
+prior to 1978 fcode=C
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Mar-1995
+tide gauge network modernised, new equipment installed in 1988
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Sep-2012
+For information on sea level change along the Norwegian coast see paper "Contributions to sea level variability along the Norwegian coast for 1960-2010" by K. Richter, J.E.O. Nilsen and H. Drange.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-2018
+Monthly mean data values for September-December 1988 have been updated using revised values supplied by the Norwegian Mapping Authority.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Aug-2010
+The data for Honolulu A has recently been loaded onto the database.The data
+values were downloaded from the University of Hawaii website together with the
+relevant documentation. Originator of the data is N.O.A.A/N.O.S.
+

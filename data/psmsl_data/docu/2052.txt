@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Jan-2011
+This is a new station and is part of the REDMAR network. Benchmark SSNoray.1
+6.567m relative to datum REDMAR 4.687m relative to IGN datum.
+

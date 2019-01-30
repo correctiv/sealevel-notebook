@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-2010
+This is a new station - first data 2007. Previously not entered as awaiting
+benchmark information. Currently benchmark details still unknown.
+Coastline no. 620 Stationcode no.019 Station id. 2042
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+Following information received from the data suppliers, KHOA the values for
+lat. and long have been revised.
+Tide gauge is a MIROS radar gauge
+

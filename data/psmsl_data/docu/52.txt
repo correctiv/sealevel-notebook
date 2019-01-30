@@ -1,0 +1,16 @@
+PRIOR TO 1959 MSL VALUES BASED ON READINGS OF HIGH AND LOW WATER
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Cascais             210/021 RLR(1964) is 11.2m below BMOb1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Oct-1995
+Oct- Nov 1993 values checked and as received from authority
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jan-1997
+data for 1985-87 revised January 1997
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Mar-2001
+Data for 1986-93 updated March 2001
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Apr-2001
+Cascais experienced a small tsunami on 28 February 1969 following a M=7.3 earthquake on the Horseshoe Abyssal Plain at 36 N 11 W.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Feb-2002
+Cascais 1994-1999 gap due to malfunction.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+A value of MTL-MSL=4 mm has been applied to the RLR data for the period 1882-1958. The values were derived using the GESLA2 (high-frequency tide gauge) dataset using harmonic constituents.
+

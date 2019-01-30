@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1997
+Gauge type=A. Ott R20
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-2002
+Inhambane tide gauge no longer working (from National report 2001).
+

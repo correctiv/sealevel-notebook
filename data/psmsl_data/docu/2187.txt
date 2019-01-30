@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2014
+These data were originally added to San Juan id. 923. San Juan B gauge is a UHSLC gauge in collobaration with Direccion Hidrofrafia y Navegacion de la Marina. Data was split to agree with UHSLC.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Complete updated JASL data through to 2014 has been reloaded onto the database. Supplier has also been changed from D.H.N.M. Peru to UHSLC.
+

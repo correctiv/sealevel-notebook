@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kochi II            644/002 RLR(1966) is 8.8m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Kochi II            644/002 RLR(1966) is 8.8m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Nov-2003
+Data from 1984 onwards shows a datum shift that cannot be accounted for and
+so has been moved to a new time-series, KOCHI III (644/005).
+

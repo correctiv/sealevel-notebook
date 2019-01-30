@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+This is a new station to PSMSL. Installed in 17.01.2008 Coastline code 310
+Staion code 039. Unique id. is 2013 this station forms part of the Turkish Sea
+Level Monitoring Network. Aksaz is on the Aegean Sea.
+

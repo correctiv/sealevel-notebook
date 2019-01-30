@@ -1,0 +1,1 @@
+Add 6.501m to data values 1889-1912 to refer to RLR<br>Add 5.159m to data values 1913 onwards to refer to RLR<br>RLR is 10.400m below primary benchmark R2

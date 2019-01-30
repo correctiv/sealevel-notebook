@@ -1,0 +1,2 @@
+Add 5.079m to all data values to refer to RLR<br>RLR is 11.800m below primary benchmark New Plymouth
+Fundamental BM

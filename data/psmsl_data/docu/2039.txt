@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-2010
+This is a new station - first data 2007. Was not previously entered as benchmark
+details were requested. Benchmark details still unknown but data entered onto
+the database.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+Following information received from the data suppliers, KHOA the lat. and
+long. have been revised.
+Tide Gauge is a MIROS radar gauge
+

@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Aug-2016
+Tweed Heads is a new station. Data has been supplied by NSW Public Works, Manly Hydraulics Laboratory (MHL). Using information supplied by MHL this station has been made RLR Primary benchmark NMV/B/412 4.584m above Tweed River Hydro Datum.
+
+Data General Release Conditions
+The data provided is supplied subject to the following conditions:
+
+© Crown in right of New South Wales
+The data supplied is licensed under a Creative Commons Attribution 4.0 licence.
+To view a copy of this licence visit:  http://creativecommons.org/licenses/by/4.0 and
+http://creativecommons.org/licenses/by/4.0/legalcode
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Nov-2016
+The site at Tweed Heads has been replaced by one at Tweed Entrance South due to safety reasons.
+

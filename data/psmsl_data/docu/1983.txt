@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-1991
+ORIGINAL DATA ADJUSTED BY TOGA
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Mar-1993
+DATA RECEIVED FROM TOGA OFFICE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Nov-1997
+Instrument type: SEBA, float and well gauge
+

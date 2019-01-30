@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Apr-2016
+Wachapreague Virginea is a newly downloaded NOAA station. Primary benchmark is 1044 B 1978. Wachapreague remains a 'Metric' station as there is an obvious datum change from 2011 onwards.
+

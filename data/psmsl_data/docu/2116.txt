@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jan-2012
+This is a new station. Data was downloaded from the latest copy of the UHSLC JASL cd.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Oct-2015
+From the latest JASL data the complete dataset 1997-2014 has been loaded onto the database. There are several additional data points included.
+

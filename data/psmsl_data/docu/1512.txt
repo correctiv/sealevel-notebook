@@ -1,0 +1,19 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-1991
+Original data adjusted by TOGA
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Mar-1993
+Data received from TOGA office.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-1996
+There was a magnitude 7.8 earthquake about 20 km offshore of northern Chile on 30 July 1995 which produced a tsunami of 1.3 m at Caldera and which was seen in many records across the Pacific (information from NTF, Australia).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jun-1996
+Data 1994-95 received directly from the supplying authority (SHOA)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Nov-1997
+1996 data received from the University of Hawaii Sea Level Center Instrument type: standard mechanical (01/1980 - 12/1985);Metercraft bubbler  (12/1985 - present) (primary);Handar Encoder model 436A (11/1986-present) (back-up)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Dec-1997
+1994-95 data revised with data received from the UHSLC
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Dec-1998
+1997 data received from the University of Hawaii Sea Level Center
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2001
+For a review of the new Chilean tide gauge network, see "Tides in the Chilean Coasts" by Juan J. Fierro, Hydro International,Jan/Feb 2001, pp.7-9.Taken as continuous record TOGA sea level center but many ad-hoc datum corrections made to original data.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Oct-2016
+Completely revised dataset has been supplied by SHOA seems to combine id's 619 and 1512.
+

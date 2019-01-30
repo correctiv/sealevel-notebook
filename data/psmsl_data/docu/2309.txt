@@ -1,0 +1,14 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Aug-2016
+Bermagui II is a new station supplied by the NSW Public Works Manly Hydraulics Laboratory (MHL).
+
+
+Data General Release Conditions
+The data provided is supplied subject to the following conditions:
+
+© Crown in right of New South Wales
+The data supplied is licensed under a Creative Commons Attribution 4.0 licence.
+To view a copy of this licence visit:  http://creativecommons.org/licenses/by/4.0 and
+http://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to copy distribute display and perform the work, to make derivative works and to make commercial use of the work under the following conditions attributing the data to "NSW Office of Environment and Heritage" in any publications.
+

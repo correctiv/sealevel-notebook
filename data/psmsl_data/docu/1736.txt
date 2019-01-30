@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Jul-2006
+Data are received from the University of Hawaii Sea Level Center
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Oct-2008
+Monthly mean sea level data values for 2004
+supplied by Marcelo these differ slightly from those supplied by UH.
+UH values printed off and stored in file. Marcelos values
+entered onto the database. In future it is hoped the data
+will be accessed directly from Marcelo.
+

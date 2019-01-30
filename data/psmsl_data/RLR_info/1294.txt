@@ -1,0 +1,1 @@
+Add 2.815m to data values 1971-1995 to refer to RLR<br>Add 3.115m to data values 1996 onwards to refer to RLR<br>RLR is 23.395m below primary benchmark IGN no. 100

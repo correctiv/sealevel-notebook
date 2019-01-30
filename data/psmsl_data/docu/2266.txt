@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Sep-2015
+Moulmein II is a new station. Data is from a UH gauge and is part of the JASL dataset. The station cannot currently be made RLR as there is no stable benchmark.
+

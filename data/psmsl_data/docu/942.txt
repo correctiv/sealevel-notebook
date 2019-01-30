@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Sep-1994
+Lege gauge installed in 1957
+Larne is an historic station last data 1980
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Jan-2001
+Recent work on vertical land movements in the UK can be found from
+the University of Nottingham web site:
+http://ukcogr.iessg.nottingham.ac.uk/~eosi/
+PRIOR TO 1963 VALUES BASED ON 8 READINGS/DAY.
+

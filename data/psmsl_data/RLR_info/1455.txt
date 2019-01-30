@@ -1,0 +1,1 @@
+Add 0.000m to all data values to refer to RLR<br>RLR is 30.600m below primary benchmark NGM-402

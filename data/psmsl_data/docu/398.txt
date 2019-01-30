@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kjolsdal            040/201 RLR(1964) is 8.7m below BM B29N16
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Kjolsdal            040/201 RLR(1964) is 8.7m below BM B29N16
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Oct-1993
+DATA UP TO 1986 FROM AUTHORITY CODE 03
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Oct-1994
+1988 gauge taken out of service
+

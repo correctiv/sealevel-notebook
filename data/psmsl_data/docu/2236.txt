@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Station Ile d'Aix is a mixture of old and new data on an island south of La Rochelle. There is a short period of data for January 1973-May 1974. However, the main part of the dataset begins in April 2011.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Mar-2017
+Using information from the SONEL website Ile D'Aix has been made RLR from 2011 onwards.
+

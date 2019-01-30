@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-1996
+data 1992-94 received from UH SLC
+gauge=OTT R 16
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Feb-1999
+gauge located at the end of the CNRO wharf
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Sep-1999
+data for 1987-94 revised with set received direct from operating
+authority
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jan-2012
+Using data from the latest UHSLC JASL cd data for 1999 has been added to the
+'METRIC' dataset.
+

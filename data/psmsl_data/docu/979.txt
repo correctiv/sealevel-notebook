@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Oct-1993
+Lusi                610/032 RLR(1991) is 11.4m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-May-1994
+1961,1963-74 data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-May-1994
+Data 1961-69 has some missing days but no details are known.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Jun-2012
+Benchmark TGBM (old) is an historic benchmark superceded by LZBM 1973-80 this was replaced by TGBM (new).
+

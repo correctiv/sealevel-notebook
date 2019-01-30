@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-May-1994
+Up to 1985 LEUPOLD & STEVENS gauge, 1985-1993 (October) OTT gauge,1993 (October) - SONAR RESEARCH gauge
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-May-1994
+Revision of May 1994 Data from INPE/OBT Oceanografia, Academic Science Dept., King Fahd Naval Academy, Jubail
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Mar-2002
+Abu Ali data 1995 suspect (shows doubling in range) and deleted.
+

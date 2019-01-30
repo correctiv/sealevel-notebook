@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Mar-2000
+data for 1994 were revised in march 2000
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Mar-2000
+The Praia, Sao Tiago Island station (called Praia B in the PSMSL
+data set) was operated as part of the NOAA Global Sea Level Program
+with a NGWLMS tide gauge.
+

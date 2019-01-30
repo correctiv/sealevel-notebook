@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Apr-2012
+Ginostra is a new station and is a small island of the Italian coast in the Tyrrhenian Sea. Data and metadata were downloaded from the ISPRA website. Id no. 2138.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Aug-2016
+Some data values for 2011-2014 had been incorrectly changed. The original values have been restored.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Dec-2016
+ISPRA have confirmed that there was a datum change at Ginostra from September 2013.
+

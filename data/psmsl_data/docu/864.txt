@@ -1,0 +1,11 @@
+AFFECTED BY METEOROLOGICAL CONDITIONS AND THE                           
+CONFLUENCE OF THE PARANA AND URUGUAY RIVERS
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Isla Martin Garcia  860/171 RLR(1971) is 18.0m below Pilar de Mareas
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Isla Martin Garcia  860/171 RLR(1971) is 18.0m below Pilar de Mareas
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Anomalously large value in April 1959 - correct as received from
+authority - also seen in other records (e.g. Buenos Aires
+PSMSL code 860/151).
+

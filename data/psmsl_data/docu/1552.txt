@@ -1,0 +1,14 @@
+Taken as a continuous record TOGA sea level center but many ad-hoc datum corrections made to original data.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-1991
+Original data adjusted by TOGA
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Mar-1993
+Data received from TOGA office.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Mar-2001
+Data for 1982-99 revised March 2001
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-May-2012
+Data values for Lobos de Afuera for 2002-2009 were received from UHSLC on the latest JASL CD.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Oct-2013
+Complete dataset July 1982 to May 2010 downloaded onto the database from UHSLC
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Updated JASL dataset through to 2014 reloaded onto the database.
+

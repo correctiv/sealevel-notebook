@@ -1,0 +1,3 @@
+Data for 1918-74 based on hourly heights, 1975-86 on 30 min heights.
+Metric data measured to Normal Null (NN)
+

@@ -1,0 +1,3 @@
+Add 3.800m to all data values to refer to RLR<br>RLR is 11.700m below primary benchmark GTS
+o
+BM

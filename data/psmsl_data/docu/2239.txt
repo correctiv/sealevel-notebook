@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Data for Mare, New Caledonia has only recently been added to the database. There is a short period of data for October 1994-June 1995 with the main dataset beginning in May 2012.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Mar-2017
+Using information from the SONEL website Mare has been made RLR from 2012 onwards.
+

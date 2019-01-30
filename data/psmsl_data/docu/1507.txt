@@ -1,0 +1,12 @@
+ALL DUTCH METRIC DATA ARE MEASURED TO NAP (NORMAAL AMSTERDAMSCH PEIL)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jul-1991
+LOCATED 900M TO THE WEST OF THE BROUWERSDAM. ALSO CALL "BG8".
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Aug-2001
+Brouwershavense Gat built on 'pile' in sea, similar installation
+to Haringvliet 10 (150/073).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Feb-2011
+Following information received concerning NAP both before and after the
+re-levelling of 2005 most of the Dutch stations have been converted to RLR.
+However this station is an offshore tide gauge which has not been re-visited so
+remains 'Metric' at present.
+

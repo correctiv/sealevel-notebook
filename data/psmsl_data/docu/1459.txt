@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Aug-1995
+A destructive earthquake and tsunami occurred in the Kuril Islands on
+4 October 1994 - see Earth System Monitor, 5(4), June 1995.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Apr-1998
+NB the station codes for this country/area do not follow the coast
+sequentially
+

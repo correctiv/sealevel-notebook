@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1993
+DATA RECEIVED FROM UNIV. HAWAII SEA LEVEL CENTER
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Sep-2006
+Data for 1991-2001 deleted from the dataset so making this station data supplied from UH and metric only. Main dataset for this station now recognised as being CEUTA 340/001.
+

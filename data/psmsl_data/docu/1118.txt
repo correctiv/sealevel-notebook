@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been re-ordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-May-1996
+Revised data for 1966-1976 received from the National Tidal Centre, Bureau of Meteorology, South Australia
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Aug-2013
+From November 1989 the data for Devonport has been made RLR. Earlier data is not suitable for RLR. RLR factor is 5.085m
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Oct-2018
+Three Tasmanian stations Burnie, Devonport and Low Head have a spike in May 2016. When these are plotted together the spike gets larger as it travels around the coastline from Burnie to Devonport and finally to Low Head where the spike is so great it looks like an anomaly.
+

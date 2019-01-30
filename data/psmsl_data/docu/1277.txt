@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Puerto Bolivar      845/041 RLR(1988) is 8.9m below BM4
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Puerto Bolivar      845/041 RLR(1988) is 8.9m below BM4
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Oct-2012
+This is now a historic station last data 1991.
+

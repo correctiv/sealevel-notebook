@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Apr-2012
+Anzio is a new station currently data available for December 2011 only. Data and metadata was downloaded from the ISPRA website.Id no. is 2136.
+

@@ -1,0 +1,8 @@
+1872 - 1929,1937 values based on 1 reading per day
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Daugavgriva         080/081 RLR(1938) is 5.6m below BM Lighthouse
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Mar-1993
+Possible datum shift in RLR record after the data gap around 1920.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jul-1994
+This station is in Latvia. Daugavgriva is an historic station last data 1938
+

@@ -1,0 +1,7 @@
+GAUGE RE-SITED IN 1981
+HURRICANE IN SEPTEMBER 1988
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+North Sound         931/001 RLR(1978) is 7.5m below BMNSREF
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+North Sound         931/001 RLR(1978) is 7.5m below BMNSREF
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Jul-2006
+Data 1996-on are from the University of Hawaii Sea Level Center
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-2013
+Complete UHSLC dataset 1978-2012 added to 'Metric' series
+

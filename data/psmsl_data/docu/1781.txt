@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jan-1997
+Data  up  to   June 26 1992  are  not  corrected  for  atmospheric
+pressure.  Conversion  from total  pressure to pressure due to sea
+water has  been  done  using a  fixed atm. pressure  of 1013 mbar.
+After  June 26 1992 the data are corrected for atm. pressure using
+ data from a pressure sensor placed on land. Salinity not measured,
+sea level  elevation  calculated  from  pressure using a sea water
+ density based on  measured  temperature and a salinity of 31.5ppt.
+

@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Urakawa I           641/026 RLR(1961) is 8.2m below BM No1
+This is an historic station last data 1970
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Aug-1995
+A destructive earthquake and tsunami occurred in the Kuril Islands on 4 October 1994 - see Earth System Monitor, 5(4), June 1995.
+

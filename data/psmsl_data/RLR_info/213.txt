@@ -1,0 +1,1 @@
+Add 5.380m to all data values to refer to RLR<br>RLR is 14.000m below primary benchmark Fundamental BM

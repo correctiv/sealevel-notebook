@@ -1,0 +1,12 @@
+Replaced by Ventnor City in 1985
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Atlantic City       960/091 RLR(1964) is 11.0m below BM32
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Oct-1994
+Reinstalled 1991 instead of Ventnor City
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-May-1995
+Ventnor City data combined with Atlantic City data
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Sep-1998
+Severe storms in early 1995
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Aug-2011
+The RLR diagram for Atlantic City has been re-drawn showing the now Primary benchmark 4720 F 1991.10.553m above the Station Datum. This information has been extracted from the NOAA website. The benchmark previously referred to BM 32 6.081m above Station Datum no longer appears on the NOAA website.
+

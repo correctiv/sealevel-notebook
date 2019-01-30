@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Apr-2000
+Arrecife D          370/004 RLR(1998) is 9.5m below BM SSMFo
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Mar-2002
+Gauge replaced 1998 "in new place, very close to previous place".
+

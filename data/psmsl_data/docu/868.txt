@@ -1,0 +1,6 @@
+Station moved - new data held in station 645/041
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kagoshima I         645/040 RLR(1965) is 9.6m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Kagoshima I ceased operating 30th April 1972, and was repalced by Kagoshima II (645/041) 1st May 1972.
+

@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Boutilier Point     970/009 RLR(1971) is 10.9m below BM TS.3.1968
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Boutilier Point     970/009 RLR(1971) is 10.9m below BM TS.3.1968
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Nov-1993
+Since 1980 monthly means received from Canadian authority are in cm.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2012
+Last data received from this station was that for 1979.
+

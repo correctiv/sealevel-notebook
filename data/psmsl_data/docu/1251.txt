@@ -1,0 +1,21 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Yap                 710/011 RLR(1983) is 19.1m below BM#5
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Oct-1992
+Caution: The tide structure has a history of sinking. THhe tide staff bolted to the tide house has sunk about 3" between 1969-1973 and another 3" between 1973-1984.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Oct-1996
+Renamed YAP B on receipt of data "YAP A" instrument type: unconfirmed (1969-70); Bristol bubbler (1973-8/1974);Fischer and Porter Analog-to-Digital Recorder (ADR), (9/1974-);Handar Encoder (ENC), (5/1991-)Primary gauge: ADR:1974-4/91, ENC 5/91-
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Nov-1996
+data 1969-70, 1973-94  and BM information revised in 1996 update from UHSLC. Consequently RLR redefined as RLR(1993): 10.0m below BM 7, 1990
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Nov-1997
+1969-70 data contributed by Scripps Institution of Oceanography.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Dec-1998
+Data for 1994 revised in December 1998
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1999
+Data for 1997 revised in December 1999
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Nov-2010
+Data for 2005 has been received from UHSLC. These have now been entered into the database.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Oct-2013
+Complete dataset May 1969 to April 2012 was loaded onto the database from UHSLC
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Oct-2015
+Using the recently supplied JASL data up to the end of 2014 has been added to the database.
+

@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Rarotonga           785/001 RLR(1986) is 8.9m below BMCT/1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1991
+SEVERE WEATHER EVENTS OF 22-26 FEBRUARY 1986 AND 1-4 JANUARY 1987 CAUSED DATA LOSS AND QUESTIONABLE FLUCTUATIONS
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1996
+Gauge type:  (Apr 1977 - Dec 1984 )Fischer and Porter Analog-to-Digital Recorder (ADR)(Dec 1984-present) Leupold and Stevens Analog-to-Digital Recorder (ADR);(Dec 1984-present) Handar Encoder (ENC) Primary gauge: ADR:1977-90, ENC 1991-
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1999
+Data for 1997 revised in December 1999
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Sep-2011
+Dataset reviewed data points May-November 1984 flagged as when buddy checked this looks suspicious.Annual value was also flagged. February 1986 also flagged see above comments.Station flag was removed.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Nov-2015
+Complete updated JASL dataset loaded onto the database. There appeared to be a difference in datum with the two UH plots from 1993-2001 but when this was compared with the NTC dataset they agreed so the updated UH data was loaded. While reviewing the UH levelling sheets it would appear that the RLR diagram has been created using the value for benchmark CT/1 from the 1980/1982 levelling values. This value has not remained stable and has a values of 2.528m from the final 1996 levelling. Comments in the levelling sheets reveal that all relevant reference points to CT/1 were destroyed by fire.
+

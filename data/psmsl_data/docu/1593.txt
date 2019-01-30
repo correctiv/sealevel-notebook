@@ -1,0 +1,10 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Tanjung Kling       550/009 RLR(1985) is 11.6m below BM No M0331
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Tanjung Kling       550/009 RLR(1985) is 11.6m below BM No M0331
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jul-1995
+17 March 1993: tide gauge replaced
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Sep-2012
+Publication Tidal Observation Records 2010 confirms that the Primary benchmark 
+remains BM M0331 6.427m below TGZ.
+

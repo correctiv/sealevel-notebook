@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2012
+Pisco Peru is a new station. Data for Pisco 1985-2010 was recived from UHSLC.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jan-2014
+Data for Pisco is actually from two separate series which are not interlinked. Dataset 1991 onwards was removed and created as a new station Pisco B id. 2203
+

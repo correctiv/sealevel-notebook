@@ -1,0 +1,1 @@
+Add 5.850m to all data values to refer to RLR<br>RLR is 10.000m below primary benchmark Pilar MOP No 4377

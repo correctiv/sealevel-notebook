@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Nov-1997
+data 1993- received from University of Hawaii Sea Level Center The data contain numerous gaps and timing is very poor during some segments in 1993.  The difference with Coco Solo suggests that level shifts at this site have occurred, but due to the gappy nature of the data, it is difficult to determine.  Use with caution. The data from 7-24 June 1996 are obviously low, with a clear level jump in the residuals on the 24 June.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jan-2012
+Using data from the latest UHSLC JASL cd the 'METRIC' dataset has been updated. Data values 2001-2011 added. The datum of the Hawaii data is approximately 15cm different.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-2015
+Using the latest JASL data the dataset for 2011-2014 has been updated.
+

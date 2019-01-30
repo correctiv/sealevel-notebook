@@ -1,0 +1,1 @@
+Add 5.535m to data values 1959-1972 to refer to RLR<br>Add 6.057m to data values 1973-1992 to refer to RLR<br>Add 5.875m to data values 1994-1997 to refer to RLR<br>Add 5.700m to data values 2000-2002 to refer to RLR<br>Add 5.850m to data values 2003 onwards to refer to RLR<br>RLR is 10.053m below primary benchmark PN 1

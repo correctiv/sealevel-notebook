@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2001
+Rijeka - newly installed Fuess chart gauge, April 1998.
+Tide gauge datum 2.27m below vertical benchmark on pier 1m
+Tide gauge datum also 3.446m below horizontal bench mark in
+neighbouring storehouse.
+

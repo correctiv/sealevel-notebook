@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Guantanamo Bay      930/051 RLR(1964) is 16.1m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Guantanamo Bay      930/051 RLR(1964) is 16.1m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Nov-2011
+Guantanamo Bay does feature on the Historic Data page on the NOAA website 
+but there is no very little metadata available for this station.
+

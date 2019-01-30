@@ -1,0 +1,1 @@
+Add 12.500m to data values 1958-1967 to refer to RLR<br>Add 4.757m to data values 1968 onwards to refer to RLR<br>RLR is 12.500m below primary benchmark Zero of observations 1958-1967 Repere A1-1964

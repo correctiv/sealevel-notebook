@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Ubatuba             874/071 RLR(1982) is 12.8m below BM RN DHN Cota=5.119
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Anomalously low values April-July 1966 - correct as per supplying authority.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Mar-1999
+All data for 1954-83 were replaced with an updated set of data covering 1954-93 The revised data is in metric only
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-2006
+Station set to METRIC due to unresolved datum issues.
+

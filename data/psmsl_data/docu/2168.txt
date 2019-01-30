@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-May-2013
+The gauge at Scoresbysund began operating in October 2007 . Authority responsible is the Danish National Space Center. Sampling interval was originally 10 mins but changed to 5 mins in Sept. 2008. The gauge is a Aanderaa WLR-7 pressure gauge. The data values refer to Tide Gauge Zero.
+

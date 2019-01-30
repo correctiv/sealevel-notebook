@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-1996
+data received via UH SLC
+Lamu B is not linked to Lamu (470/011)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Nov-1997
+Instrument type: two Handar Encoders (float and well)
+

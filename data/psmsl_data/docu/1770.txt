@@ -1,0 +1,14 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1993
+DATA RECEIVED FROM TOGA OFFICE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Apr-1996
+the sharp drop in early January 1993 agrees with
+the signature at Noumea and Rarotonga and the
+low trend through 1994 agrees well with Noumea.
+No evidence was found in tide staff readings to
+suggest a shift.  We assume the drop is real.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Oct-1996
+data 1990-94 received via UH Sea Level Center from authority G3
+1990-94 data revised in data submission of September 1996
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Oct-1996
+1990-94 gauge type=Ott float & well at 21 08 S 175 12 W
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+Following information received from the data suppliers, KHOA the values for
+lat. and long. have been revised.
+Tide gauge is an OTT float gauge
+

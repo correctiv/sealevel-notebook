@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Surigao             660/151 RLR(1988) is 8.9m below BM3
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Mar-1999
+gauge type = Leupold & Stevens
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Oct-2010
+Previous to 2009 data last data was August 2002. Datum remains TSO 1986 and Primary benchmark BM 3. However the relationship between the two has changed from previously 4.238m to 4.263m. The RLR factor has been modified to 4.637m to adjust for this.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Feb-2012
+Surigao was 'buddy checked' with Cebu both display an area of possible suspect data for the period Dec 1997-Dec 1999 because of this the data have not been flagged as suspect. Gauge type THALIMEDES
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Dec-2018
+No data was observed in Surigao due to port development. The station has been relocated temporarily at Port of Lipata in Surigao City. A new instrument has now been installed in Surigao City. Data observation will start as soon as possible.
+

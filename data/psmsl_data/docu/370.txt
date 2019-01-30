@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-1996
+instrument type: Leupold and Stevens, model A-71, float gauge
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-1997
+1932-33: data from gauge operated by the East Africa Railways Corporation
+1960s-1976 (intermittently): data from Munro 1861/48 gauge at Kipevu
+pilot jetty
+

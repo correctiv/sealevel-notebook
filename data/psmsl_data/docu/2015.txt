@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+Installed 14.01.2008 Gokceada is a new station to PSMSL. Unique id. is 2015
+while Coastline code is 310 and Station code is 044. Gokceada is on the Aegean
+Sea and forms part of the Turkish Sea Level Monitoring Network.
+

@@ -1,0 +1,1 @@
+Add 7.910m to data values 1969-2001 to refer to RLR<br>Add 6.560m to data values 2002 onwards to refer to RLR<br>RLR is 9.600m below primary benchmark R 70

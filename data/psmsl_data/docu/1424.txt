@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Key Colony Beach    940/092 RLR(1978) is 8.4m below BM3962A
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Key Colony Beach    940/092 RLR(1978) is 8.4m below BM3962A
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Many stations on the Gulf coast have large values for September 1961.
+REPLACES MARATHON SHORES
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Dec-2011
+Using NOAA data the RLR diagram has been reviewed. Primary benchmark remains A
+3962 1976 2.758m above gauge datum.
+

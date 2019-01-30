@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Loreto              830/023 RLR(1980) is 8.7m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Feb-1992
+DATA 1985-88 RECEIVED FROM TOGA OFFICE
+Loreto is an historic station last data 1988
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-1997
+Large earthquake offshore of Mexico about 19 degrees North on 9 October 1995 with large tsunami generated. See article by A.E.Filonov in EOS, 78(3), 1997.
+

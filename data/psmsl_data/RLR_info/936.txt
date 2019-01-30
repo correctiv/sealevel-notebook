@@ -1,0 +1,1 @@
+Subtract 2.285m from data values 1960-1974 to refer to RLR<br>Add 1.802m to data values 1975 onwards to refer to RLR<br>RLR is 13.900m below primary benchmark SD 4030 6012

@@ -1,0 +1,1 @@
+Subtract 4.715m from data values 1959-1982 to refer to RLR<br>Subtract 4.721m from data values 1983-1985 to refer to RLR<br>Add 2.869m to data values 1986 onwards to refer to RLR<br>RLR is 12.000m below primary benchmark TA 1989 1630

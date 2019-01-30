@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-May-2005
+A paper by Marcos et al (JGR Volume 11, 2005) provides an overview of the tide gauge records on the northern coast of Spain.
+

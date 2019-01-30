@@ -1,0 +1,1 @@
+Add 5.688m to all data values to refer to RLR<br>RLR is 8.200m below primary benchmark 3080 A 1982

@@ -1,0 +1,1 @@
+Add 7.000m to data values 1963-1999 to refer to RLR<br>Add 1.980m to data values 2000-2002 to refer to RLR<br>Add 1.970m to data values 2003-2004 to refer to RLR<br>Add 1.980m to data values 2005-2010 to refer to RLR<br>Add 0.000m to data values 2011 onwards to refer to RLR<br>RLR is 11.543m below primary benchmark TGBM 1

@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Jul-1994
+Gauge is an "A Class" bubbler maintained by POL.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Jun-1998
+RLR redefined, 2 June 1997
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Apr-2000
+Datums of gauge readjusted 5th June 1997
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Apr-2000
+St. Helier 2        180/002 RLR(1995) is 14.7m below TGBM 6465 4764
+

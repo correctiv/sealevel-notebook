@@ -1,0 +1,16 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Hamina              060/361 RLR(1964) is 7.8m below BM PM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Hamina              060/361 RLR(1964) is 7.8m below BM PM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jul-1998
+21 July 1998: RLR redefined following review of revised data
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+PRIOR TO 1971 FCODE=06
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Jan-2012
+From levelling information recently supplied by the Finnish Meteorological
+Institute it has been confirmed that the Primary benchmark remains PM 2.75m
+above the gauge datum.
+

@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Mar-2000
+data for January 1996-December 1999 received via WOCE databank (Hawaii)
+and has had preliminary quality control processing only
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Nov-2010
+Dataset 1996-2006 supplied by UHSLC. Previously the authority was said to be NOAA. But referring to previous comments the authority on the database was changed to UHSLC.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Oct-2015
+After receiving the latest JASL data the complete UHSLC datset 1996-2014 has been added to the database. Several data points have been added to the previous JASL version.
+

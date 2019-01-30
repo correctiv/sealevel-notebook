@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jun-2009
+Data for 2005-2007 taken from the JASL CD. The value for 
+December 2004 was revised from 1642 to 1639. This value was
+also taken from the CD.
+

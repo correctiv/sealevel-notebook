@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jul-2012
+Gureopdo is a new station which became operational 1st May 2011.
+Tide gauge is a MIROS radar gauge
+

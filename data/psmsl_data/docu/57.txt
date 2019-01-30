@@ -1,0 +1,21 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Vaasa/Vasa          060/051 RLR(1964) is 8.0m below BM1139G
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Vaasa/Vasa          060/051 RLR(1964) is 8.0m below BM1139G
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+1883-1921 FCODE=01
+1922-1970 FCODE=06
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Jan-2012
+Levelling information recently supplied by the Finnish Meteorological Institute
+confirms that previous benchmark 1139G is no longer used. From 2000 onwards
+Primary benchmark is 00003 3.294 above gauge datum. While this was being
+reviewed it was noticed that data for the period Jan1919-Dec1921 was not
+included as RLR leaving a gap in the RLR dataset. Although this was
+investigated no reason was found for this anomaly. This data period has now
+been included in the RLR dataset.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jan-2017
+Following the 2016 levelling exercise some adjustments have been made to the benchmark reference heights - at Vaasa this was +1mm for BM 00003. The adjustments are a result of more accurate measuring and calculations using the N2000 height system. The RLR diagram has been re-drawn because of this.
+

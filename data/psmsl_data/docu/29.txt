@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Soderskar           060/354 RLR(1936) is 8.5m below BM Bolt P
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Soderskar           060/354 RLR(1936) is 8.5m below BM Bolt P
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Oct-2012
+Soderskar is an historic station last data 1936
+

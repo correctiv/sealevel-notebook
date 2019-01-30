@@ -1,0 +1,6 @@
+La Libertad II      845/012 RLR(1989) is 19.1m below BM8
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Nov-1997
+Instrument type: standard mechanical tide gauge (1949-present);Leupold Stevens analog-to-digital recorder (ADR)(5/1985-present) (backup);Handar Encoder (ENC) model 436A (5/1985-present) (backup)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Apr-2018
+The UHSLC data for La Libertad 1995 onwards has now been removed from this dataset. The UHSLC data has been entered onto the database as a separate station.
+

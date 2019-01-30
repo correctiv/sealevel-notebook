@@ -1,0 +1,10 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Tema                410/016 RLR(1969) is 9.6m below BM PL8/5
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Tema                410/016 RLR(1969) is 9.6m below BM PL8/5
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Nov-1995
+replacement tide gauge installed in 1991: OTT type X(20.102)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Feb-2002
+(New) Tema gauge installed in 1991, but had operating
+problems and then the gauge was stolen.
+

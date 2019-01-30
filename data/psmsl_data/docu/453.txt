@@ -1,0 +1,11 @@
+1941-1942 data supplied by B.O.D.C.
+1959-1962 data supplied by the National Geographical Institute, France
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Le Havre            190/051 RLR(1977) is 12.7m below BM NGFNPC17
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Oct-1994
+1991-93 problems with gauge operation, numerous gaps
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Mar-2012
+Primary benchmark is now IGN N.CP-15 9.767m above Zero Hydrographique.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2014
+Using values from the SONEL website the latitude and longitude for Le Havre has been revised. The data downloaded from SONEL contained a number of additional data points particularly for the 1980's. Because of this the whole dataset has been re-loaded.
+

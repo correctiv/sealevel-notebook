@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Colonia             870/001 RLR(1964) is 10.8m below BM SH002
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Colonia             870/001 RLR(1964) is 10.8m below BM SH002
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jul-1994
+Record will be affected by the confluence of the Parana and
+Uruguay Rivers.
+Colonia is an historic station last data 1995
+

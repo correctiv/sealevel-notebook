@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Nov-2010
+This is a new station and is part of the ODINAfrica project. All data refer to
+a Bolt on steel tube used as a stilling well. Chart Datum=6.517m below Bolt.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Sep-2015
+Following analysis of calibration data the whole series has been reloaded. The zero of the series is now local Chart Datum.
+

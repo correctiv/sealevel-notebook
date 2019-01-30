@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jul-2015
+Data for Nuku Hiva is now downloaded from SHOM. Although still a UH gauge SHOM work very closely with UH with the maintenance and running of the gauge. When the SHOM data for Nuku Hiva is plotted against the UH data the data plots differ. This is probably due to a time shift that was wrongly applied after 2004. SHOM are aware of the problem and the data will be revised as soon as possible.
+

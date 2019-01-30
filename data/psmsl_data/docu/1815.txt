@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Sep-2015
+Previously it was thought that this data was UH data. On further investigation it becomes clear that this data was supplied by BAKOSURTANAL Indonesia, see emails of June 2010. The station has now been reverted to 'Metric'.
+

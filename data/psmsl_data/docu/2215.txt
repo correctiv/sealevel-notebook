@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Feb-2014
+Bay Waveland Yacht Club II is a new station. Gauge was re-instated in 2005 and given a new id. 2215. Although the benchmark remains the same the datum has changed. The new data for 2005 onwards has been made RLR.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Jul-2018
+Using updated information from the NOAA website the RLR diagram has been redrawn. Primary Benchmark is now defined as 7437 C 1978 2.379m above the Station Datum. The tide gauge installed in 2005 is on a pylon just off shore but has been leveled into the previous gauge. The whole series has been made RLR with a new RLR factor of 6.021m.
+

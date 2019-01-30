@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been re-ordered compared to those in earlier versions of the PSMSL data set. Data up to 1960 was supplied by C.S.I.R.O, Tasmania.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-May-1996
+Revised data 1960-1985 supplied by the National Tidal Centre, Bureau of Meteorolgy, South Australia.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-May-2002
+Port Hedland        680/494 RLR(2000) is 12.761m below BM DMH 101
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Feb-2008
+Port Hedland        680/494 RLR(2000) is 12.762m below BM PA26
+

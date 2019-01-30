@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jan-2013
+Paralimni is a new station supplied by the Oceanography Center of the University of Cyprus
+Measuring parameters: Pressure and Sea Temperature
+Sensor model: AANDERRA Pressure sensor 3796A
+Sensor Type: pressure type sensor
+Sampling rate: 30 seconds
+Transmit interval: 1 minute
+

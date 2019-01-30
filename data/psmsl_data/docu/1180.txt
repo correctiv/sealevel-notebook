@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been re-ordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jan-1998
+Data for 1966-1984 was revised with the version received from the National Tidal in December 1997
+

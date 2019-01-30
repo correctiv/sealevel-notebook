@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Lisbon              210/023 RLR(1981) is 12.4m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Lisbon              210/023 RLR(1981) is 12.4m below TGBM
+Lisbon is an historic station last data 1985
+

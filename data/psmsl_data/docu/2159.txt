@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jan-2013
+Paphos is a new station supplied by the Oceanography Center of the University of Cyprus.
+Measuring parameters: Pressure, Sea Temperature and Atmospheric Pressure.
+Sensor Model: Paroscientific Digiquartz Intelligent sensor 8DP060-1.
+Sensor Type: Pressure Type Sensor
+Sampling rate : 15 seconds
+Transmit Interval 1 minute.
+

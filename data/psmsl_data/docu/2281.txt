@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Feb-2016
+Lymington is a new station operated by the Channel Coastal Observatory (CCO) based at NOC Southampton. Instrument type is an Etrometa Step Gauge.
+

@@ -1,0 +1,10 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Lemstrom            060/271 RLR(1936) is 10.4m below BMR2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Lemstrom            060/271 RLR(1936) is 10.4m below BMR2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+OLD BENCHMARKS LONG DISAPPEARED. DATA SEEM HOMOGENOUS
+

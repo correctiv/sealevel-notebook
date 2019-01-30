@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1996
+Data up to 1964 supplied by the Australian Ocean Data Centre N.S.W data is based on High and Low waters.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1996
+Revised data for 1964 onwards recieved from the National Tidal Centre, Bureau of Meteorology, South Australia
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-May-1996
+data previously supplied by C.S.I.R.O Tasmania
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+A value of MTL-MSL=-3 mm has been derived using the GESLA2 (high-frequency tide gauge) dataset using harmonic constituents. As the correction is only applied to RLR data and the data from 1962-1963 is metric, it is not used in the data set.  Should this period become metric in future, however, it would be used.
+

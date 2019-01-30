@@ -1,0 +1,17 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Port Nelson         690/071 RLR(1987) is 10.5m below BM N1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2003
+New data from John Hannah added 17/01/03 which supercedes old data. New data does not have any missing days information. Old data has been backed up.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2003
+New data from John Hannah was for Auckland II, Dunedin II, Lyttelton II and Wellington II.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2005
+There is a new John Hannah paper referring to New Zealand data for Wellington, Dunedin, Lyttelton and Auckland. The reference is: "An updated analysis of long-term sea level change in New Zealand." Geophysical Research Letters, V31, L03307, doi:10.1029/2003GL019166 (2004).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Oct-2008
+Full dataset for Nelson 1984-2007 received from Glen Rowe at LINZ 01/10/08.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Oct-2010
+From information received from Glen Rowe at Linz the datum history is as follows: Up to 1994 TGZ was 5.773m below N1 From 1994 TGZ is 5.775m below N1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jul-2016
+PSMSL has queried the apparent 'jump' in the Nelson dataset between the data for 2012/2013. However, enquiries by LINZ to the cause of this have been inconclusive.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Jun-2018
+The Kaikoura earthquake at 23:02 on 13th November 2016 impacted on a number of stations in the central part of New Zealand. Because of this the hourly values for several stations from 14th November 00:00hrs have been adjusted by LINZ. For station Nelson the adjustment is -0.021m.
+

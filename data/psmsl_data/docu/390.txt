@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Dutch Harbor        820/020 RLR(1954) is 11.1m below BM2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Dutch Harbor        820/020 RLR(1954) is 11.1m below BM2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-2012
+This is an historic site. last data value recived is that for May 1955.
+Stationis switched 'inactive'.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Data for Vairao French Polynesia has only recently been added to the database. There is a small amount of data for August-November 1973 with the main dataset then beginning November 2010.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Mar-2017
+Using information from the SONEL website Vairao has been made RLR from 2010 onwards.
+

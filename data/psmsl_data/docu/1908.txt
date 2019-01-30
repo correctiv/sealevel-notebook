@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+Following new information received from the data suppliers, KHOA the lat. and
+long values have been revised.
+Tide gauge is an MIROS radar gauge
+

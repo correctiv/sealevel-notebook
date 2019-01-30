@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-2010
+Daecheong Do is a new station Coastline no. 620 Stationcode no. 005 Station id.
+2045
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+At the request of the data supplyers, KHOA the station name has been changed
+to Daecheongdo. The lat and long. have also been revised.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Sep-2013
+The tide gauge at this station was destroyed by typhoon Bolaven on 29th August 2012.
+

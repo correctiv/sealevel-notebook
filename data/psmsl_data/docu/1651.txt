@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Winyah Bay          960/044 RLR(1986) is 8.3m below BM W.B. NO 1 1975
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Winyah Bay          960/044 RLR(1986) is 8.3m below BM W.B. NO 1 1975
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Feb-2012
+South Island Plantation, Winyah Bay is an Historic station last data received
+is that for 1995. Primary benchmark remained WB NO 1 1975 2.938m above gauge
+datum.
+

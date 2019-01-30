@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Feb-2014
+The previous dataset for this station was for the period 1990-1996. SHOM have now re-instated the gauge. Full dataset was downloaded from SONEL. Several data points in the original data had been revised/added.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2014
+Using values from the SONEL website the values for latitude and longitude for Degrad des Cannes (Cayenne) have been revised.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Apr-2017
+There was a change in Chart Datum in November 2013 for Degrad des Cannes the new datum is 10.7cm lower than the old one. The complete dataset recently downloaded from SONEL has been adjusted for this.
+

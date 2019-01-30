@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Tallinn             080/011 RLR(1938) is 8.7m below BM Custom House
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Tallinn             080/011 RLR(1938) is 8.7m below BM Custom House
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jul-1994
+This station is in Estonia.
+Tallinn is an historic station last data 1938
+

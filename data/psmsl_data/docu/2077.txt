@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Nov-2011
+Crotone on the South coast of Italy is a new station. Data for January 2001 onwards was downloaded from the Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) website. Database id. 2077.Metadata for Crotone were also downloaded.
+

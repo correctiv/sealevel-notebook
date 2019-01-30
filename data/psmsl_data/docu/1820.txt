@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jan-1997
+All data are corrected for atmospheric pressure
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Apr-1999
+tide gauge removed in June 1997
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Feb-2002
+Ilulissat gauge ceased operating in 1997.
+

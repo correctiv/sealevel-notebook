@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-2014
+Cascais A has been created as a separate station from Cascais id.52 until more datum information can be investigated. Originating authority is now Instituto Geografico Portugues.
+

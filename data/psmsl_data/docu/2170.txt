@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-May-2013
+The gauge at Qaqortoq II began operating on Oct. 2005 however, due to a clear datum shift the data prior to May 2008 had to be disgarded. Responsible authority is the Danish National Space Center. Sampling was originally 15 mins but changed to 5 mins in Nov. 2006. Gauge is an Aanderaa WLR-7 pressure gauge. Data are referred to Tide Gauge Zero.
+

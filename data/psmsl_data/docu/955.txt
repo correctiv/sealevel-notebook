@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Pusan               620/046 RLR(1963) is 8.9m below TBM no.1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Feb-1993
+gauge resited 1973
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Pusan               620/046 RLR(1963) is 8.9m below TBM no.1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Dec-1997
+Type of tide gauge: OTT float
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+At the request of the supplying authority, KHOA the name has been changed to
+read Busan the lat. and long. have also been revised.
+

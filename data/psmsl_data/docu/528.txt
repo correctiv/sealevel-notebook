@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Truk, Moen Is       710/001 RLR(1964) is 8.3m below BMB
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Mar-1995
+Formerly known as Truk
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-May-1995
+1991 data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-2012
+The tide gauge at Chuuk, Moen Island was discontinued by NOAA during 1995. Last data received is that for Jun1995. Because of this the station has been marked 'inactive'.
+

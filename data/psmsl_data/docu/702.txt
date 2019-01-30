@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Veracruz            920/041 RLR(1964) is 9.2m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-1996
+Data 1991-94 received from UHSLC
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-1996
+Instrument type: standard float and stilling well
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Dec-1998
+Data for 1995 received from University of Hawaii Sea Level Center
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Dec-2008
+Whole dataset for Veracruz 1953-2007 replaced by revised values from Mexico.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jun-2009
+Until we have comfirmation of the datum of the recently supplied full dataset for Veracruz the station has been redefined as METRIC.
+

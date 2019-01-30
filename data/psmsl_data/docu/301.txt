@@ -1,0 +1,10 @@
+Data for 1927-1929 were supplied by the Melbourne Harbour Trust, Melbourne, Victoria. Values are based on readings of high and low water.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+station density along some sections of the Australian coast has meant that station codes 601 onwards have been re-ordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-May-1996
+Revised data values for the period 1966-1985 were supplied by the National Tidal Centre, Bureau of Meteorology, South Australia.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2014
+This station cannot be made RLR as there is no datum information available from the National Tidal Centre.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+A value of MTL-MSL=14 mm has been derived using the GESLA2 (high-frequency tide gauge) dataset using harmonic constituents. As the correction is only applied to RLR data and the data from 1927-1929 is metric, it is not used in the data set.  Should this period become metric in future, however, it would be used.
+

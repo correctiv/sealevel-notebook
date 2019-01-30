@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-May-1994
+UP TO 1993 (JULY) OTT GAUGE, SINCE 1993 (AUGUST) SONAR RESEARCH GAUGE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Mar-2002
+Zuluf data Dec. 1994-Dec. 1995 suspect (shows doubling in range) and deleted.
+

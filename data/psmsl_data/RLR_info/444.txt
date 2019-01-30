@@ -1,0 +1,1 @@
+Add 3.990m to data values 1940-2003 to refer to RLR<br>Add 4.573m to data values 2005 onwards to refer to RLR<br>RLR is 9.388m below primary benchmark B.M. 1 (MARINE SURVEY DIVISION)

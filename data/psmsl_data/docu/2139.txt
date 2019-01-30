@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Apr-2012
+La Spezia is a new station data and metadata were downloaded from the ISPRA
+website id no. 2139
+

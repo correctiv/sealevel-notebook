@@ -1,0 +1,12 @@
+Station moved - new data held in station 642/069
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Tokyo II            642/071 RLR(1976) is 8.1m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Tokyo II            642/071 RLR(1976) is 8.1m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Tokyo II (642/071) starting operating 1st January 1968, replacing
+Tokyo I (642/070).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Tokyo II ceased operating March 1982 and was replaced by
+Tokyo III (642/069) April 1982.
+

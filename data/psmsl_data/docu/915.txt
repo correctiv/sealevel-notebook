@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Nov-1991
+1957-1969 co-ordinates were 64 11 N, 51 45 W
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Jul-1992
+Prior to 1991 fcode=24
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Apr-1999
+Godthab is also known as Nuuk.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Aug-2002
+DMI Nuuk/Godthab gauge damaged and unuseable 2002.  DMI will no longer maintain a gauge at this site.
+

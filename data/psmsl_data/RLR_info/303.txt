@@ -1,0 +1,1 @@
+Add 12.200m to data values 1927-1974 to refer to RLR<br>Add 0.000m to data values 1975 onwards to refer to RLR<br>RLR is 12.200m below primary benchmark NAP-380

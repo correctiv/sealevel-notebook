@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1997
+Gauge type=A. Ott x-type
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Oct-1998
+1997 data revised, 26 October 1998
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Mar-1999
+Gauge type = Ott R20 and is located in the fishing harbour
+Beira is an historic station. Last data 2000.
+

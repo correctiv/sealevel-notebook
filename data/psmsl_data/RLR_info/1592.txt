@@ -1,0 +1,1 @@
+Add 4.812m to data values 1984-1992 to refer to RLR<br>Add 4.827m to data values for 1993 to refer to RLR<br>Add 4.812m to data values 1994 onwards to refer to RLR<br>RLR is 9.500m below primary benchmark T0283

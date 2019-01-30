@@ -1,0 +1,4 @@
+1934-1935 DATA SUPPLIED BY SURVEY OF INDIA 1934-1935 VALUES BASED ON READINGS OF HIGH AND LOW WATERS
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+A value of MTL-MSL=-1 mm has been derived using the GESLA2 (high-frequency tide gauge) dataset using harmonic constituents. As the correction is only applied to RLR data and the data from 1934-1935 is metric, it is not used in the data set.  Should this period become metric in future, however, it would be used.
+

@@ -1,0 +1,1 @@
+Add 6.834m to data values 1961-1973 to refer to RLR<br>Add 3.714m to data values 1974-1982 to refer to RLR<br>Add 3.724m to data values for 1983 to refer to RLR<br>RLR is 13.594m below primary benchmark TQ 6233 7567

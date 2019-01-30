@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been re-ordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Aug-2013
+Tide gauge operational once again from May 2011. There is currently no Datum information available on the NTC website.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2014
+This station cannot be made RLR as there is no datum information available from the National Tidal Centre.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Oct-2018
+The monthly mean sea level values for 2016 have been revised. Values have been lowered by approximately 3cm.
+

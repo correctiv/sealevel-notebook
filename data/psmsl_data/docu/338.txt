@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Oct-2013
+Complete dataset Jan. 1926 to Dec. 1939 downloaded fron UHSLC
+

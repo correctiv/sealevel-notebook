@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Palermo             260/011 RLR(1919) is 7.7m below BM
+Palermo is an historic station. Last data 1922
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Aug-1992
+Italian levels may be influenced by the Messina Earthquake of 1908 - See Bottari et al.,Tectonophysics, 202, 269-275, 1992
+No BM information but data seems homogenous
+

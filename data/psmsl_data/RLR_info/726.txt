@@ -1,0 +1,1 @@
+Add 5.245m to all data values to refer to RLR<br>RLR is 9.400m below primary benchmark RN S/No Cota=2.465

@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Nov-2018
+Bedford Institute is a new station in Nova Scotia close to where station Halifax (id 96) was located. Last data we received for Halifax is 2014.
+

@@ -1,0 +1,5 @@
+1926 VALUES BASED ON 24 READINGS/DAY; 1937-1938 ON HIGH & LOW WATERS
+PRIOR TO  1943 MAINTAINED BY AUTHORITY CODE NO. 30
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+The value of MTL-MSL is unknown for this location.  It exepcted to be large.  Thus, we have added the 001 flag to the data from 1937-1938 data to indicate that difference is large and uncertain.
+

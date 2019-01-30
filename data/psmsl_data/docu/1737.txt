@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jan-2012
+Using data from the latest UHSLC JASL cd several months of data for 2009 have
+been added to the dataset.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Jan-2014
+Complete dataset 1988-2012 supplied by UHSLC. Whole dataset loaded onto the database values the same with additional points added.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Complete updated JASL dataset through to 2014 reloaded onto database.
+

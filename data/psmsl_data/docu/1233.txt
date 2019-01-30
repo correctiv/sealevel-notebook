@@ -1,0 +1,9 @@
+1969-80 Data  from readings of tide pole
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Leros               290/091 RLR(1977) is 9.2m below BM R20
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Leros               290/091 RLR(1977) is 9.2m below BM R20
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Mar-1997
+The contributing authority advises that anomalous values
+are the result of met. influences
+

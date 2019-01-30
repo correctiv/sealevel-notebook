@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2001
+The gauge type is a MORS (bottom-mounted pressure gauge). The tide gauge is installed in the Baie du Navire,Possession Island, in the Crozet archipielago,nearby the Alfred Faure french scientific base. The gauge is a MORS automatic tide gauge station and consists of a ventilated ParoScientific pressure sensor at the base of a stilling well which is used to filter waves.  The ventilation of the sensor results in a measurement of the total pressure (atmosphere + ocean) minus the atmosphere; hence, a direct measure of sea level,assuming water density is properly estimated.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2001
+All monthly means for Crozet have been taken from the University of Hawaii Sea Level Center to which data are directly relayed by the French operators.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Feb-2014
+Following information received from LEGOS the authority responsible for the Crozet tide gauge. They have confirmed that the gauge is not yet levelled into any benchmark.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2014
+Using values from the SONEL website the latitude and longitude values for Crozet have been revised.
+

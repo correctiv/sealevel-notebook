@@ -1,0 +1,11 @@
+1969-78(June) Data  from readings of tide pole
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Khios               290/071 RLR(1981) is 8.9m below BM R62
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Khios               290/071 RLR(1981) is 8.9m below BM R62
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Mar-1997
+The contributing authority advises that anomalous values
+are the result of met. influences
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Jun-2015
+There is no data available for Khios for 2014
+

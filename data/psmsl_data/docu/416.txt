@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Nov-1993
+1977-91 all years include interpolated values
+

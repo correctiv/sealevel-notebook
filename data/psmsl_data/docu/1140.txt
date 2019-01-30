@@ -1,0 +1,9 @@
+Station moved - new data held in station 642/022
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Ofunato I           642/021 RLR(1972) is 8.3m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Ofunato I           642/021 RLR(1972) is 8.3m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Ofunato I ceased operating 23rd May 1973, replaced by II (642/022)
+on 25th May 1973.
+

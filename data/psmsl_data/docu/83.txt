@@ -1,0 +1,8 @@
+1889 - 1926 VALUES BASED ON 1 READING PER DAY
+Station is in Russia. Formerly Finland and known as Viipuri
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Vyborg              080/002 RLR(1938) is 10.8m below BM 735D
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Vyborg              080/002 RLR(1938) is 10.8m below BM 735D
+Vyborg is an historic station last data 1944
+

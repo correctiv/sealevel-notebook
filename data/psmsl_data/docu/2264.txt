@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jul-2015
+Ancud is a newly supplied station to the PSMSL. Data begins in 1999.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Oct-2016
+Using information supplied by SHOA Ancud has been made RLR. Primary benchmark is BM 04 4.887m above gauge zero. RLR factor is 4.913m.
+

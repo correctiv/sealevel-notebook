@@ -1,0 +1,16 @@
+National Tidal Facility
+G.P.O. Box 2100
+S.A. 5001
+Adelaide 
+AUSTRALIA
+
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-May-1993
+Stations with authority code G1 are records of Australian (and a few
+other) mean sea levels supplied by Dr.Bill Mitchell of the National
+Tidal Facility, Australia in October 1992. The time series have
+been computed by a homogenization of the data at each station by
+a process wherein datum shifts are removed by theoretical means,
+rather than from survey information. For this reason the data are
+not defined to be "RLR", and should be used in time series work
+with caution, but they are probably the best thing which can be
+done for many historical Australian records at the present time.

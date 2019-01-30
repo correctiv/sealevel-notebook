@@ -1,0 +1,18 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Aug-1996
+For discussions of MSL changes and extreme sea levels around Namibia and South Africa, see: G.B.Brundrit, S.Afr.J.Mar.Sci.,16,9-17,1995 and S.Searson and G.B.Brundrit, S.Afr.J.of Science, 91,579-588,1995.
+To be disregarded - Guage on unstable jetty
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Jul-2006
+Data for 2000 were supplied by BODC. The values were supplied to BODC via the University of Cape Town and so are not being classed as official.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Aug-2006
+Following the supply of data from the South African Hydrographic Office the data for the year 2000 has now been revised with the official values.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2009
+Heights of chart datum relative to land levelling
+datum in South Africa and Namibia: Saldanha
+Datum: up to 31st Dec 1978 = -0.582
+Datum: 1st Jan 1979 - 31st Dec 1997 = -0.900
+Datum: 1st Jan 1998 - 31st Dec 2002 = -0.975
+Datum: 1st Jan 2003 onwards = -0.865
+Datum is now LAT so unlikely to change.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-May-2010
+There appears to be a spike in the dataset for November 2002. This is possibly real as a spike during Nov/Dec 2002 appears in several of the S. African stations.
+

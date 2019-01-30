@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Apr-2014
+Haifa II is a new station.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jun-2015
+Using information from the Survey of Israel Haifa II has been made RLR.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Sep-2018
+There is no data for 2017 due to instrument problems.
+

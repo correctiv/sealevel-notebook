@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-2014
+Data for Pisco B has been separated from Pisco as the UH metadata for the two stations confirms there is no link between the two.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Complete updated JASL data through to 2014 loaded onto the database. UHSLC metadata confirms that the data for 2013-2014 received from D.H.N.M. Peru was 80mm lower than the previous data. UHSLC have adjusted the 1991-2012 data by -80mm to match the level of the update.
+

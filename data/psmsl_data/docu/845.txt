@@ -1,0 +1,9 @@
+Station moved - new data held in station 647/010
+Last data 1993
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Shimonoseki I       647/011 RLR(1976) is 10.1m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Aug-1992
+Low value in March 1960 corresponds to an incomplete month of data.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Shimonoseki replaced by Shimonoseki II (647/010) gauge 1st July 1993.
+

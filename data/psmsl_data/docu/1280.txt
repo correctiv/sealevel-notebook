@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Savage Cove         970/103 RLR(1974) is 7.5m below SAV3(1969)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Nov-1993
+Since 1980 monthly means received from Canadian authority are in cm.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2012
+Last data received for Savage Cove was that for 1982.
+

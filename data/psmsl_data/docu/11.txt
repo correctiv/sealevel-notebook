@@ -1,0 +1,16 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Jul-1992
+Gauges in Eastern Germany(Wismar, Warnemunde, Sassnitz, Koserow) as of March 1992 are type 'Steremat', vertical drum, swimmer principle, measures 1:10, continuous registration on paper chart. (information from L. Ballani, Potsdam.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Aug-1994
+These values are of Warnemunde MSL relative to the HN datum as computed by the University of Dresden. See the report "Die Reduktion historischer Wasserstandsmessungen an der Kueste
+Mecklenburg-Vorpommerns auf das Hoehensystem HN76" by G.Liebsch, R.Dietrich, L.Ballani and G.Langer.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Sep-1994
+Prior to 1894 readings from a tide pole, 1894 onwards - analogue gauges used. 1945-52 tide pole used while new gauges installed.  No observations were made in 1945 but Wismar values used.  Dresden analyses were based on the following: 1855-1882  1 reading per day, corrected for tidal effects 1883-1894(June) 2 readings per day, corrected for tidal effects 1894(July)-1945  4 readings per day from charts 1946-1952 1 to 4 readings per day, corrected for tidal effects 1953-1980 4 readings per day. So, tidal aliasing effects should be largely removed from Desden values
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-2000
+Warnemunde 2        120/012 RLR(1991) is 7.3m below BM 4 061 13 105 1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jan-2002
+Warnemuende data up to 1992 supplied by Technische Universitat Dresden (auth=H3).  Data 1993- supplied by Bundesamt fur Seeschiffahrt und Hydrographie (BSH), Hamburg (auth=16).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jan-2002
+Change of tide gauge 4/11/1999, but no change in datum.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Aug-2010
+The data for Warnemunde was measured to Normal Null which is a German datum related to levels at Potsdam near Berlin. It is similar to ODN in the UK and the NAP in Holland. It is unusual therefore to make the station RLR as it 'breaks the rules' of RLR. Data now refers to TGZ.
+

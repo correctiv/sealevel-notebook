@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Lohm                060/301 RLR(1927) is 8.0m below BM(Bolt in Rock)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Lohm                060/301 RLR(1927) is 8.0m below BM(Bolt in Rock)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+

@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jan-1998
+gauge type = pressure (Platypus Engineering)
+

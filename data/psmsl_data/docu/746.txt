@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Amherst             530/031 RLR(1963) is 14.5m below BM 36
+Amherst is an historic station. Last data 1964.
+

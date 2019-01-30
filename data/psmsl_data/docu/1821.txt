@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-1997
+Large earthquake offshore of Mexico about 19 degrees North on
+9 October 1995 with large tsunami generated. See article by
+A.E.Filonov in EOS, 78(3), 1997.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Oct-1998
+data for May 1992 - August 1997 received via the WOCE databank (Hawaii)
+and has had preliminary quality control processing only
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Nov-1999
+Socorro had an eruption in early 1993 after which sea level has been
+falling at a high rate during the past few years.
+Socorro Is. is an historic station last data 1997
+

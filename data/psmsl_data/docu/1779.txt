@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1993
+DATA RECEIVED FROM TOGA OFFICE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-1996
+instrument type: Metercraft Bubbler
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2005
+Data are provided by UH Sea Level Center.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jan-2005
+Hanimaadhoo         454/021 RLR(2004) is 5.0m below TGZ
+

@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Oct-1998
+NB station coding out of sequence
+No link known between station A/001 and this station
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Aug-1999
+Installation is NOS/NOAA NGWLMS
+

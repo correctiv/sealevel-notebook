@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Russkaya Gavan      030/001 RLR(1972) is 11.5m below BM SG2F
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Jul-1995
+No observations made 1992-93
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-1996
+No data for 1994 - gauge malfunction
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Feb-1996
+No data for 1995 - gauge malfunction
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Aug-1999
+No data after 1991 because site closed.
+

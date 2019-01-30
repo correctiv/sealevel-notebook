@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Nov-1991
+RLR(1989) is 12.2m below TGBM 72831
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-May-1994
+1992 data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Oct-2000
+"Xiamen" means "small gate", in the approaches to Shanghai.
+

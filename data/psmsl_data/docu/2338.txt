@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Oct-2018
+Daily and monthly sea level data for Pasaia Harbour are supplied on a monthly basis by the GEOLAB Pasaia Team.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Oct-2018
+GEOLAB is an agreement between ARANZADI located in Zorrogagaina, 11. E-20014 Donostia, San Sebastian and AZTI located in Herrera Kaia, Portualdea z/g. E-20110, Pasaia (Gipuzkoa).
+Using information supplied by J. Zurutuza, on behalf of the GEOLAB Pasaia Team station Pasaia Harbour has been made RLR. Primary Benchmark TGBM-A is 7.061m above Tide Gauge Zero (TGZ)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Oct-2018
+The Tide Gauge and GNSS devices for Pasaia Harbour are located in the AZTI facilities at Herrera Kaia.
+

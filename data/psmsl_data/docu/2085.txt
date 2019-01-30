@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Nov-2011
+Ravenna (Porto Corsini) on the Adriatic coast of Italy is a new station. Data for 2001 onwards was downloaded from the Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) website. Database id. 2085. Accompanying metadata were also downloaded.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jun-2014
+In September 2013 the tide gauge was repositioned and leveling was carried out.
+

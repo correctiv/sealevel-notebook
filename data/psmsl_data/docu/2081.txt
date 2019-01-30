@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Nov-2011
+Messina is on the island of Sicily and is a new station. Previous Metric data for Messina id. 115 Jan.1897-Feb.1923 is also on the database. Database id. for Messina II is 2081. Data 2001 onwards was downloaded from the Instituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) website. Metadata for the station has also been downloaded. There appears to be a
+datum shift in the data April/May 2006.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Dec-2016
+ISPRA have confirmed that there was a datum change from May 2006.
+

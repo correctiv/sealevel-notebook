@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been re-ordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Apr-1996
+Revised data for March/April 1996 received from the National Tidal Centre, Bureau of Meteorolgy, South Australia.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jan-1998
+Revised data for 1994-1995 received from the National Tidal Centre, Bureau of Meteorology, South Australia.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jan-1998
+Gauge type=Druck (pressure) and Aquatrak (acoustic) transducers both pressure transducers are installed at Garden Cove
+

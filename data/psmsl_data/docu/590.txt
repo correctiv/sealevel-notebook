@@ -1,0 +1,8 @@
+No BM information but data seems homogenous
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Puerto De La Luz    370/041 RLR(1951) is 8.2m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Short record with a large negative trend.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Nov-1993
+Data 1952-55 received from TOGA office
+

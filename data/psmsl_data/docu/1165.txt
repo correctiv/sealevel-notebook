@@ -1,0 +1,6 @@
+DATA REVISED, VALUES FOR 1966-1987 RECEIVED FROM AUTHORITY D2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-May-2001
+Suspect value January 1991.
+Although a RLR diagram was prepared this station was never actually made RLR
+Carupano is an historic station last data 1997
+

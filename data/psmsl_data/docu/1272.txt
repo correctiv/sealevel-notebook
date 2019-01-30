@@ -1,0 +1,17 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Mar-1993
+Data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Feb-1996
+The period after the long gap in 1991 appears to have a lower mean level although data received via satellite also show this feature. It is not clear if a reference shift occurred during the gap.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Jun-1996
+Data 1994-95 received directly from Servicio de la Armada de Chile
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Nov-1997
+1996 data received from University of Hawaii Sea Level Centre
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Nov-1997
+Instrument type: Bristol bubbler gauge (BUB) (primary gauge 1985-01/1994)NOAA "digibub" water level gauge (PRS) (primary gauge 03/1994+)note: this gauge uses a nitrogen-driven bubbler oriface below the water line connected to a Para-scientific pressure transducer located at the DCP housing.The pressure transducers are vented to the atmosphere so no atmospheric corrections are required.  NOAA backup pressure water level gauge (BWL)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Dec-1997
+1994-95 data revised with data received from the UHSLC
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Dec-1998
+1997 data received from the University of Hawaii Sea Level Center
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Oct-2004
+Data for the period 1985-98 were replaced by a new data set received from the supplying authority (SHOA)
+

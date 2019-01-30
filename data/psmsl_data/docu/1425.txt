@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Setroia             210/026 RLR(1978) is 10.6m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Setroia             210/026 RLR(1978) is 10.6m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Nov-1998
+data for 1985-86 replaced with revised values received from authority 41
+Setroia is an historic station last data 1996
+

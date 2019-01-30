@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-May-2015
+Tremiti is a new station and is part of the ISPRA network the gauge is located at the end of the dock Ferry St. Nicholas Island. The gauge consists of a trensducer radar gauge recording every 10 secs. There are also meteorological sensors recording Water temperature, Air temperature, Relative humidity and Atmospheric pressure all recording hourly.
+

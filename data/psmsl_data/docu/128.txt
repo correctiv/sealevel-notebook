@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found in 'Operational Oceanography: Implementation at the European and Regional scales.  2002 (pp.129-137)'.
+

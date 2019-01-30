@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Tarawa-B, Bairiki   730/007 RLR(1986) is 8.8m below BM#1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1991
+Noisy residuals during spring tides 1986-88 are due to silting in the stilling well around the time of lowest low water levels. Station discontinued in May 1988
+

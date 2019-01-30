@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Noumea              740/001 RLR(1978) is 10.4m below Repere I1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Mar-2012
+Full position name for this tide gauge is Noumea-Chaleix. No further data is available from this station as it has been replaced by tide gauge Noumea-Numbo. The Chart Datum for the gauges differ so they will remain as two separate series.
+

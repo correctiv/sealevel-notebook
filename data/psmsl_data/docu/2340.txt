@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Feb-2018
+FunchalC-Marina is a new station tide gauge is a new radar (VEGA) tide gauge. The new radar gauge has not been levelled into the previous gauge so is treated as a new station.
+

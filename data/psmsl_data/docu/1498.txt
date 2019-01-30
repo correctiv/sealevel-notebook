@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jan-2012
+Using data from the latest UHSLC JASL cd data values for 1992-2010 have been
+added to the 'METRIC' dataset. Where the data from the cd overlapped with the
+previous data 1990-91 the data profile appeared the same but the numbers were
+slightly different.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Oct-2013
+Complete UHSLC dataset 1990-2012 loaded onto the 'Metric' series in the database.
+

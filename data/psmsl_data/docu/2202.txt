@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Jan-2014
+Cristobal A is a new station. Complete dataset supplied by UHSLC. The historic data for three segments of this series i.e. historic Cristobal, Coco Solo and Limon Bay have been linked to a common network of benchmarks and the data have been calibrated with the use of tide staff readings. However areas of the data still look suspicious. Treat with caution.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Complete updated dataset through to 2014 reloaded onto the database.
+

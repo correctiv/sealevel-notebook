@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+station density along some sections of the Australian coast has meant that station codes 601 onwards have been reordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Aug-2016
+Due to a newly added stattion for Coff's Harbour this station has been renamed fro Coff's Harbour II to Coff's Harbour I
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-2014
+Centuri is a new station. Data begins in November 2010.Values for the latitude and longitude were taken from the SONEL website.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+When loading the dataset for 2015 it was noted that data points for December 2011 and January 2012 had been revised.
+

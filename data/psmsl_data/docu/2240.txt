@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Hiva Oa is a relatively new station on the French Polynesia. Data begins in September 2010.
+

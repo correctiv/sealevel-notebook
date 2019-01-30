@@ -1,0 +1,22 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2001
+Tide gauge is an Aanderaa WLR7 tide recorder.
+The gauge is installed in the crater of a
+partially submerged volcano, communicating
+with the open ocean through a narrow (100m)
+and shallow (2m at low tide) pass.  This bottom
+pressure sensor is at the base of a stilling well
+which is used to filter waves.  The recorder is
+triggered by a central unit where the barometric
+pressure is measured at the same time.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2001
+All monthly means for Saint Paul have been taken from the University of
+Hawaii Sea Level Center to which data are directly relayed by the
+French operators.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-2010
+Saint Paul is part of the French Rosame network. Data for Oct 1994- Dec2006
+were downloade from ftp://ftp.legos.obs-mip.fr/pub/soa/niveau_mer/rosame/.
+Previously held data Nov 1994- May 2000 looks almost the same and has been
+stored.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Oct-2014
+Using data from SONEL the latitude and longitude for Saint Paul has been updated.
+

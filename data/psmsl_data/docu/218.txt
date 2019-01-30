@@ -1,0 +1,4 @@
+Prior to 1968 data based on readings of high and low waters supplied by Ufficio Hid. Del Mag. Venice
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2016
+A value of MTL-MSL=0 mm has been applied to the RLR data for the period 1937-1948.  This is in agreement with the 2000Mar24 comment at station 168 (Venezia Punta Della Salute). Values of -1 mm and 4 mm were derived from two records in the GESLA2 (high-frequency tide gauge) dataset.
+

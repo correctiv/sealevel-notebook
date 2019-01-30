@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Nov-2010
+Original data spanned from Jan 1996-Nov 2006. The station is part of the
+ODINAfrica project and a new gauge started operation in Nov 2007. The
+responsible authority still remains National Cartographic Center.
+

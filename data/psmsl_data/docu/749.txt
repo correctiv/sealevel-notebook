@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kure II             643/041 RLR(1961) is 10.3m below BM Kure
+This is an historic station last data 1961
+

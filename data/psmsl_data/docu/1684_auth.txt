@@ -1,0 +1,11 @@
+Saudi Arabian Oil Company
+Industrial and Environmental Affairs
+Box 5000/r-2321 Adm. Bldg
+Dhahran
+SAUDI ARABIA
+
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jul-2002
+Data supplied for ARAMCO gauges 482/031,036,042,045,047,048 suspect
+end of 1994-1995 and data removed from database.  Private comparison
+of data with those at Bushehr and Bandar Abbas, Iran show only expected
+tidal data.  See email reference 12th June 2002.

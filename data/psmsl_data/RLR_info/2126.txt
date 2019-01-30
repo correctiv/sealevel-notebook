@@ -1,0 +1,1 @@
+Add 6.123m to all data values to refer to RLR<br>RLR is 9.300m below primary benchmark 1340 S 2005

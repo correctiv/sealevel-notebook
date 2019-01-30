@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Majuro              720/016 RLR(1983) is 8.4m below BMUGS#1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Oct-1992
+LOCATION OF STATION CHANGED IN DECEMBER 1987
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Oct-1996
+station not linked geodetically to Majuro A primary gauge 1974-90:  Leupold and Stevens Analog-to-Digital Recorder (ADR)primary gauge 1991-  :  Handar Encoder (ENC)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1999
+data for 1968-73 and 1997 revised in December 1999
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jun-2018
+Data for 2000 and 2001 have been removed. These data were recorded by the Australian National Tidal Centre's gauge (ID 1838) but incorrectly attached to this record
+

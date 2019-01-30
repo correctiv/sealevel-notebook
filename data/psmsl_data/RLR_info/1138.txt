@@ -1,0 +1,1 @@
+Add 6.194m to data values 1965-1971 to refer to RLR<br>Add 6.377m to data values 1972 onwards to refer to RLR<br>RLR is 14.200m below primary benchmark TS5 1962

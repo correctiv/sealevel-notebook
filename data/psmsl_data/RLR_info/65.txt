@@ -1,0 +1,1 @@
+Add 6.176m to data values 1886-1953 to refer to RLR<br>Add 6.051m to data values 1954 onwards to refer to RLR<br>RLR is 12.700m below primary benchmark PM 101

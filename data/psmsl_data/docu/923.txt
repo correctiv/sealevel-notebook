@@ -1,0 +1,6 @@
+Prior to 1970 data supplied by N.O.A.A.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+San Juan            848/041 RLR(1964) is 10.8m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Evidence for a datum shift either side of a data gap in the mid 1960s.
+

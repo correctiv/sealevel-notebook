@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Gronskar            050/151 RLR(1930) is 9.0m below BM171M
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Gronskar            050/151 RLR(1930) is 9.0m below BM171M
+Gronskar is an historic station last data 1932
+

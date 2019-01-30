@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jan-2013
+Zygi is a new station supplied by the Oceanography Center of the University of Cyprus.
+Measuring Parameters: Pressure and Sea Temperature.
+Sensor Model: AANDERRA Pressure sensor 3796A
+Sensor Type: pressure type sensor
+Sampling rate: 30 seconds.
+Transmit Interval 1 minute.
+

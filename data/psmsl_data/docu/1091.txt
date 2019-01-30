@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Okada               642/100 RLR(1975) is 9.7m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Nov-2003
+From Oct. 1998 datum 1998 is 1.548m below Tokyo Peil.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Feb-2012
+A massive earthquake magnitude 9.0 occurred at 14.46 JST (05.46 UTC) on Friday 11th March 2011 with the epicentre approx. 70km east of the Oshika Peninsula of Tohoku. It was the most powerful known earthquake to hit Japan and triggered a tsunami with waves up to 40.5m travelling up to 10km inland.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Oct-1997
+Analysis of Suez Canal data is described by F.M.Eid, S.H.Sharaf El-Din
+and K.A.Alam El-Din, "Sea-level variation along the Suez Canal",
+Estuarine, Coastal and Shelf Science, 44, 613-619, 1997.
+

@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Mantyluoto          060/101 RLR(1964) is 9.7m below BM52307
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found in 'Operational Oceanography: Implementation at the European and Regional scales.  2002 (pp.129-137)'.
+1910-1924 Values based on 1 reading per day. Prior to 1970 gauge at 61 36 N, 21 29 E
+1925-1970 Values based on 6 readuings a day
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-2012
+Prior to the gauge being moved the Primary benchmark 1925-1969 was 52307 4.407m above gauge datum. When the gauge was moved benchmark 1970-1988 was N7101 4.774m relative to the datum. This is no longer used and was replaced by 89110 3.970m relative to gauge datum in 1989.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jan-2017
+Following the 2016 levelling exercise some adjustments have been made to the benchmark reference heights - at Mantyluoto this was +2mm for BM 89110. The adjustments are a result of more accurate measuring and calculations using the N2000 height system. The RLR diagram has been re-drawn because of this.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Dec-2017
+Data values for November and December 2014 have been revised by the Finnish Meteorological Institute.
+

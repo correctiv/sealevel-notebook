@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Nov-1997
+Data before March 1984 was received from the British Antarctic Survey
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Jun-1998
+Argentine Islands   A  /003 RLR(1987) is 7.9m below BM C
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Jun-1998
+Processing of Faraday data 1958-95 is described in a PSMSL internal note by P.L.Woodworth dated 17 December 1996.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jun-1999
+Argentine Islands station is also known as Faraday (British Antarctic Survey base) and now Vernadsky (Ukraine Antarctic base)
+

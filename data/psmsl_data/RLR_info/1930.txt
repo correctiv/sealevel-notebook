@@ -1,0 +1,1 @@
+Add 6.573m to all data values to refer to RLR<br>RLR is 22.200m below primary benchmark GEOD

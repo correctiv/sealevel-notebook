@@ -1,0 +1,17 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Helsinki            060/351 RLR(1964) is 9.6m below BM7HB
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Helsinki            060/351 RLR(1964) is 9.6m below BM7HB
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+1879-1903 VALUES BASED ON 1 READING PER DAY
+1904-1970 VALUES BASED ON 6 READINGS PER DAY
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-2012
+Levelling information recently supplied by the Finnish Meteorological Institute
+confirms Primary benchmark remains 7HB 4.48m above gauge datum of 1904 onwards. 
+Previous datum for 1879-1903 was 1.967m above the present datum.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jan-2017
+Following the 2016 levelling exercise some adjustments have been made to the benchmark reference heights - at Helsinki this was +1mm for BM 7HB. The adjustments are a result of more accurate measuring and calculations using the N2000 height system. The RLR diagram has been re-drawn because of this.
+

@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Chungmu             620/038 RLR(1978) is 9.5m below TBM No2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Chungmu             620/038 RLR(1978) is 9.5m below TBM No2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Dec-1997
+station renamed Tongyong
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Dec-1997
+Type of tide gauge: OTT float
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+At the request of the data suppliers, KHOA the name of this station has been
+changed to Tongyeong. The values for the lat. and long. have also been revised.
+

@@ -1,0 +1,25 @@
+KNOWN AS BOTH FRENCH FRIGATE SHOALS AND TERN ISLAND
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+French Frigate Shoal760/016 RLR(1983) is 8.9m below BMUSGS#1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+French Frigate Shoal760/016 RLR(1983) is 8.9m below BMUSGS#1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Oct-1996
+instrument type: Fischer and Porter Analog-to-Digital Recorder
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Nov-1997
+11 Oct 1996: Handar Encoder installed and became primary gauge
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Dec-1998
+data for 1996 revised in December 1998
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1999
+data for 1997 revised in December 1999
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Nov-2010
+The complete dataset 1974-2004 has been supplied by UHSLC. After checking these 
+with existing data values these data have been added to the database. RLR
+remains 6.371m.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Aug-2012
+When preparing the RLR diagram for inclusion on the PSMSL website it was
+discovered that the UHSLC dataset does not have an annual mean for 1983.
+This was the RLR year on the old RLR diagram. RLR was recalculated using 
+1984 annual mean. RLR factor is now 6.171m.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Oct-2013
+Complete dataset July 1974 to March 2007 downloaded onto database from UHSLC
+

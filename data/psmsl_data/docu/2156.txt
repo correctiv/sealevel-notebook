@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Dec-2012
+Mati, Davao Oriental is a newly supplied station. Using information from the data sheet Mati has been made RLR. Primary benchmark is BM 3 11.478m above datum TSO 2008. Gauge type STEVENS AXSYS
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-2018
+Data values for 2014 onwards were queried as there seems to be a lowering of the datum. These data were checked and upheld by the supplying authority.
+

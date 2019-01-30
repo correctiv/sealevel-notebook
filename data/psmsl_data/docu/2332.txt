@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Mar-2017
+Saint Gildas is a new station downloaded from the SONEL website.
+

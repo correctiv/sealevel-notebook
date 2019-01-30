@@ -1,0 +1,15 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Aug-2016
+Port Stephens is a newly supplied station. Data has been supplied by NSW Public Works, Manly Hydraulics Laboratory (MHL). Using information supplied by MHL this station has been made RLR Primary benchmark SSM8254 is 4.343m above Port Stephens Hydro Datum.
+
+Data General Release Conditions
+The data provided is supplied subject to the following conditions:
+
+© Crown in right of New South Wales
+The data supplied is licensed under a Creative Commons Attribution 4.0 licence.
+To view a copy of this licence visit:  http://creativecommons.org/licenses/by/4.0 and
+http://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to copy distribute display and perform the work, to make derivative works and to make commercial use of the work under the following conditions attributing the data to "NSW Office of Environment and Heritage" in any publications.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Nov-2016
+The station at Port Stephens (Tomaree) has been replaced by a new station at Shoal Bay as Tomaree Wharf was condemned.
+

@@ -1,0 +1,7 @@
+Data values based on daily observations.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Nedre Sodertalje    050/131 RLR(1964) is 13.9m below BM fix a
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Nedre Sodertalje    050/131 RLR(1964) is 13.9m below BM fix a
+This is now an historic station last data 1970
+

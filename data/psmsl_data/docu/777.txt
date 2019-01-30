@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+San Jose II         832/012 RLR(1973) is 12.3m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Nov-1997
+data for 1955-62 received from the University of Hawaii Sea Level Center Instrument type: standard float and well gauge
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Oct-2012
+San Jose II is an historic station last data 1975.
+

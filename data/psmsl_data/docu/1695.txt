@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Apr-2000
+Rafina              290/032 RLR(1988) is 10.5m below BM R1
+Rafina is now an historic station last data 1989
+

@@ -1,0 +1,5 @@
+Data revised, values for 1953-1976 received from the Oceanographic Institute of Venezuela
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-May-2001
+Suspect values February 1950, May 1953 and May 1965. Although an RLR diagram was prepared the station was never actually made RLR.
+Cumana is an historic station last data 1997
+

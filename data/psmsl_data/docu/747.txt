@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Moulmein            530/021 RLR(1964) is 12.3m below BM 22
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Aug-2012
+Moumein is an historic station last data 1964 - station has been swithched as 'inactive'.
+

@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+Installed in 21.08.2008 Bozyazi is a new station to PSMSL. Unique id. is 2014
+while Coastline code is 310 and Station code is 065. The station Bozyazi is on
+the Eastern Mediterranean and forms part of the Turkish Sea Level Monitoring
+Network.
+

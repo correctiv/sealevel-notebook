@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-2000
+Data 1944-90 for Santos were contributed by University of Sao Paulo.
+See the report:
+Tides and mean sea level variabilities in Santos (SP) 1944 to 1989 by J.Harari and R. de Camargo. Instituto Oceanografico, Universidade de Sao Paulo, Brazil, report no. 36, 1995, 15pp.
+

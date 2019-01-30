@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Piertarsaari/Jakob  060/041 RLR(1964) is 8.7m below BM1196E
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found in 'Operational Oceanography: Implementation at the European and Regional scales.  2002 (pp.129-137)'.
+1914-1921 Values based on 1 reading per day
+1922-1970 Values based on 6 readings per day
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Jan-2012
+Levelling information recently supplied by the Finnish Meteorological Institute confirms previous benchmark 1196E is no longer in use. Benchmark 1196G is 5.689m above gauge datum and benchmark 10401 4.015m above gauge datum was added in 2010.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jan-2017
+In the 2016 yearly levelling of the Finnish tide gauges by the National Land Survey of Finland it was found that the benchmark 10401 was sinking by approximately 0.5mm per year. As a result this benchmark will not now be used but be replaced by the bed rock benchmark 1196G. These findings caused a correction of -3mm to the data for June 2013 onwards and 2014 data. The data values have been adjusted for this. Primary benchmark is now 1196G. The RLR diagram has been re-drawn.
+

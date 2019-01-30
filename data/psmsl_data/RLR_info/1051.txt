@@ -1,0 +1,1 @@
+Add 14.300m to all data values to refer to RLR<br>RLR is 14.300m below primary benchmark NAP G 854

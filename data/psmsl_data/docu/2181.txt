@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-2017
+Marin is a new REDMAR station
+

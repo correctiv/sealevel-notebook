@@ -1,0 +1,6 @@
+All Dutch METRIC data are measured to NAP (NORMAAL AMSTERDAMSCH PEIL)
+Prior to 1936 values based on high and low waters or on 4 or 8 readings /day
+Brouwershaven is an historic station. Last data 1962.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+The note above stating that periods of the data are MTL is misleading.  Sections of the original data were MTL.  However, Pub. Sci. 5 states “For these periods a shallow water correction has been added to the mean heights of high and low water in order to give a mean height of sea-level comparable with those otherwise calculated for other periods.”  Thus, a correction to MSL has already been applied.
+

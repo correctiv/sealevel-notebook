@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Port Jefferson      960/138 RLR(1973) is 9.4m below BM14
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Feb-2012
+Port Jefferson is now an Historic station. Primary benchmark BM 14 on the original RLR diagram no longer exists. Last Primary benchmark is 4560 b 1981 5.243m above TGZ.
+

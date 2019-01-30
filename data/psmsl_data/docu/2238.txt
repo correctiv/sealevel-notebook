@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Data for Ouinne, New Caledonia has only recently been added to the database. There is a short early period of data for September 1981-October 1982 with the main dataset beginning in September 2011.
+

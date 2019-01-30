@@ -1,0 +1,10 @@
+Station moved - new data held in station 642/135
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Toba                642/134 RLR(1976) is 8.3m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Possible datum shift 1959 onwards.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jul-1994
+See comments on sea level variability given for Maisaka (642/126).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Toba ceased operating 1977 and replaced by Toba II the same year.
+

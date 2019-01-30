@@ -1,0 +1,1 @@
+Add 5.196m to data values 1969-1985 to refer to RLR<br>Add 5.278m to data values 1986 onwards to refer to RLR<br>RLR is 10.219m below primary benchmark Cut Mark

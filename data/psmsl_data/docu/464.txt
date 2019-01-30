@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Puntarenas          836/001 RLR(1964) is 10.8m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Aug-2002
+Puntarenas stated as not working in 1993, demise date unknown.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2012
+This is an historic station which is no longer referred to on the NOAA website. Last data value received is December 1966. Station is marked 'inactive'.
+

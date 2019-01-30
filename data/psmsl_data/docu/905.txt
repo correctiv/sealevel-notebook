@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Aug-1994
+For a discussion of interannual variability of sea level along the coasts of Pakistan and India, see Clarke and Liu, Journal of Physical Oceanography, 24, 1224, 1994.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Dec-2002
+SMRC Newsletter Jul-Dec 2001 reports high E coast correlation with SOI and MSL. MSL is much higher during La Nina tropical cyclones than during El Nino.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jan-2016
+Previously, the documentation had stated that the 1957 values were reading of high and low water (i.e. MTL).  However, comparision to Pub. Sci. 20 indicates that the values were in fact MSL.  Thus, the statement has been removed.
+

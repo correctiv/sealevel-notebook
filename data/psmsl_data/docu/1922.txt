@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+The supplying authority KHOA have supplied more accurate latitude and longitude positioning. lat. 37 11' 25"N 126 38'50"E
+Gauge is an OTT float.
+

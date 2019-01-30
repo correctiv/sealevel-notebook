@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Feb-2017
+Lewisetta Virginia is a new NOAA station. This has been added to the database to give additional comparison stations.Using metadata from the NOAA website Lewisetta, Virginia has been made RLR. Primary benchmark is R 462 1971 2.874m above the Station Datum.
+

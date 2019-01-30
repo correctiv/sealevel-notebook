@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2015
+Heuksando is a newly supplied station.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-May-2017
+This is the same station as Daeheuksando id. 1489 and has now been marked inactive.
+

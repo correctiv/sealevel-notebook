@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+Installed on 09.01.2008 Sile is a new station to PSMSL. Unique id.=2016
+Coastline code=310 and Station code=020. On the Black Sea Sile forms part of
+the Turkish Sea Level Monitoring Network.
+

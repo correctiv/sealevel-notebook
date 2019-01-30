@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Sines               210/028 RLR(1982) is 40.8m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Sines               210/028 RLR(1982) is 40.8m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Nov-1998
+data for 1985-86 replaced with revised values received from authority 41
+Sines is an historic station last data 1992
+

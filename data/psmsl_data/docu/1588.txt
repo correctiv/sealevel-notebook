@@ -1,0 +1,10 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Chujado             620/039 RLR(1985) is 12.4m below TBM No2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Chujado             620/039 RLR(1985) is 12.6m below TBM No2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Dec-1997
+Type of tide gauge: OTT float
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+Following information received from the supplying authority, KHOA the lat.
+and long. have been revised.
+

@@ -1,0 +1,6 @@
+Prior to 1970 data supplied by N.O.A.A.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Riohacha            902/011 RLR(1964) is 10.3m below BM4
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Anomalously low value for February 1959 - correct as received from authority.
+

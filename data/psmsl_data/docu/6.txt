@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been reordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Oct-2006
+Historical mean tide level data from Port Arthur based on the research described in Hunter, J.,Coleman, R. and Pugh, D. 2003. The sea level at Port Arthur, Tasmania, from 1840 to the present. Geophysical Research Letters, 30, 1401, doi:10.1029/2002GL016813.
+

@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jul-1994
+data 1927-28 from auth A1
+

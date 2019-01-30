@@ -1,0 +1,15 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2013
+The Mean Sea Level data values for Leixoes 1890-2009 have been supplied by
+Isabel Araujo from CIIMAR of the University of Porto.
+
+The station has been flagged so the data should be used with caution.
+
+The following paper describes the data recovery on the historic records
+undertaken by Isabel and her colleagues:
+'Analysing the hundred year sea level record of Leixoes, Portugal'
+
+http://dx.doi.org/10.1016/j.jhydrol.2012.12.019
+
+The work was sponsored by the local port authority APDL
+The data were analysed from the original paper rolls. From 2001 onwards the sea level heights refer to a different vertical datum. In the above paper a value of 0.326m was used as a correction for this. This offset is included in the data supplied to the PSMSL.
+

@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-May-2015
+Strombolicchio is a new station on the ISPRA network. Gauge is a transducer together with meteorological sensors for air temperature, relative humidity, atmospheric pressure and wind direction and speed.
+

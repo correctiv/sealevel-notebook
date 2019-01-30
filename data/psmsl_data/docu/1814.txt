@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Aug-1997
+Data for 1993-95 revised
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jan-1998
+data for 1993 and 1996-97 revised
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Jan-1998
+gauge type=bottom mounted pressure type by Platypus engineering
+

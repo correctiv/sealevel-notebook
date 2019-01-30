@@ -1,0 +1,1 @@
+Add 9.384m to data values 1930-1933 to refer to RLR<br>Add 9.519m to data values 1934-1963 to refer to RLR<br>Add 4.519m to data values 1964 onwards to refer to RLR<br>RLR is 10.652m below primary benchmark Attach-4 (ii)

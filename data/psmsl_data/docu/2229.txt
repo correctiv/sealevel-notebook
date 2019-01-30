@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2014
+Henslung Cove is a new station on the Pacific Coast of Canada. Alternative station name is Parry Passage B.C.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jul-2015
+The complete dataset has recently been supplied from Canada. This includes additional data not previously loaded. The complete dataset has now been re-loaded to include this data.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Jul-2015
+This year, rather than just sending the latest year of data, the complete dataset has been supplied. This has highlighted some differences in the data. From communications in the correspondence file for 2002 it appears that the Oceans and Fisheries meant to supply revised data for the stations supplied. This did not happen. The complete dataset includes these data revisions. Therefore, the whole dataset has now been re-entered.
+

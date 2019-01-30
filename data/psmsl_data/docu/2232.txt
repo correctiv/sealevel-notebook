@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+La Figueirette is a relatively new station data begins June 2011. The gauge is situated between Nice and Toulon on the Mediterranean coast.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+Installed in 22.08.2008 Tasucu is a new station to PSMSL. Unique id.=2018.
+Coastline code=310 and Station code=065. On the Eastern Mediterranean Tasucu
+forms part of the Turkish Sea Level Monitoring Network.
+

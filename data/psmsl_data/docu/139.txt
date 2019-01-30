@@ -1,0 +1,8 @@
+Station moved - new data held in station 641/012
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Hanasaki            641/011 RLR(1966) is 8.8m below Attached BM A10
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Aug-1995
+A destructive earthquake and tsunami occurred in the Kuril Islands on 4 October 1994 - see Earth System Monitor, 5(4), June 1995.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Hanasaki ceased operating 1977 and was replaced by Hanasaki II (641/012) 1st July 1977.
+

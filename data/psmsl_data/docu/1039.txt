@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Bonny               420/024 RLR(1973) is 8.7m below BM VVs219
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Bonny               420/024 RLR(1973) is 8.7m below BM VVs219
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Oct-1994
+tide gauge discontinued in April 1975, subsequent readings from a tide pole
+This is an historic station. Last data 1992
+

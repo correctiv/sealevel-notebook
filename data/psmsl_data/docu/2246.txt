@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Saint Pierre et Miquelon is an island off Newfoundland. Data for this station has only recently been added to the database.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2017
+Using information from both SHOM and SONEL St. Pierre et Miquelon has been made RLR. Primary benchmark is AB-2 (SONEL SPMIQ-01) 4.19m above the gauge datum Zero Hydrographic.
+

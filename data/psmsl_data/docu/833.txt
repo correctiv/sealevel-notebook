@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+station density along some sections of the Australian coast has meant that station codes 601 onwards have been reordered compared to those in earlier versions of the PSMSL data set.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-May-1996
+May 1996: data for 1957-84 revised in new set received from National Tidal Centre, Bureau of Meteorology
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Aug-2013
+Eden data for July 1989 onwards has now been made RLR. RLR factor is 6.213m. Early data not good enough for RLR.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Oct-2016
+Using information supplied a new Primary benchmark has been added to the RLR diagram. Benchmark is PM28485 10.37m above datum Twofold Bay Hydro Datum.
+

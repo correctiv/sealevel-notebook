@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Mommark             130/061 RLR(1964) is 22.7m below BMV
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jan-1992
+Recording stopped in 1966, gauge moved to Fynshav
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Mommark             130/061 RLR(1964) is 22.7m below BM GI 1629
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Oct-2012
+Mommark is an historic station. Last data 1967
+

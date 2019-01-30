@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Oct-2001
+The gauge is an Aanderaa WLR7 tide recorder. The gauge is installed along the wharf of Port-aux-France.  This bottom pressure sensor is at the base of a stilling well which is used to filter waves.  The recorder is triggered by a central unit where the barometric pressure is measured at the same time.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Nov-2001
+Monthly means fully corrected for air pressure drift effects have been used from the French operators.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-2010
+Kerguelen is part of the French Rosame network. Data for April 1993-May 2010 was downloaded from ftp://ftp.legos.obs-mip.fr/pub/soa/niveau_mer/rosame/. Data for May 1993- Dec 2000 was already in the database the new data appears to be a month out of phase with the old but agrees with the Hawaii data. Previous data has been stored.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Feb-2014
+Laurent Testut for LEGOS the authority responsible for Kerguelen suspects that the data displayed on the SONEL website is infact the unreferenced data. He is going to investigate the situation and confirm.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2014
+Using values from the SONEL website the latitude and longitude for Kerguelen has been revised.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2017
+Using information from both SHOM and SONEL Kerguelen has been made RLR. Primary benchmark is B under the SHOM id and KERGU-13 under the SONEL id. Primary benchmark is 3.072m above the gauge datum Zero Hydrographic.
+

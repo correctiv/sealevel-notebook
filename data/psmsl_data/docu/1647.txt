@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-May-1994
+UP TO 1985 LEUPOLD & STEVENS GAUGE, 1985-1993 (OCTOBER) OTT GAUGE,
+1993 (OCTOBER) - SONAR RESEARCH GAUGE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Mar-2002
+Tanajib Pier data 1995 suspect (shows doubling in range) and deleted.
+

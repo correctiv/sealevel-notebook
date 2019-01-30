@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2018
+Palmyra Island B is a new UHSLC station.
+

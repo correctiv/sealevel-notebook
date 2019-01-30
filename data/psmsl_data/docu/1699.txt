@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Anhung              620/014 RLR(1989) is 14.4m below TBM No 1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Anhung              620/014 RLR(1989) is 14.4m below TBM No 1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Dec-1997
+Type of tide gauge: OTT float type
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Dec-2010
+Primary benchmark 1989-1990 is TBM No.1. From 1991 onwards Primary benchmark is
+TBM No.3. Datum TGZ remains the same throughout.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+At the request of the supplying authority, KHOA the name for this station has
+been changed to Anheung. The latitude and longitude have also been revised.
+

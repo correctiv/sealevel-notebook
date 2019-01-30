@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2015
+Donghae Port is a newly supplied station.
+

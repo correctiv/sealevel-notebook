@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Nov-2015
+This data 1983-1985 is a small part of a bigger dataset id.1942 both datsets are from SHOM.
+

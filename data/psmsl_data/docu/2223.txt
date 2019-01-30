@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2014
+This is a new station previously added to La Union II id. 740 this is a different gauge with no connecting datum so has been entered as a different station La Union III
+

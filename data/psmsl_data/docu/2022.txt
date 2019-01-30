@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Jul-2010
+The station Girne II is located on the coast of the Turkish Republic of
+Northern Cyprus (TRNC). This station forms part of the Turkish Sea Level
+Monitoring Network.
+

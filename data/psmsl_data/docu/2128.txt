@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Jan-2012
+Kawaihae, Hawaii Island has been downloaded from NOAA as a new station. Station is RLR, Primary benchmark is 7433 B 1989 3.094m above TGZ. RLR factor is 6.006m.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Mar-2018
+Hawaii Island is a volcanic island and so there could be consequently related datum shifts within the records from the tide gauge at Kawaihae. Visible 'shifts' in the data in both 1999 and 2006 seem to be as a result of 'real' events. That in 2006 appears to be an earthquake or other eruption.
+

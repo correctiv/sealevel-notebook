@@ -1,0 +1,10 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Russaro             060/316 RLR(1936) is 8.9m below BMBoltP
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Russaro             060/316 RLR(1936) is 8.9m below BMBoltP
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+1866 - 1912 VALUES BASED ON 1 OR 3 READINGS PER DAY
+

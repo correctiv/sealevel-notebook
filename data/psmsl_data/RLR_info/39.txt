@@ -1,0 +1,1 @@
+Add 5.618m to data values 1872-1886 to refer to RLR<br>Add 5.393m to data values 1887-1895 to refer to RLR<br>Add 6.618m to data values 1896 onwards to refer to RLR<br>RLR is 9.900m below primary benchmark Palace Facade

@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Apr-1992
+New gauge 1/1/91 (OTT HBE 20.501)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Sep-1992
+1958-71 fcode=24
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Malin Head          175/011 RLR(1976) is 30.4m below FBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Sep-1995
+Calibration check carried out on 31st August 1993 showed that the readings were 6cm low but it is not possible to say when the error occurred.
+

@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Varberg             050/041 RLR(1964) is 8.5m below BM 637P
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Varberg             050/041 RLR(1964) is 8.5m below BM 637P
+Varberg is an historic station last data 1981
+

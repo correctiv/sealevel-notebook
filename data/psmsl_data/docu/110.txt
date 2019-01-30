@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Aug-1992
+Italian levels may be influenced by the Messina Earthquake of 1908 - See Bottari et al., Tectonophysics, 202, 269-275, 1992
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Mar-1993
+The stations Porto Maurizio (250/001), Napoli Arsenale (250/041) and Napoli Mandraccio (250/051) appear to each have a datum shift around 1910. Evidence for regional coherence?
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-1998
+For a discussion of land movements in the area of the Gulf of Naples, see the paper by G.Berrino in Tectonophysics,294,323-332,1998.
+

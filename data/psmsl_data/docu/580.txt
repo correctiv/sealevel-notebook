@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Belem               874/161 RLR(1968) is 10.1m below BM2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2012
+Station is now an historic station last data received 1968. The station no longer features on the NOAA website. Station has been labelled 'inactive'.
+

@@ -1,0 +1,19 @@
+ALL DUTCH METRIC DATA ARE MEASURED TO NAP (NORMAAL AMSTERDAMSCH PEIL)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jul-1996
+replaces Stellendam Buiten 150/072
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Aug-2001
+Haringvliet 10 is a Enraf Nonius DNM (Digitale Niveau Meter)
+float gauge installed on a 'pile' 5 km from shore.
+June 28th 2001 the 20m high 'pile' was again replaced.  This
+makes the use of benchmarks difficult.  All data supplied to
+the PSMSL is to NAP.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Aug-2001
+Haringvliet - RIKZ note October 1999 onwards data rising, up to
+approx. 3 cm by December 2000.  Difficult to verify as no
+benchmark available.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Feb-2011
+From recent information received giving values of NAP both before and after the
+re-levelling exercise of 2005 most of the Dutch stations have been converted to
+RLR. However, as this station is an offshore tide gauge which hasn't been
+re-checked since it's installation it remains 'Metric'.
+

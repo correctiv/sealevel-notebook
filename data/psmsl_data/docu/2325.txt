@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Feb-2017
+Oregon Inlet Marina North Carolina is a new NOAA station. This has been added to the database to give additional comparison stations.Using metadata from the NOAA website Oregon Inlet Marina, North Carolina has been made RLR from May 1994 onwards. Primary benchmark is NO 3 1974 5.214m above the Station Datum.
+

@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jun-2016
+Fos sur Mer data begins in May 2010. The station is between approximately halfway between Sete and Marseille. When adding the 2015 dataset it was noted that the datapoints for November-December 2011 had been revised.
+

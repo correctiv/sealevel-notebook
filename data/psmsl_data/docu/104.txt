@@ -1,0 +1,5 @@
+NO BM INFORMATION BUT DATA SEEMS HOMOGENEOUS
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Cagliari            240/011 RLR(1934) is 7.9m above BM
+Cagliari is an hitoric station. Last data 1934.
+

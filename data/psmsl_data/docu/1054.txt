@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Mocambique Island   432/021 RLR(1966) is 10.6m below BM MN1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Mocambique Island   432/021 RLR(1966) is 10.6m below BM MN1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-2002
+Mocambique Island tide gauge no longer working (from National report 2001).
+Mozambique Island is an historic station. Last data 1967.
+

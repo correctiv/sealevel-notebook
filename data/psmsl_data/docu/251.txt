@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Jul-1994
+An "Admiralty" stilling well gauge operated from 1852 to about 1930,
+and a Gents gauge from June 1961 to 1964. In addition (although data
+not with PSMSL), there was another Gents gauge between 1966 and 1972
+and a portable Munro between December 1972 and 1978.
+Portland is an historic station last data 1964
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Jan-2001
+Recent work on vertical land movements in the UK can be found from
+the University of Nottingham web site:
+http://ukcogr.iessg.nottingham.ac.uk/~eosi/
+

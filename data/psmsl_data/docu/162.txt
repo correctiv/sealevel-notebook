@@ -1,0 +1,12 @@
+Data from 2 sites prior to 1959 MSL values based on readings of high and low waters.Data prior to 1962 referred to BM which has proved unstable irregularities in records for 1940 & 1941. 1940-41. Data therefore ommitted gauge at new site in September 1965.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Lagos               210/031 RLR(1974) is 10.0m below BMOP
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Aug-1992
+The 1941 irreularities may be connected with the 1941 earthquake - See Bottari et al. , tecttonophysics 202, 269-275, 1992 and Yamguti, R.Soc.New Zealand bulletin , 9, 127-128, 1971.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jan-1997
+Data for 1985-88 revised, January 1997
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Mar-2001
+Data for 1986-87,90-92,95,99 updated March 2001 Lagos is an historic station last data 1999
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+A value of MTL-MSL=7 mm has been applied to the RLR data for the period 1908-1958.  The values were derived using the GESLA2 (high-frequency tide gauge) dataset using harmonic constituents.
+

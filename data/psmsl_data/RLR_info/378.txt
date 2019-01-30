@@ -1,0 +1,1 @@
+Add 4.822m to all data values to refer to RLR<br>RLR is 10.049m below primary benchmark TIDAL 20 1959 RESET 1960

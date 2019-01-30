@@ -1,0 +1,9 @@
+Station moved - new data held in station 646/042
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Ishigaki            646/041 RLR(1976) is 12.6m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Ishigaki            646/041 RLR(1976) is 12.6m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Isihigaki ceased operating 1986, and was replaced by
+Ishigaki II (646/042) 1st October 1986.
+

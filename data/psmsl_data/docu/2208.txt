@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-2014
+Solenzara is a new station data begins in April 2012
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Oct-2014
+Using data from SONEL the latitude and longitude for Solenzara has been updated.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jun-2016
+While loading the 2015 data to the dataset it was noted that datapoints for January-March 2012 had been revised.
+

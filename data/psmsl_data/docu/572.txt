@@ -1,0 +1,10 @@
+Prior to 1970 data supplied by N.O.A.A.
+Data prior to 1985 received from the Geographical Institute Colombia
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Cartagena           902/021 RLR(1964) is 9.1m below BM4
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Feb-1992
+Gauge affected by siltation
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Apr-1994
+From January 1993 gauge at CIOH building
+1991-92 data from Stevens gauge, 1993 (Feb-July) data from digital gauge
+

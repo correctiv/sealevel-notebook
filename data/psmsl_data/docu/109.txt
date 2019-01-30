@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+La Maddalena        240/001 RLR(1913) is 7.7m below BM
+La Maddalena is an historic station last data 1913
+

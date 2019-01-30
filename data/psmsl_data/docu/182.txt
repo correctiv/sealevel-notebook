@@ -1,0 +1,6 @@
+Formerly Germany; 1911-1931 values based on 4 readings per day
+1932-1936 Values based on intergration of continuos record
+Metric data measured to Normal Null(NN)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Aug-1992
+Modern Polish name for Stolpmunde is Ustka.
+

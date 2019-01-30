@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Nov-2018
+Vieux Quebec is a new station close to location of Quebec (Lauzon) id. 173. Last data we have for Quebec (Lauzon) is 2012. 
+

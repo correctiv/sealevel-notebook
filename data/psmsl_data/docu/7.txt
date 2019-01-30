@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Apr-2001
+Data up to 1984 were high and low waters (mean tide level). MSL thereafter.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-May-2001
+All Cuxhaven 2 data converted to RLR May 2001.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Jun-2001
+Cuxhaven 2          140/012 RLR(2000) is 10.487m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Aug-2010
+The data for Cuxhaven was measured to Normal Null which is a German datum related to levels at Potsdam near Berlin. It is similar to ODN in the UK and NAP in Holland. It is unusual therefore that the German stations have been made RLR as this 'breaks the rules' of RLR. Data 2000 onwards is refered to TGZ.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2016
+A value of MTL-MSL=-88 mm has been applied to the RLR data for the period 1843-1984. This value was derived from harmonic constants using the GESLA2 (high-frequency tide gauge) dataset.  This value agrees well with that published by Wahl et al., NHSS, 10, 171–179, 2010, of about -9 cm.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-2017
+Data for 2011 onwards has been supplied using RLR as the datum. Therefore no adjustment needs to be applied to the data.
+

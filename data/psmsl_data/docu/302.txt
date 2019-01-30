@@ -1,0 +1,19 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Tregde              040/301 RLR(1964) is 8.7m below BM D40N53
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Mar-1995
+Tide gauge network modernised, new equipment installed in 1987
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Jan-2009
+Following the input of revised data values station made Metric awaiting datum information.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Apr-2009
+2007/8 mean sea level values entered as Metric only awaiting confirmation of a datum query.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Oct-2009
+The Norwegian Mapping Authority have revised their datasets. Whole dataset is now referred to TGBM D40 N53 which is 2.716m above TGZ. As a result RLR has been re-calculated to be 5984.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2009
+RLR value for Tregde now RLR 2008.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Apr-2010
+Data points for February and July 1941 have been switched off as these are data spikes. These data values do not appear on the Norwegian website.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Sep-2012
+For information on sea level change along the Norwegian coast see paper "Contributions to sea level variability along the Norwegian coast for 1960-2010" by K. Richter, J.E.O. Nilsen and H. Drange.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-2018
+Using updated values supplied by the Norwegian Mapping Authority data points for December 1987 and October 2009 have been revised.
+

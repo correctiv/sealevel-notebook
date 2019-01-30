@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Makurazaki I        645/042 RLR(1968) is 9.3m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Makurazaki I        645/042 RLR(1968) is 9.3m below Attached BM
+This is now a historic station last data 1969
+

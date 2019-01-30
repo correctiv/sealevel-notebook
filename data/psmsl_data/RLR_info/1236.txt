@@ -1,0 +1,1 @@
+Add 4.970m to data values 1969-2008 to refer to RLR<br>Subtract 2.970m from data values for 2009 to refer to RLR<br>Add 4.970m to data values for 2010 to refer to RLR<br>Subtract 2.970m from data values 2011 onwards to refer to RLR<br>RLR is 11.200m below primary benchmark Goteborg-Torshamnen d

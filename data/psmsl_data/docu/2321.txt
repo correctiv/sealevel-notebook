@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Feb-2017
+Fort Point New Hampshire is a new NOAA station. This has been added to the database to give additional comparison stations. Using metadata from the NOAA website the station has been made RLR. Primary benchmarl is 2 1919 7.51m above the station datum.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Feb-2018
+This station is the same id. 2291 so this station has been marked as inactive.
+

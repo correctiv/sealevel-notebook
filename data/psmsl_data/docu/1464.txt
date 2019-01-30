@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-1996
+data received from TOGA centre
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-1996
+source of data unconfirmed, data digitized by University of Hawaii
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Oct-1996
+gauge type=standard float and well
+

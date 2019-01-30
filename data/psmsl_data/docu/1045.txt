@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jul-1994
+For a discussion of submergence near to Los Angeles and Long Beach
+see Emery and Aubrey (Sea Levels, Land Levels and
+Tide Gauges), 1991, Springer-Verlag, page 39.
+

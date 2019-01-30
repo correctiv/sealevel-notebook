@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Torshavn            015/011 RLR(1966) is 9.3m below BMK-87-9030
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Apr-1992
+Some BM uncertaainty before 1963
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Jul-1992
+Prior to 1991 fcode=24
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Torshavn            015/011 RLR(1966) is 9.3m below BM K-87-9030
+

@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1993
+DATA RECEIVED FROM TOGA OFFICE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Oct-2011
+SHOM data for Papeete June 1975-December 2009 was downloaded from the SONEL website. When checked with the data values received from UHSLC they are virtually the same differing by only 1mm in places. The data were added to the previous data supplied by SHOM.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Feb-2014
+Following information received from SHOM it was realised that the dataspan for Papeete A should cover the period 1969-1975 only. The situation has now been corrected and Papeete A now contains the correct dataspan (1969-1975).
+

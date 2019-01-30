@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2018
+Roseau is a newly added UHSLC station
+

@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Mar-2017
+Onsala is a new Swedish station.
+

@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Oct-2002
+Siboney             930/016 RLR(1994) is 8.394m below TGBM
+The tide gauge at Siboney was seriously damaged by hurricane Wilma last data is that for October 2005.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Apr-2016
+The tide gauge at Siboney has now been re-instated.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jun-2016
+Using information recently supplied from Cuba the tide gauge sensors are from 1966 a float recording hourly from 2014 a radar with 6 minute frequency and from 2016 a pressure sensor with 6 minute frequency.
+

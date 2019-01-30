@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-1999
+The Oyarvide gauge is on a tower and has a Leupold Stevens float gauge.
+It is far from the coast (about 10 nautical miles) and does not have
+benchmarks. It is not to be confused with another tower at
+35 12 S 57 10 W which operated from 1966-1970 and had a gauge record
+with many interruptions.
+

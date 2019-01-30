@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Ubli                280/056 RLR(1987) is 9.8m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Ubli                280/056 RLR(1987) is 9.8m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jan-1996
+gauge destroyed 2 September 1991
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jan-1996
+PRIOR TO 1990 DATA FROM AUTH 26
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Jan-2011
+According to the original RLR diagram this gauge was destroyed in 1991.
+

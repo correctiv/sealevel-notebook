@@ -1,0 +1,17 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Wakayama            643/015 RLR(1976) is 8.8m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Wakayama            643/015 RLR(1976) is 8.8m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Wakayama replaced by new gauge on same site July 1980.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Nov-2003
+Datum 1996 is 1.037m below Tokyo Peil.
+Datum 1998 is 1.042m below Tokyo Peil.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Feb-2011
+Sea level profile compares well with that for Kainan.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Feb-2012
+A massive earthquake magnitude 9.0 occurred at 14.46 JST (05.46 UTC) on Friday
+11th March 2011 with epicentre approx. 70 km east of the Oshika Peninsula of
+Tohoku. It was the most powerful known earthquake to hit Japan triggering a
+tsunami with waves up to 40.5m and travelling up to 10km inland.
+

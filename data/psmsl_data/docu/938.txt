@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Pointe Noire        424/021 RLR(1979) is 9.6m below Repere B1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Pointe Noire        424/021 RLR(1979) is 9.6m below Repere B1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Nov-1993
+data 1980-83 and 1988 received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Nov-1993
+data for 1959-60 and 1977-79 received from authority 18
+

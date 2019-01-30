@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Lake Worth Pier     960/004 RLR(1986) is 11.9m below BM Q317 1970
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Feb-2012
+Lake Worth Pier is now an Historic station. Last data received was that for 1988. Although it still features on the NOAA website the documentation is no longer relevant.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-2017
+It looks possible that a new tide gauge has been installed at Lake Worth Pier additional historic data is also available. All the data for this station has been loaded onto the database. As there is no bench mark information the station cannot be made RLR.
+

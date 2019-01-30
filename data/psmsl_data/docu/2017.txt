@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jun-2010
+Although installed in 19.06.2005 Sinop is actually a new station to PSMSL.
+Unique id.=2017
+Coastline code=310 and Station code=024. On the Black Sea Sinop is part of the
+Turkish Sea Level Monitoring Network.
+

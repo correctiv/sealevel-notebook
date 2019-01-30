@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-2011
+Although Malmo is now inactive this historic Swedish site, data 1924-1963 has
+just been added to the database.
+

@@ -1,0 +1,18 @@
+Data 1957-1968 supplied by N.O.A.A.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Quepos              836/011 RLR(1964) is 11.9m below BM1Q
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Sep-1992
+RLR redefined with new information 14/9/92
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 06-Nov-1992
+1988-89 abnormally low effect of La Nina
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Quepos              836/011 RLR(1987) is 11.9m below BM A
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-May-1994
+1990-92 data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Dec-1994
+1993 data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Mar-1995
+Data 1971-1993 received from TOGA office replaced previous FISCHER & PORTER ADR in use since 1992
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jan-1997
+1994 data received from TOGA office
+

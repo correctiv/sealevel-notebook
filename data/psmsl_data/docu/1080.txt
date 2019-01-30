@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+S Tomas de Castilla 916/001 RLR(1976) is 8.9m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Mar-1993
+September 1961 has a large value in many Gulf of Mexico stations.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Mar-1993
+Low values in 1978 and 1979 correct in databank as received.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Oct-2012
+Santa Tomas de Castilla is an historic station last data 1983.
+

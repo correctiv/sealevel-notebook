@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Jan-2014
+Limon B is a new station. Gauge is from UHSLC and has three channels a radar gauge a pressure transducer and a Handar 436A encoder. Its position is close to former station Puerto Limon
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Oct-2015
+Using the latest JASL data the complete dataset 2009-2014 has been loaded.
+

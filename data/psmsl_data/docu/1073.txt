@@ -1,0 +1,7 @@
+DATA REVISED, VALUES FOR 1964-1988 RECEIVED FROM AUTHORITY D2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-May-2001
+Suspect value November 1991.
+Although a RLR diagram was prepared this station was never actually
+made RLR
+Maracaibo is an historic station last data 1994
+

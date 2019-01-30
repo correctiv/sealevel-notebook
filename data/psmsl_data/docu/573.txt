@@ -1,0 +1,3 @@
+Metric data measured to Normal Null (NN)
+This station is an historic station last data 1986
+

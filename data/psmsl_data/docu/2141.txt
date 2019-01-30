@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Apr-2012
+Ponza is a new station and is a small island off Italy on the Mediterranian Sea side. Data and metadata were doenloaded from the ISPRA website id no. 2141.
+

@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Nov-1993
+DATA RECEIVED FROM TOGA OFFICE
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Oct-1996
+1968-72 data have not been linked to the remaining series with either geodetic leveling or data overlap.  However, the long term difference with Kwajalein suggests these two segments at Majuro are on the same level. Data 1974 onwards filed as 720/016 Majuro B
+

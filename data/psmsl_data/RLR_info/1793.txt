@@ -1,0 +1,1 @@
+Add 4.112m to data values 1992-1995 to refer to RLR<br>Add 4.112m to data values 2004 onwards to refer to RLR<br>RLR is 13.400m below primary benchmark TGBM SC 1904 6901

@@ -1,0 +1,1 @@
+Add 6.036m to data values 1957-1964 to refer to RLR<br>Add 6.950m to data values 1965-1979 to refer to RLR<br>Add 5.730m to data values 1980 onwards to refer to RLR<br>RLR is 10.300m below primary benchmark HU 4783 4129

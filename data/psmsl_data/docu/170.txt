@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Nedre Nykoping      050/111 RLR(1920) is 7.6m below BM
+Nedre Nykoping is an historic station last data 1920
+

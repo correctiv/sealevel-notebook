@@ -1,0 +1,16 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Dec-1994
+DATA RECEIVED FROM TOGA
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Jan-1995
+gauge=Aanderaa WLR5 (bottom-mounted pressure gauge)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Nov-1997
+These  data represent inferred sea level from a sub-
+surface pressure gauge, which measures the
+combined weight of the column of water and air
+above it.  A constant atmospheric pressure has been
+subtracted, but variations in atmospheric pressure,
+which would not be sensed by a conventional float/
+well gauge, would affect the measurement of the
+sub-surface pressure gauge.
+The depth of the instrument in the water is
+ unconfirmed.
+

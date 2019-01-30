@@ -1,0 +1,1 @@
+Add 6.919m to data values 1925-1955 to refer to RLR<br>Add 6.919m to data values 1957 onwards to refer to RLR<br>RLR is 22.700m below primary benchmark G.I.  1629

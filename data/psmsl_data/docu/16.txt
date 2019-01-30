@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Lyokki              060/221 RLR(1936) is 8.5m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Lyokki              060/221 RLR(1936) is 8.5m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Sep-2002
+A description of the sea level network in Finland can be found
+in 'Operational Oceanography: Implementation at the European
+and Regional scales.  2002 (pp.129-137)'.
+1858 - 1913 VALUES BASED ON 1 READING PER DAY
+NO BM INFORMATION BUT DATA SEEMS HOMOGENEOUS
+

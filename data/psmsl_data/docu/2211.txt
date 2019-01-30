@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Feb-2014
+Fajaro is a new station. Data has been downloaded from the NOAA site. Currently there is no benchmark/datum information available so the station remains 'Metric'.
+

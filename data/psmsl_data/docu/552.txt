@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Puerto Limon        906/011 RLR(1964) is 10.2m below BM2L
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-May-1994
+1970-74, 1976-80 Data received from TOGA office
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2012
+Station is now historic last data recived was for 1968 and it no longer features on the NOAA website. Station has been labelled 'inactive'.
+

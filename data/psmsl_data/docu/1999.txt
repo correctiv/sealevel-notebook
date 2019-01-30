@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Aug-1994
+For a discussion of interannual variability of sea level along the
+coasts of Pakistan and India, see Clarke and Liu, Journal of
+Physical Oceanography, 24, 1224, 1994.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Sep-2002
+Mechanical Tide gauge with float operating from April 1986.
+Gauge failed after 1987 and was re-installed in 1993.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Nov-2002
+Gwadar              490/005 RLR(2000) is 11.024m below BM G-1
+Data for 1987 assumed to be to Chart Datum.
+Gwadar is an historic station dataset Feb-Jul 1987 only
+

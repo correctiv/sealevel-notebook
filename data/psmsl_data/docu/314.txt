@@ -1,0 +1,13 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Stornoway           170/251 RLR(1986) is 10.5m below TGBM NB4228 3264
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Jul-1994
+Gauge installed in 1928 was a Porter stilling well gauge, replaced in 1956 by a Munro, in December 1963 by a Lea, in 1983 by a Munro and from April 1985 has been an "A Class" bubbler.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Sep-1994
+Ott gauge 26 August 1981-30 July 1983
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Jan-2001
+Recent work on vertical land movements in the UK can be found from the University of Nottingham web site: http://ukcogr.iessg.nottingham.ac.uk/~eosi/ datum of observations prior to 1965 has proved unstable. 1988 datum suspect until July 18th.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Jul-2014
+There were several visits to Stornoway by TGI during 2013. 21.03.2013 visit for general maintenance. Following power problems during August TGI visited the site on 19.08.2013 to once again carry out general maintenance and replace the faulty power supply. There was also a visit on 11.12.2013 to change the compressor.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-May-2015
+There is no data for Stornoway for November and December 2014. A pontoon came adrift during storms on 06.11.14 severing all the pneumatic lines so that all channels were lost. TGI were at site 02.12.14 to repair the lines.
+

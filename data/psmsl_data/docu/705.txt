@@ -1,0 +1,5 @@
+Data revised, Values received for 1953-1988 from the Oceanographic Institute Venezuela
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Oct-1998
+La Guaira's time series appears to contain three-monthly variability connected with Caribbean eddies - see Chao and Carton in US WOCE Report for 1998, and Journal of Geophysical Research, in press as of 1998. Although a RLR diagram was prepared this station was never actually made RLR
+This is an historic station last data 1997
+

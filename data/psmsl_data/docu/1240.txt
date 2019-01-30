@@ -1,0 +1,11 @@
+1969-79(OCT) Data from readings of tide pole
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Katakolon           290/017 RLR(1977) is 9.6m below BM R11
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Katakolon           290/017 RLR(1977) is 9.6m below BM R11
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Mar-1997
+The contributing authority advises that anomalous values
+are the result of met. influences
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Aug-2013
+With the receipt of datum diagrams from the Hellenic Navy the RLR diagram has been re-drawn. As a consequence the RLR factors have changed.
+

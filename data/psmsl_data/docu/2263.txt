@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Jul-2015
+PSMSL already holds an historic dataset for Punta Arenas id. 473 dataset is for 1964-1970 which is RLR and 1942-1991 which is Metric. This permanent gauge was established in 1988.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Oct-2016
+Using information supplied by SHOA Punta Arenas has been made RLR. Primary benchmark is BM 04 4.151m above Gauge zero. RLR factor is 5.149m.
+

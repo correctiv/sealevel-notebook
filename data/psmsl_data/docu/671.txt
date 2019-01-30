@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Hakodate II         641/032 RLR(1963) is 8.0m below BM Hakodate
+This is now an historic station last data 1966
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Aug-1995
+A destructive earthquake and tsunami occurred in the Kuril Islands on 4 October 1994 - see Earth System Monitor, 5(4), June 1995.
+

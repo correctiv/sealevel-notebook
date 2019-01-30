@@ -1,0 +1,23 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Pionersky           080/179 RLR(1989) is 9.4m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Pionersky           080/179 RLR(1989) is 9.4m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Jan-1995
+This station is in Russia.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Jul-1995
+No observations made 1992-93
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-1996
+no data for 1994 - gauge malfunction
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 28-Feb-1996
+no data for 1995 - gauge malfunction
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 19-Aug-1999
+no observations conducted at this site because the tide gauge and
+level rod have been damaged
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-May-2002
+Pionersky confirmed as malfunctioned, probably in 1991;
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-May-2003
+No data in 2002 due to malfunctioning gauge.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2018
+This station was previously called Pionersky. However the World Data Center (WDC) have confirmed this postion refers to Kalininglad.
+A new tide gauge has been installed on the site of the old tide gauge. Data begins March 2016.
+

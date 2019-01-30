@@ -1,0 +1,12 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Puerto Angel        830/086 RLR(1965) is 10.2m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Puerto Angel        830/086 RLR(1965) is 10.2m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Feb-1996
+1962, 1964-66, 1979 1983 - data received from TOGA office
+Puerto Angel is an historic station lst data 1986
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jan-1997
+Large earthquake offshore of Mexico about 19 degrees North on
+9 October 1995 with large tsunami generated. See article by
+A.E.Filonov in EOS, 78(3), 1997.
+

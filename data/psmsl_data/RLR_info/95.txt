@@ -1,0 +1,1 @@
+Add 4.557m to data values 1895-1957 to refer to RLR<br>Add 4.575m to data values 1958-1973 to refer to RLR<br>Add 4.054m to data values 1974 onwards to refer to RLR<br>RLR is 10.808m below primary benchmark NZ 3592 6823

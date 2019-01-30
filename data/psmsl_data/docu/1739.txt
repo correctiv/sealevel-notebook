@@ -1,0 +1,10 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Tarawa-C, Betio     730/008 RLR(1989) is 9.2m below BM 2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Oct-1996
+primary gauge 1988-90: Leupold & Stevens Analog-to-Digital Recorder (ADR)
+primary gauge 1991 -   : Handar Encoder 436 (ENC)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Dec-1998
+data for 1995-96 revised, December 1998
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jun-2018
+Data 1998-2001 has been removed. This data was measured by the Australian National Tidal Centre's gauge (ID 1804) but was incorrectly attached to this record
+

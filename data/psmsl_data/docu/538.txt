@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Rockport            940/005 RLR(1972) is 8.2m below BM3
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Many stations on the Gulf coast have large values for September 1961.
+

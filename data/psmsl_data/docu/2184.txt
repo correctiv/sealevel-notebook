@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2014
+This dataset was originally entered onto id. 1779 Hanimaadoo A but Hanimaadoo B it is a completely different gauge which hasn't been levelled into the previous gauge. Data is from a UHSLC pressure transducer gauge. 4 sensors:
+1. Pressure transducer (PRS)
+2. Radar (RAD) (Vega Vegapuls 62)
+3. Backup pressure transducer PR2
+4. Radar (RA2) Sutron RLR
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Nov-2015
+Complete UHSLC updated dataset 2002-2014 loaded.
+

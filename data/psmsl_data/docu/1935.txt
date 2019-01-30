@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 01-Sep-2011
+Relatively new station starts July 2004. Primary Benchmark is M04T9500 5.22m above CD.Made RLR 1.9.2011
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Aug-2016
+Information gained from the Fisheries and Oceans Canada website confirms the gauge datum is now called Chart Datum (CD)
+

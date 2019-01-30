@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Abidjan             405/001 RLR(1975) is 10.9m below Repere IGNA2
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Abidjan             405/001 RLR(1975) is 10.9m below Repere IGNA2
+

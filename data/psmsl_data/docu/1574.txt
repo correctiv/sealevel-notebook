@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Vis-Ceska Vila      280/040 RLR(1985) is 12.6m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Vis-Ceska Vila      280/040 RLR(1985) is 12.6m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jan-1996
+gauge destroyed 30 June 1991
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jan-1996
+PRIOR TO 1990 DATA FROM AUTH 26
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Jan-2011
+According to the original RLR diagram this gauge was destroyed in 1991.
+

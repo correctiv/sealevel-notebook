@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Aug-2016
+Gyeongin Port is a newly supplied station
+

@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Onagawa             642/028 RLR(1957) is 10.0m below BM Onagawa
+This is an historic station last data 1960
+

@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Nov-1993
+Possible datum shift after 1957
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Mar-1994
+Data up to 1989 revised, March 1994
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Jul-1994
+Harrington Harbour  970/101 RLR(1978) is 9.2m below BM HS-5
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 20-Oct-2016
+Using revised information from the Fisheries and Oceans Canada the RLR diagram has been updated. Primary benchmark has been renamed and is now 5-1939 height remains the same at 3.257m datum name has changed to Chart Datum.
+

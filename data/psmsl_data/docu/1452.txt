@@ -1,0 +1,11 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1991
+RLR(1989) IS 8.8M BELOW BM UH-1       8/10/91
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Funafuti            732/011 RLR(1989) is 8.8m below BM UH-1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Mar-2000
+all data up to and including 1998 received from University of Hawaii Sea Level Center
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Aug-2002
+Gauge types: (Oct 1977 - Aug 1986 )Fischer and Porter Analog-to-Digital Recorder (ADR) (Aug 1986-May 1990) Leupold and Stevens Analog-to-Digital Recorder (ADR); (Aug 1986-present) Handar Encoder 436A (ENC) (Jul 1988-present) Handar Encoder 436B (ENB) with datalogger (ENO)NTF: Aquatrak acoustic gauge (SEAFRAME) from 1993 Primary gauge for UH purposes: ADR:1974-4/90, ENC 5/1990-1994 ENB: 1995-1999, NTF: 2000-
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jun-2018
+Data for 2000 and 2001 removed - this data was recorded by Australian National Tidal Centre's gauge (ID 1839) and was incorrectly attached to this site
+

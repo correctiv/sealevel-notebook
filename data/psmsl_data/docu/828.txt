@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Galveston           940/007 RLR(1971) is 14.3m below BM43
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jul-1993
+Many stations on the Gulf coast have large values for September 1961.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Jul-1994
+For a discussion of submergence near to Galveston, Freeport and Sabine Pass, see Emery and Aubrey (Sea Levels, Land Levels and Tide Gauges), 1991, Springer-Verlag, page 39.
+

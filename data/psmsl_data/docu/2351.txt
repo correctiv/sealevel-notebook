@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jul-2018
+Santa Cruz del Sur is a new Cuban station. The TGBM is 510618 2.344m above Tide gauge zero.
+

@@ -1,0 +1,6 @@
+1954 - 1961 Data supplied by the British Hydrographic Dept.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Sembawang           555/051 RLR(1955) is 9.9m below TGBM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Oct-2010
+ACD 1954-1985 is 4.892m below TGBM. ACD 1986 onwards is 4.923m below TGBM. RLR (1955) is 9.9m below TGBM.
+

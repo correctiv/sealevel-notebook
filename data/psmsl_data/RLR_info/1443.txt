@@ -1,0 +1,1 @@
+Add 5.974m to data values 1977-1997 to refer to RLR<br>Add 5.669m to data values 2000-2002 to refer to RLR<br>Add 5.859m to data values 2003 onwards to refer to RLR<br>RLR is 11.900m below primary benchmark NH 1

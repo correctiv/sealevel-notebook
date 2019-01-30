@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 13-Feb-2012
+Nedre Stockholm is no longer an active station but was added to the database so
+that all the Swedish stations are now on the database. Data spans 1774-1967.
+

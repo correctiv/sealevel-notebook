@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kaliningrad         080/181 RLR(1964) is 9.5m below BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jul-1994
+This station is in Russia. It was part of Germany before World War II.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2018
+This station was previously called Kaliningrad. However, the co-ordinates have now been verified by the World Data Center (WDC) that this position is actually Pionersky
+

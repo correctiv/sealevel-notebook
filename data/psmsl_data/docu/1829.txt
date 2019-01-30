@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Oct-1998
+Pressure tide gauge installed in November 1991 ( float/stilling
+well system was removed in 1986)
+

@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Coatzacoalcos       920/021 RLR(1958) is 19.8m below BM4
+Coatzacoalcos is an historic station last data 1987
+

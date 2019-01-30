@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Caldera             850/021 RLR(1990) is 9.4m below BM DHN No 1. Caldera is an historic station last data 1991
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Jan-1996
+There was a magnitude 7.8 earthquake about 20 km offshore of northern Chile on 30 July 1995 which produced a tsunami of 1.3 m at Caldera and which was seen in many records across the Pacific (information from NTF, Australia).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Jan-2001
+For a review of the new Chilean tide gauge network, see "Tides in the Chilean Coasts" by Juan J. Fierro, Hydro International,Jan/Feb 2001, pp.7-9. Coastline prone to earthquake activity;
+Data possibly affected as a result. Data 1950-1970 revised in April 1991
+

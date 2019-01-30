@@ -1,0 +1,9 @@
+Station moved - new data held in station 642/002
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Hachinohe I         642/001 RLR(1969) is 11.7m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Hachinohe I         642/001 RLR(1969) is 11.7m below Attached BM
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Hachinohe I ceased operating July 31st 1970, replaced by Hachinohe II
+August 3rd 1970.
+

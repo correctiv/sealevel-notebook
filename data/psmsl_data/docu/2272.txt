@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Jan-2016
+Prickly Bay, Grenada is a new station. Using information from the UH levelling sheet the station has been made RLR. Primary benchmark is UH 3 3.486m above the datum.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 21-Mar-2018
+The UHSLC comment sheet for Prickley Bay includes the following 'The data are of good quality. The 13 Feb 2018 update adjusted the level by -15mm
+

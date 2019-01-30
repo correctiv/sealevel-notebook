@@ -1,0 +1,4 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 26-Mar-2002
+Remarks sheet provided by JMA states Fukabori as ceasing operation 31st December 1964, but the PSMSL holds data for 1965, so the year could actually be 1965.
+Fukabori is an historic station last data 1965
+

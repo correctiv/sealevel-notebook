@@ -1,0 +1,20 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Noumea II           740/011 RLR(1983) is 10.4m below BMI-1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Noumea II           740/011 RLR(1983) is 10.4m below BMI-1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 08-Oct-1996
+data before November 1975 received from authority H8
+all data received via TOGA
+instrument type:OTT standard analog (OTT) 1967-11/1975;
+(Nov 1975 - Jan 1987 )Fischer and Porter Analog-to-Digital Recorder (ADR)
+(primary,Jan 1987-present) Leupold and Stevens Analog-to-Digital
+Recorder (ADR);
+(backup,Jan 1987-present) Handar Encoder (ENC)  *used as primary gauge
+ for 1990-1992
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Dec-1997
+Revised data for 1967-81 received from the UHSLC.  The Revised Local
+Reference details are no longer relevant.  The entire series is relative
+to the French  "zero de reductions des sondes 1961."  The 1975-4/1981 U
+ich were originally linked to the UH staff have now been adjusted
+to be relative to the French Zero 1961.
+

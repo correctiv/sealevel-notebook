@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Feb-2017
+Port Chicago California is a new NOAA station. This has been added to the database to give additional comparison stations.Using metadata from the NOAA website Port Chicago, California has been made RLR. Primary benchmark is 5144 H 1976 4.209m above Station Datum.
+

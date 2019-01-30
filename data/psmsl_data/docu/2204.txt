@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Feb-2014
+Yokohamashinko is a new JODC station.
+

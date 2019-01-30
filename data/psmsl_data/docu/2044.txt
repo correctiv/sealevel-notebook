@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Dec-2010
+This is a new station - first data 2007. Previously not entered as awaiting
+benchmark information. Currently benchmark details are still unknown.
+Coastline no.620 Stationcode no.042 Station id. 2044
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Jul-2012
+Following new information from the data suppliers, KHOA the values for the lat.
+and long. have been revised.
+Tide gauge is an OTT float gauge
+

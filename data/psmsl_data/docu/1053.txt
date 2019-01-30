@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Guiria              900/006 RLR(1964) is 14.3m below BM5
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Guiria              900/006 RLR(1964) is 14.3m below BM5
+Guiria is an historic station last data 1968
+

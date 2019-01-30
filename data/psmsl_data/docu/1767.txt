@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 17-Sep-1998
+data 1993-  received from UH SLC
+Instrument type: Aquatrak acoustic gauge, NOAA Next Generation
+Water Level Measuring System (NGWLMS)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 09-Aug-2000
+Lagos II gauge destroyed in storm 20th July 2000.
+

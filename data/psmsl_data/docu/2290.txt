@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-May-2016
+Puerto Padre is a newly supplied Cuban station.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Jun-2016
+Using information recently supplied from Cuba the tide gauge sensor since 1992 is a float recording hourly.
+

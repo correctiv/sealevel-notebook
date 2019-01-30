@@ -1,0 +1,6 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Ystad               050/071 RLR(1964) is 8.8m below BM c
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Jul-1993
+Ystad               050/071 RLR(1964) is 8.8m below BM c
+Ystad is an historic station last data 1981
+

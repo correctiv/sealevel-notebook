@@ -1,0 +1,17 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Apr-1995
+Station recoded as 701/001 on 27th April 1995 (was 700/001)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jul-1995
+Guam                701/001 RLR(1964) is 9.3m below BM1
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 31-Jul-1995
+Station is at Apra Harbor.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Oct-2002
+Guam - suspected land movement of 2-3cm in 1993 following earthquake.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Jul-2011
+The operators of the Guam tide gauge, Center for Operational Oceanographic Products and Services (CO-OPS) part of NOAA note that a change in the sea level trend occurs after the 1993 Guam earthquake. The stability of the tide gauge datum for the post earthquake is therefore a concern.CO-OPS continue to monitor the site.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 23-Nov-2011
+Using information from the NOAA website the RLR diagram has been revised. Previous Primary benchmark  BM 1 no longer appears in the NOAA reports. Primary benchmark NO 4 1949 2.996m above gauge datum appears on the original RLR diagram as a secondary benchmark.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 24-Apr-2018
+Comparisons of Guam tide gauge sea levels to those from satellite altimetry have shown that the apparentchanges in level around 1993 and 1999 seen in the annual MSL record are similar to those also seen in altimeter data. Therefore, although Guam does experience earthquakes and occasional changes in land level due to earthquakes cannot be ruled out, it seems that both of these particular changes are due to real ocean processes. See also the consistency of Apra Harbor levels with those from neighbouring sites discussed by Becker et al. (Global and Planetary Change, 2012)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Apr-2018
+Guam is American territory because of this Apra Harbor has been changed to the American spelling.
+

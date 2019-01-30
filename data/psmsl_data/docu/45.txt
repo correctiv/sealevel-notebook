@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Kabelvag            040/091 RLR(1964) is 8.3m below BM +3,2-51
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 30-Mar-1995
+tide gauge network modernised, new equipment installed in 1988
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 05-Sep-2012
+For information on sea level change along the Norwegian coast see paper "Contributions to sea level variability along the Norwegian coast for 1960-2010" by K Richter, J.E.O. Nilsen and H. Drange.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Jan-2018
+Monthly mean data value for December 2014 has been updated using revised data from the Norwegian Mapping Authority.
+

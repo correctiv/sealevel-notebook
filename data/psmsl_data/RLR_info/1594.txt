@@ -1,0 +1,1 @@
+Add 4.828m to data values 1984-1985 to refer to RLR<br>Add 4.825m to data values for 1986 to refer to RLR<br>Add 4.815m to data values 1987 onwards to refer to RLR<br>RLR is 10.500m below primary benchmark A0401

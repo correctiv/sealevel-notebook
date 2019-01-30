@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 27-Jan-2014
+Colombo C is a new UH station.Data was peviously added to Colombo B id.1755 but UH metadata sheets confirm there is no datum link between Colombo B and Colombo C. UH gauge has been installed in collaboration with the National Aquatic Resources Agency (NARA). Sri Lanka.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Nov-2015
+Complete updated JASL dataset has been loaded onto the database. Although there is UHSLC levelling for the site there is as yet no stable benchmark.
+

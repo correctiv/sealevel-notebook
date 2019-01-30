@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 15-Feb-2017
+Mobile State Docks Alabama is a new NOAA station. This has been added to the database to give additional comparison stations.Using metadata from the NOAA website Mobile State Docks, Alabama has been made RLR from May 2007 onwards. Primary benchmark is 7048 C 2002 2.083m above the Station Datum.
+

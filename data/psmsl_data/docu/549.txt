@@ -1,0 +1,8 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 11-Jun-1991
+Camp Cove           680/151 RLR(1969) is 8.6m below PM84
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 25-Feb-1992
+Records discontinued after 1989
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-May-1995
+Station density along some sections of the Australian coast has meant that station codes 601 onwards have been reordered compared to those in earlier versions of the PSMSL data set.
+1985 August - December, values for Fort Denison adopted 1989 July - December Fort Denison values adopted. Substituted data values are for station Sydney, Fort Denison ID 65.
+

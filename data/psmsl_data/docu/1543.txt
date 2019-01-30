@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Nov-1993
+Since 1980 monthly means received from Canadian authority are in cm.
+

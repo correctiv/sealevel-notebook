@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 16-Jan-2014
+These data were originally attached to Talara id. 475. However, Talara B is a completely separate station. Gauge is a UHSLC gauge in collaboration with Direccion Hidrografia y Navegacion de la Marina (DHNM)
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 29-Oct-2015
+Updated JASL daset through to 2014 reloaded onto the dataset. Data supplier for these data has been changed to read the UHSLC.
+

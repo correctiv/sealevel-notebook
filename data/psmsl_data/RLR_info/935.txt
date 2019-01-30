@@ -1,0 +1,1 @@
+Add 3.000m to data values 1991-2009 to refer to RLR<br>Add 2.870m to data values 2010 onwards to refer to RLR<br>RLR is 35.517m below primary benchmark NTS302 NM/G/21 491

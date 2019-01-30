@@ -1,0 +1,9 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-1996
+Data received from TOGA centre
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Feb-1996
+Source of data and no. of observations/per day unconfirmed
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Mar-2001
+Data for 1954-66 revised March 2001
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 14-Oct-2013
+UHSLC datafile d086a.tsk Jan. 1954 to Nov. 1980 added to database
+

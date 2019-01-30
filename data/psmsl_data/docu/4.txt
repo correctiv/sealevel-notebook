@@ -1,0 +1,4 @@
+1833 - 1843 values based on readings of high and low waters
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 22-Jan-2016
+A value of MTL-MSL=-2 mm has been derived from two Bermuda records. The values were derived using from the GESLA2 (high-frequency tide gauge) dataset using harmonic constituents. As the correction is only applied to RLR data and the data from 1833-1843 is metric, it is not used in the data set.  Should this period become metric in future, however, it would be used.
+

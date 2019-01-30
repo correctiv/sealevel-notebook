@@ -1,0 +1,5 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 02-Nov-1993
+Since 1980 monthly means received from Canadian authority are in cm.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 04-Apr-2012
+Last data received for this station was that for 1980.
+

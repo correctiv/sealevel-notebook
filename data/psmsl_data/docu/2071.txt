@@ -1,0 +1,7 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 18-Oct-2011
+Low Head Tasmania is a new station. Gauge zero is given as 1.852m below AHD (TAS).
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 07-Jul-2016
+Using information form the NTC website Low Head has been made RLR. Primary benchmark is SPM 9214 3.861m above the gauge datum.
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 03-Oct-2018
+Three Tasmanian stations Burnie, Devonport and Low Head have a spike in May 2016. When these are plotted together the spike gets larger as it travels around the coastline from Burnie to Devonport and finally to Low Head where the spike is so great it looks like an anomaly.
+

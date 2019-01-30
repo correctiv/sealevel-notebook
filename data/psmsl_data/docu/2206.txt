@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 10-Feb-2014
+Manazuru is a GSI station. This station has not been previously downloaded. Although the gauge was removed in March 2013 there are approximately 20 years of data from the site.
+

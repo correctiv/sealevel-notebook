@@ -1,0 +1,3 @@
+=========================== FOLLOWING PSMSL DOCUMENTATION ADDED 12-Apr-2012
+Marina di Campo is a new station on the island of Elba. Data and metadata were downloaded from the ISPRA website id no. 2140
+
