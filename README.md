@@ -5,6 +5,7 @@ Several notebooks for analysing tide measurement data. Sources are:
 - British Oceanographic Data Centre, https://www.bodc.ac.uk/
 - Center for Operational Oceanographic Products and Services, https://tidesandcurrents.noaa.gov/
 - Permanent Service of Mean Sea Level (PSMSL), http://www.psmsl.org/
+- Sea Level Trends from PSMSL, http://www.psmsl.org/products/trends/data/
 
 
 The most exhaustive data set is in the PSMSL notebook (SeaLevel_psmsl.ipynb). It includes 1505 tide gauges worldwide.
